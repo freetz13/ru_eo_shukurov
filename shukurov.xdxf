@@ -1,0 +1,3131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xdxf SYSTEM "http://xdxf.sourceforge.net/xdxf_lousy.dtd">
+<xdxf lang_from="RUS" lang_to="EPO" format="visual">
+
+<meta_info>
+<full_name>Russian-Esperanto dictionary de F. Shukurov</full_name>
+<description>Составитель: Шукуров Фирдаус. Слов: 3104+ (синонимы)</description>
+<file_ver>1.1</file_ver>
+<creation_date>30-05-2025</creation_date>
+<last_edited_date>04-06-2025</last_edited_date>
+</meta_info>
+
+<lexicon>
+
+<ar><k>а, и</k><def>kaj</def></ar>
+<ar><k>а, но, однако</k><def>sed, tamen</def></ar>
+<ar><k>абзац</k><def>alineo</def></ar>
+<ar><k>абориген, коренной житель</k><def>indiĝeno</def></ar>
+<ar><k>абсолютный, безусловный</k><def>absoluta</def></ar>
+<ar><k>абстрактный, отвлечённый</k><def>abstrakta</def></ar>
+<ar><k>абсурдный, нелепый</k><def>absurda</def></ar>
+<ar><k>авантюра, приключение</k><def>aventuro</def></ar>
+<ar><k>август</k><def>aŭgusto</def></ar>
+<ar><k>авиация</k><def>aviado</def></ar>
+<ar><k>автобус</k><def>aŭtobuso, buso</def></ar>
+<ar><k>автограф</k><def>aŭtografo</def></ar>
+<ar><k>автомат</k><def>aŭtomato</def></ar>
+<ar><k>автомобиль</k><def>aŭto(mobilo)</def></ar>
+<ar><k>автономный</k><def>aŭtonoma</def></ar>
+<ar><k>автор</k><def>aŭtoro</def></ar>
+<ar><k>авторитет</k><def>aŭtoritato</def></ar>
+<ar><k>автострада</k><def>strado</def></ar>
+<ar><k>ага, ох</k><def>oho</def></ar>
+<ar><k>агитировать, возбуждать</k><def>agiti</def></ar>
+<ar><k>аграрный</k><def>agrara</def></ar>
+<ar><k>адекватный, соответствующий</k><def>adekvata</def></ar>
+<ar><k>адрес</k><def>adreso</def></ar>
+<ar><k>академия</k><def>akademio</def></ar>
+<ar><k>акварель</k><def>akvarelo</def></ar>
+<ar><k>аккомпанировать</k><def>akompani</def></ar>
+<ar><k>аккорд</k><def>akordo</def></ar>
+<ar><k>аккуратный, пунктуальный,</k><def>akurata</def></ar>
+<ar><k>акростих</k><def>akrostilo</def></ar>
+<ar><k>акт</k><def>akto</def></ar>
+<ar><k>акт, документ</k><def>akto, dokumento</def></ar>
+<ar><k>актёр</k><def>aktoro</def></ar>
+<ar><k>активный, энергичный</k><def>aktiva</def></ar>
+<ar><k>актуальный</k><def>aktuala</def></ar>
+<ar><k>акула</k><def>ŝarko</def></ar>
+<ar><k>акустика</k><def>akustiko</def></ar>
+<ar><k>алкоголь, спирт</k><def>alkoholo</def></ar>
+<ar><k>алкогольный напиток</k><def>alkohola trinkaĵo</def></ar>
+<ar><k>аллергия</k><def>alergio</def></ar>
+<ar><k>аллея</k><def>aleo</def></ar>
+<ar><k>аллитерация</k><def>aliteracio</def></ar>
+<ar><k>алло</k><def>hallo</def></ar>
+<ar><k>алфавит</k><def>alfabeto</def></ar>
+<ar><k>алчный, жадный</k><def>avida</def></ar>
+<ar><k>альманах</k><def>almanako</def></ar>
+<ar><k>альянс</k><def>alianco</def></ar>
+<ar><k>амбразура</k><def>embrazuro</def></ar>
+<ar><k>амнистия</k><def>amnestio</def></ar>
+<ar><k>анализировать</k><def>analizi</def></ar>
+<ar><k>аналогия</k><def>analogio</def></ar>
+<ar><k>ананас</k><def>ananaso</def></ar>
+<ar><k>анахронизм</k><def>anakronismo</def></ar>
+<ar><k>ангел</k><def>anĝelo</def></ar>
+<ar><k>анекдот</k><def>anekdoto</def></ar>
+<ar><k>аномалия</k><def>anomalio</def></ar>
+<ar><k>анонимный, безымянный</k><def>anonima</def></ar>
+<ar><k>ансамбль</k><def>ensemblo</def></ar>
+<ar><k>антенна</k><def>anteno</def></ar>
+<ar><k>антология</k><def>antologio</def></ar>
+<ar><k>апельсин</k><def>oranĝo</def></ar>
+<ar><k>аплодировать</k><def>aplaŭdi</def></ar>
+<ar><k>апеллировать</k><def>apel(aci)i</def></ar>
+<ar><k>аппетит</k><def>apetito</def></ar>
+<ar><k>апрель</k><def>aprilo</def></ar>
+<ar><k>априорный</k><def>apriora</def></ar>
+<ar><k>арбуз</k><def>akvamelono</def></ar>
+<ar><k>арендовать</k><def>lui</def></ar>
+<ar><k>арестовать</k><def>aresti</def></ar>
+<ar><k>ария</k><def>ario</def></ar>
+<ar><k>арка, дуга, свод</k><def>arko, volbo</def></ar>
+<ar><k>армия</k><def>armeo</def></ar>
+<ar><k>аромат</k><def>aromo</def></ar>
+<ar><k>артерия</k><def>arterio</def></ar>
+<ar><k>артерия, магистраль</k><def>arterio</def></ar>
+<ar><k>архив</k><def>arkivo</def></ar>
+<ar><k>архитектор</k><def>arkitekto</def></ar>
+<ar><k>аспирантура</k><def>aspiranturo</def></ar>
+<ar><k>ассигновать</k><def>asigni</def></ar>
+<ar><k>астрономия</k><def>astronomio</def></ar>
+<ar><k>асфальт</k><def>asfalto</def></ar>
+<ar><k>атаковать, нападать</k><def>ataki</def></ar>
+<ar><k>атлас</k><def>atlaso</def></ar>
+<ar><k>атмосфера</k><def>atmosfero</def></ar>
+<ar><k>атом</k><def>atomo</def></ar>
+<ar><k>афиша, объявление, плакат</k><def>anonco, afiŝo</def></ar>
+<ar><k>афоризм</k><def>aforismo</def></ar>
+<ar><k>аффикс</k><def>afikso</def></ar>
+<ar><k>аэропорт</k><def>flughaveno</def></ar>
+<ar><k>багрянец, пурпур</k><def>purpuro</def></ar>
+<ar><k>базар, рынок</k><def>bazaro</def></ar>
+<ar><k>бал</k><def>balo</def></ar>
+<ar><k>баланс</k><def>bilanco</def></ar>
+<ar><k>балкон</k><def>balkono</def></ar>
+<ar><k>баллада</k><def>balado</def></ar>
+<ar><k>баллон, шар</k><def>balono</def></ar>
+<ar><k>баловать</k><def>dorloti</def></ar>
+<ar><k>баловаться, шалить</k><def>petoli</def></ar>
+<ar><k>бальзам</k><def>balzamo</def></ar>
+<ar><k>банда, шайка, клика</k><def>bando</def></ar>
+<ar><k>бандит</k><def>bandito</def></ar>
+<ar><k>банк</k><def>banko</def></ar>
+<ar><k>барабан</k><def>tamburo</def></ar>
+<ar><k>барахтаться, метаться</k><def>barakti</def></ar>
+<ar><k>бард</k><def>bardo</def></ar>
+<ar><k>барельеф</k><def>bareliefo</def></ar>
+<ar><k>барка, баркас</k><def>barko</def></ar>
+<ar><k>барщина</k><def>servuto</def></ar>
+<ar><k>басня, изречение</k><def>fablo, eldiraĵo</def></ar>
+<ar><k>бассейн</k><def>baseno</def></ar>
+<ar><k>бастовать</k><def>striki</def></ar>
+<ar><k>башмак, ботинок</k><def>ŝuo</def></ar>
+<ar><k>башня, вышка</k><def>turo</def></ar>
+<ar><k>бедность</k><def>malriĉeco</def></ar>
+<ar><k>бедность, нужда</k><def>mizero</def></ar>
+<ar><k>бедный</k><def>malriĉa, povra</def></ar>
+<ar><k>бежать</k><def>kuri</def></ar>
+<ar><k>без</k><def>sen</def></ar>
+<ar><k>беззаботный</k><def>senzorga</def></ar>
+<ar><k>беззвучный</k><def>senvoĉa</def></ar>
+<ar><k>безмятежный, блаженный</k><def>beata</def></ar>
+<ar><k>безопасный</k><def>sekura</def></ar>
+<ar><k>безразличный, равнодушный</k><def>indiferenta</def></ar>
+<ar><k>беловой, чистовой</k><def>neta</def></ar>
+<ar><k>белок, протеин</k><def>proteino</def></ar>
+<ar><k>белокурый</k><def>blonda</def></ar>
+<ar><k>белый</k><def>blanka</def></ar>
+<ar><k>бензин</k><def>benzino</def></ar>
+<ar><k>берег</k><def>bordo</def></ar>
+<ar><k>берёза</k><def>betulo</def></ar>
+<ar><k>беречь, хранить</k><def>gardi</def></ar>
+<ar><k>беседовать, разговаривать</k><def>konversacii</def></ar>
+<ar><k>беспокоить, стеснять,</k><def>ĝeni</def></ar>
+<ar><k>беспокоиться</k><def>maltrankviliĝi</def></ar>
+<ar><k>беспокойство</k><def>ekscitiĝo</def></ar>
+<ar><k>беспричинно</k><def>sen kialo</def></ar>
+<ar><k>бессмыслица, галиматья</k><def>galimatio</def></ar>
+<ar><k>бесстыдный, наглый</k><def>impertinenta</def></ar>
+<ar><k>бесчисленный</k><def>nekalkulebla</def></ar>
+<ar><k>бетон</k><def>betono</def></ar>
+<ar><k>бешенный, свирепый, яростный</k><def>furioza</def></ar>
+<ar><k>библиотека</k><def>biblioteko</def></ar>
+<ar><k>библия</k><def>biblio</def></ar>
+<ar><k>билет</k><def>bileto</def></ar>
+<ar><k>биография</k><def>biografio</def></ar>
+<ar><k>бить, ударять</k><def>bati</def></ar>
+<ar><k>бить, ударять, стучать</k><def>bati,frapi</def></ar>
+<ar><k>благодарить</k><def>danki</def></ar>
+<ar><k>благоразумный</k><def>prudenta</def></ar>
+<ar><k>благородный,</k><def>nobla</def></ar>
+<ar><k>благосклонный</k><def>favora</def></ar>
+<ar><k>благотворительность</k><def>filantropio</def></ar>
+<ar><k>бледный</k><def>pala</def></ar>
+<ar><k>блекнуть, вянуть</k><def>velki</def></ar>
+<ar><k>блестеть, сиять</k><def>brili</def></ar>
+<ar><k>близкий</k><def>proksima</def></ar>
+<ar><k>близко, почти</k><def>proksime, preskaŭ</def></ar>
+<ar><k>близорукий</k><def>miopa</def></ar>
+<ar><k>блоха</k><def>pulo</def></ar>
+<ar><k>блюдо (еда и посуда)</k><def>plado</def></ar>
+<ar><k>бог</k><def>dio</def></ar>
+<ar><k>богослужение</k><def>diservo</def></ar>
+<ar><k>бокал, кубок</k><def>pokalo</def></ar>
+<ar><k>больница</k><def>hospitalo</def></ar>
+<ar><k>большой</k><def>granda</def></ar>
+<ar><k>бомба</k><def>bombo</def></ar>
+<ar><k>бордюр</k><def>bordero</def></ar>
+<ar><k>борода</k><def>barbo</def></ar>
+<ar><k>борозда, грядка</k><def>sulko</def></ar>
+<ar><k>бороздить, пахать</k><def>plugi</def></ar>
+<ar><k>бороться, драться</k><def>batali, lukti</def></ar>
+<ar><k>бочка</k><def>barelo</def></ar>
+<ar><k>бояться</k><def>timi</def></ar>
+<ar><k>бравурность</k><def>bravuro</def></ar>
+<ar><k>бракосочетание, свадьба</k><def>nupto, edziĝfesto</def></ar>
+<ar><k>бранить, распекать</k><def>skoldi</def></ar>
+<ar><k>брат</k><def>frato</def></ar>
+<ar><k>бревно, брус, балка</k><def>trabo</def></ar>
+<ar><k>бремя, груз, нагрузка</k><def>malfacilaĵo</def></ar>
+<ar><k>брешь, прорезь, ущерб</k><def>breĉo, fendo</def></ar>
+<ar><k>бригада</k><def>brigado</def></ar>
+<ar><k>брить</k><def>razi</def></ar>
+<ar><k>бровь</k><def>brovo</def></ar>
+<ar><k>бродить, блуждать</k><def>vagi, vagadi</def></ar>
+<ar><k>бродяга</k><def>vagabondo</def></ar>
+<ar><k>брожение</k><def>zimo</def></ar>
+<ar><k>бронза</k><def>bronzo</def></ar>
+<ar><k>бросать, кидать, метать</k><def>ĵeti</def></ar>
+<ar><k>брошюра</k><def>broŝuro</def></ar>
+<ar><k>брусок</k><def>briko</def></ar>
+<ar><k>брызгать, прыскать</k><def>ŝpruci</def></ar>
+<ar><k>брюки</k><def>pantalono</def></ar>
+<ar><k>брюхо, живот, утроба, чрево</k><def>ventro</def></ar>
+<ar><k>будить, пробуждать</k><def>veki</def></ar>
+<ar><k>будущее, будущее время</k><def>estonto, futuro</def></ar>
+<ar><k>буква</k><def>litero</def></ar>
+<ar><k>булка</k><def>bulko</def></ar>
+<ar><k>бульвар</k><def>bulvardo</def></ar>
+<ar><k>бумага</k><def>papero</def></ar>
+<ar><k>бунтовщик</k><def>ribelulo</def></ar>
+<ar><k>буржуа, мещанин</k><def>burĝo</def></ar>
+<ar><k>бурить, сверлить</k><def>bori</def></ar>
+<ar><k>буря</k><def>tempesto</def></ar>
+<ar><k>бутыль, стекло</k><def>botelo, vitro</def></ar>
+<ar><k>буфет</k><def>bufedo</def></ar>
+<ar><k>бы ни</k><def>ajn</def></ar>
+<ar><k>бык</k><def>bovo</def></ar>
+<ar><k>быстрый, бодрый</k><def>rapida, vigla</def></ar>
+<ar><k>быть в долгу</k><def>ŝuldi</def></ar>
+<ar><k>быть в изобилии</k><def>abundi</def></ar>
+<ar><k>быть вакантным, свободным</k><def>vaki</def></ar>
+<ar><k>быть знакомым</k><def>esti konata</def></ar>
+<ar><k>быть информированным</k><def>informiĝi</def></ar>
+<ar><k>быть необходимым</k><def>esti necesa</def></ar>
+<ar><k>быть неподвижным</k><def>stagni</def></ar>
+<ar><k>быть обязанным</k><def>devi</def></ar>
+<ar><k>быть прерывистым</k><def>intermiti</def></ar>
+<ar><k>быть склонным</k><def>emi</def></ar>
+<ar><k>быть срочным, неотложным</k><def>urĝi</def></ar>
+<ar><k>быть, находиться</k><def>esti</def></ar>
+<ar><k>бюллетень</k><def>bulteno</def></ar>
+<ar><k>бюрократ</k><def>burokrato</def></ar>
+<ar><k>в качестве</k><def>kiel</def></ar>
+<ar><k>вагон</k><def>vagono</def></ar>
+<ar><k>важный</k><def>grava</def></ar>
+<ar><k>вакуум</k><def>vakuo</def></ar>
+<ar><k>вакханалия</k><def>bakĥanalio</def></ar>
+<ar><k>вал, ось</k><def>akso</def></ar>
+<ar><k>ванна, чан</k><def>kuvo</def></ar>
+<ar><k>варвар</k><def>barbaro</def></ar>
+<ar><k>вариант</k><def>varianto</def></ar>
+<ar><k>варить, готовить пищу</k><def>kuiri</def></ar>
+<ar><k>ваять, лепить</k><def>skulpti</def></ar>
+<ar><k>вводить, посвящать (во что-то)</k><def>inici</def></ar>
+<ar><k>вдова</k><def>vidvino</def></ar>
+<ar><k>вдохновение</k><def>inspiro</def></ar>
+<ar><k>вдохновлять</k><def>inspiri</def></ar>
+<ar><k>ведро</k><def>sitelo</def></ar>
+<ar><k>ведь, же</k><def>ja</def></ar>
+<ar><k>вежливость, учтивость</k><def>afablo, ĝentilo</def></ar>
+<ar><k>вежливый, любезный</k><def>afabla, ĝentila</def></ar>
+<ar><k>веко</k><def>palpebro</def></ar>
+<ar><k>великий</k><def>granda</def></ar>
+<ar><k>великодушный</k><def>grandanima</def></ar>
+<ar><k>великолепие, пышность</k><def>lukso</def></ar>
+<ar><k>великолепие, роскошь</k><def>pompo</def></ar>
+<ar><k>великолепный</k><def>superba</def></ar>
+<ar><k>величественный</k><def>majesta, sublima</def></ar>
+<ar><k>велосипед</k><def>biciklo</def></ar>
+<ar><k>вентиль</k><def>valvo</def></ar>
+<ar><k>вера, вероисповедание</k><def>kredo, konfesio</def></ar>
+<ar><k>верблюд</k><def>kamelo</def></ar>
+<ar><k>вербовать</k><def>varbi</def></ar>
+<ar><k>вереск, чепуха, вздор</k><def>eriko, absurdo</def></ar>
+<ar><k>верный, преданный</k><def>fidela</def></ar>
+<ar><k>вероятный, возможный</k><def>eventuala, probabla</def></ar>
+<ar><k>версия, легенда</k><def>versio, legendo</def></ar>
+<ar><k>верстать</k><def>paĝaranĝi</def></ar>
+<ar><k>вертеть</k><def>kirli</def></ar>
+<ar><k>вертеть, крутить</k><def>turni</def></ar>
+<ar><k>верх, вершина</k><def>supro</def></ar>
+<ar><k>вершина, верхушка, пик</k><def>pinto, supro</def></ar>
+<ar><k>вес</k><def>pezo</def></ar>
+<ar><k>веселый</k><def>gaja</def></ar>
+<ar><k>весить, иметь вес</k><def>pezi</def></ar>
+<ar><k>весна</k><def>printempo</def></ar>
+<ar><k>вести переговоры</k><def>trakti</def></ar>
+<ar><k>вести себя</k><def>konduti</def></ar>
+<ar><k>вестник, глашатай</k><def>heroldo</def></ar>
+<ar><k>вестник, гонец, курьер</k><def>heroldo</def></ar>
+<ar><k>весь, целый</k><def>tuta</def></ar>
+<ar><k>ветвь, ветка, отрасль</k><def>branĉo</def></ar>
+<ar><k>ветер</k><def>vento</def></ar>
+<ar><k>ветеран</k><def>veterano</def></ar>
+<ar><k>ветхий, дряхлый</k><def>kaduka</def></ar>
+<ar><k>вечер</k><def>vespero</def></ar>
+<ar><k>вечный</k><def>eterna</def></ar>
+<ar><k>вешать, подвешивать</k><def>pendigi</def></ar>
+<ar><k>вещество</k><def>aĵo, substanco</def></ar>
+<ar><k>вещь, предмет</k><def>objekto</def></ar>
+<ar><k>взбалтывать</k><def>kirli</def></ar>
+<ar><k>взбираться, подниматься</k><def>grimpi</def></ar>
+<ar><k>взвешивать</k><def>pesi</def></ar>
+<ar><k>вздутый, пухлый</k><def>pufa</def></ar>
+<ar><k>вздыхать, стонать</k><def>suspiri</def></ar>
+<ar><k>взорваться</k><def>eksplodi</def></ar>
+<ar><k>взрослый</k><def>adolta</def></ar>
+<ar><k>взрывать</k><def>eksplodigi</def></ar>
+<ar><k>взять взаймы</k><def>prunti</def></ar>
+<ar><k>вибрировать</k><def>vibri</def></ar>
+<ar><k>вид, силуэт</k><def>aspekto, silueto</def></ar>
+<ar><k>вид, сорт</k><def>speco</def></ar>
+<ar><k>виза</k><def>vizo</def></ar>
+<ar><k>визжать</k><def>jelpi</def></ar>
+<ar><k>викторина</k><def>kvizo</def></ar>
+<ar><k>вилка</k><def>forko</def></ar>
+<ar><k>вино</k><def>vino</def></ar>
+<ar><k>виноватый, виновный</k><def>kulpa</def></ar>
+<ar><k>виноград</k><def>vinbero, uvo</def></ar>
+<ar><k>виолончель</k><def>violonĉelo</def></ar>
+<ar><k>висеть</k><def>pendi</def></ar>
+<ar><k>висок</k><def>tempio</def></ar>
+<ar><k>витраж</k><def>vitralo</def></ar>
+<ar><k>витрина</k><def>vitrino</def></ar>
+<ar><k>включать в работу</k><def>funkciigi</def></ar>
+<ar><k>включительно</k><def>inkluzive</def></ar>
+<ar><k>вкус</k><def>gusto</def></ar>
+<ar><k>владеть языком</k><def>posedi lingvon</def></ar>
+<ar><k>владеть, обладать</k><def>posedi</def></ar>
+<ar><k>влажный</k><def>humida</def></ar>
+<ar><k>власти</k><def>aŭtoritatoj</def></ar>
+<ar><k>власть, господство</k><def>potenco</def></ar>
+<ar><k>влечение, интерес</k><def>emo, intereso</def></ar>
+<ar><k>вместо, взамен</k><def>anstataŭ</def></ar>
+<ar><k>вне, снаружи</k><def>ekster</def></ar>
+<ar><k>внезапно, неожиданно</k><def>subite</def></ar>
+<ar><k>внезапный, резкий</k><def>abrupta</def></ar>
+<ar><k>внешность</k><def>aspekto</def></ar>
+<ar><k>внешность, фигура</k><def>aspekto, staturo</def></ar>
+<ar><k>внимание</k><def>atento</def></ar>
+<ar><k>внимательный</k><def>atenta</def></ar>
+<ar><k>вносить вклад</k><def>kontribui</def></ar>
+<ar><k>вносить раскол</k><def>skismi</def></ar>
+<ar><k>внук</k><def>nepo</def></ar>
+<ar><k>внушать, поучать</k><def>sugesti</def></ar>
+<ar><k>во все стороны</k><def>ĉien</def></ar>
+<ar><k>вода</k><def>akvo</def></ar>
+<ar><k>водитель, шофёр</k><def>ŝoforo</def></ar>
+<ar><k>воевать</k><def>militi</def></ar>
+<ar><k>возглас</k><def>eksklam(aci)o</def></ar>
+<ar><k>воздействовать</k><def>efiki</def></ar>
+<ar><k>воздерживаться</k><def>abstini</def></ar>
+<ar><k>воздух</k><def>aero</def></ar>
+<ar><k>возможность</k><def>ebleco</def></ar>
+<ar><k>возмущаться</k><def>indigni</def></ar>
+<ar><k>вознаграждать</k><def>rekompenci</def></ar>
+<ar><k>возникать, появляться</k><def>aperi</def></ar>
+<ar><k>возражать, протестовать</k><def>obĵeti, protesti</def></ar>
+<ar><k>возраст</k><def>aĝo</def></ar>
+<ar><k>возрождение</k><def>renesanco</def></ar>
+<ar><k>воин</k><def>batalanto</def></ar>
+<ar><k>война</k><def>milito</def></ar>
+<ar><k>войско, труппа, отряд</k><def>armeo, trupo</def></ar>
+<ar><k>вокруг, около</k><def>ĉirkaŭ</def></ar>
+<ar><k>волна</k><def>ondo</def></ar>
+<ar><k>волнение, аффект</k><def>afekcio</def></ar>
+<ar><k>волнение, потрясение</k><def>ekscitiĝo</def></ar>
+<ar><k>волновать, вызывать</k><def>eksciti</def></ar>
+<ar><k>волокно, струна</k><def>fibro, kordo</def></ar>
+<ar><k>волокуша</k><def>trensledo</def></ar>
+<ar><k>волос</k><def>haro</def></ar>
+<ar><k>волочить, тащить</k><def>treni</def></ar>
+<ar><k>воображать, представлять</k><def>imagi, reprezenti</def></ar>
+<ar><k>вооружать</k><def>armi</def></ar>
+<ar><k>ворковать</k><def>kveri</def></ar>
+<ar><k>воробей</k><def>pasero</def></ar>
+<ar><k>восемь</k><def>ok</def></ar>
+<ar><k>воск</k><def>vakso</def></ar>
+<ar><k>восклицать</k><def>eksklam(aci)i</def></ar>
+<ar><k>воскресенье</k><def>dimanĉo</def></ar>
+<ar><k>воспитывать, выращивать</k><def>eduki</def></ar>
+<ar><k>воспоминание</k><def>rememoro</def></ar>
+<ar><k>восставать</k><def>ribeli</def></ar>
+<ar><k>восстание</k><def>ribelo</def></ar>
+<ar><k>восток</k><def>oriento</def></ar>
+<ar><k>восхваление, описание</k><def>glorado, priskribo</def></ar>
+<ar><k>восхищать, очаровывать</k><def>ravi</def></ar>
+<ar><k>восхищаться, любоваться</k><def>admiri</def></ar>
+<ar><k>восходить, подниматься</k><def>ascendi</def></ar>
+<ar><k>вот</k><def>jen</def></ar>
+<ar><k>впадать в ярость</k><def>furioziĝi</def></ar>
+<ar><k>временный</k><def>provizora</def></ar>
+<ar><k>время</k><def>tempo</def></ar>
+<ar><k>всё</k><def>ĉiom</def></ar>
+<ar><k>всё (окружающее)</k><def>ĉio</def></ar>
+<ar><k>всегда, всё время</k><def>ĉiam</def></ar>
+<ar><k>вселенная</k><def>universo</def></ar>
+<ar><k>всеобщий</k><def>ĝenerala</def></ar>
+<ar><k>всеобщий, всемирный</k><def>universala, tutmonda</def></ar>
+<ar><k>всесторонний</k><def>ĉiuflanka</def></ar>
+<ar><k>вскоре, скоро</k><def>baldaŭ</def></ar>
+<ar><k>встать на дыбы</k><def>baŭmi</def></ar>
+<ar><k>встреча</k><def>renkontiĝo</def></ar>
+<ar><k>встреча, свидание</k><def>rendevuo</def></ar>
+<ar><k>встречать</k><def>renkonti</def></ar>
+<ar><k>всякий, каждый, любой</k><def>ĉia</def></ar>
+<ar><k>всячески</k><def>ĉiel</def></ar>
+<ar><k>вторгаться, проникать</k><def>invadi</def></ar>
+<ar><k>вторник</k><def>mardo</def></ar>
+<ar><k>вуаль</k><def>vualo</def></ar>
+<ar><k>вулкан</k><def>vulkano</def></ar>
+<ar><k>вулканизировать</k><def>vulkanizi</def></ar>
+<ar><k>вульгарный</k><def>vulgara</def></ar>
+<ar><k>вы, ты</k><def>vi</def></ar>
+<ar><k>выбирать, избирать</k><def>elekti</def></ar>
+<ar><k>выборы</k><def>elektado</def></ar>
+<ar><k>вывод, следствие</k><def>konkludo</def></ar>
+<ar><k>выглядеть, иметь вид</k><def>aspekti</def></ar>
+<ar><k>выглядеть, иметь вид</k><def>aspekti</def></ar>
+<ar><k>выгода, польза</k><def>utilo</def></ar>
+<ar><k>выгода, польза, прибыль</k><def>profito</def></ar>
+<ar><k>выдающийся, знаменитый</k><def>eminenta</def></ar>
+<ar><k>выдающийся, известный</k><def>eminenta</def></ar>
+<ar><k>выделение, подчеркивание</k><def>emfazo</def></ar>
+<ar><k>вызывать запор</k><def>konstipi</def></ar>
+<ar><k>вызывать, бросать вызов</k><def>defii</def></ar>
+<ar><k>выиграть, выигрывать</k><def>gajni</def></ar>
+<ar><k>выписывать, подписываться</k><def>aboniĝi</def></ar>
+<ar><k>выплёвывать, харкать</k><def>sputi</def></ar>
+<ar><k>выполнять, соблюдать</k><def>plenumi, observi</def></ar>
+<ar><k>выражать</k><def>esprimi</def></ar>
+<ar><k>выслеживать, подстерегать</k><def>gvati</def></ar>
+<ar><k>высмеивать, издеваться</k><def>moki, sarkasmi</def></ar>
+<ar><k>высокий, возвышенный,</k><def>alta</def></ar>
+<ar><k>высокий, громкий</k><def>alta, laŭta</def></ar>
+<ar><k>выставка, демонстрация</k><def>ekspozicio</def></ar>
+<ar><k>выставлять напоказ</k><def>paradi</def></ar>
+<ar><k>высший</k><def>supera</def></ar>
+<ar><k>вытирать</k><def>viŝi</def></ar>
+<ar><k>вычислять</k><def>elkalkuli</def></ar>
+<ar><k>выявлять, обнаруживать</k><def>malkaŝi</def></ar>
+<ar><k>гавань, порт</k><def>haveno</def></ar>
+<ar><k>газ</k><def>gaso</def></ar>
+<ar><k>газета</k><def>gazeto, ĵurnalo</def></ar>
+<ar><k>галерея</k><def>galerio</def></ar>
+<ar><k>галстук</k><def>kravato</def></ar>
+<ar><k>гамак</k><def>hamako</def></ar>
+<ar><k>гамма</k><def>gamo</def></ar>
+<ar><k>гарантировать</k><def>garantii</def></ar>
+<ar><k>гармония, согласие</k><def>harmonio</def></ar>
+<ar><k>гасить, глушить</k><def>estingi, ĵami</def></ar>
+<ar><k>гастрит</k><def>gastrito</def></ar>
+<ar><k>гвоздь</k><def>najlo</def></ar>
+<ar><k>генерировать, плодить</k><def>generi</def></ar>
+<ar><k>герб, знак,</k><def>blazono, signo</def></ar>
+<ar><k>герб, клеймо, штамп</k><def>blazono, stampo</def></ar>
+<ar><k>герметический</k><def>hermet(ik)a</def></ar>
+<ar><k>герой</k><def>heroo</def></ar>
+<ar><k>гид, экскурсовод</k><def>ĉiĉerono</def></ar>
+<ar><k>гимн</k><def>himno</def></ar>
+<ar><k>гимнастика</k><def>gimnastiko</def></ar>
+<ar><k>глава</k><def>ĉapitro</def></ar>
+<ar><k>главный, решающий</k><def>ĉefa</def></ar>
+<ar><k>глаз</k><def>okulo</def></ar>
+<ar><k>гласность</k><def>glasnosto</def></ar>
+<ar><k>гласный звук</k><def>vokalo</def></ar>
+<ar><k>глина, грязь</k><def>koto</def></ar>
+<ar><k>глотать</k><def>gluti</def></ar>
+<ar><k>глотка, зев</k><def>faŭko</def></ar>
+<ar><k>глубокий</k><def>profunda</def></ar>
+<ar><k>глупый, тупой</k><def>stulta</def></ar>
+<ar><k>глухой</k><def>surda</def></ar>
+<ar><k>глушить</k><def>ĵami</def></ar>
+<ar><k>гнать, подгонять</k><def>peli</def></ar>
+<ar><k>гнездо</k><def>nesto</def></ar>
+<ar><k>гнить, разлагаться,</k><def>putri</def></ar>
+<ar><k>гнуть, сгибать</k><def>fleksi</def></ar>
+<ar><k>говорить</k><def>paroli</def></ar>
+<ar><k>год</k><def>jaro</def></ar>
+<ar><k>годиться</k><def>taŭgi</def></ar>
+<ar><k>голова</k><def>kapo</def></ar>
+<ar><k>головоломка</k><def>puzlo</def></ar>
+<ar><k>голос, тон, звук</k><def>voĉo, tono</def></ar>
+<ar><k>голубой, синий</k><def>blua</def></ar>
+<ar><k>голубь</k><def>kolombo</def></ar>
+<ar><k>голый, обнажённый</k><def>nuda</def></ar>
+<ar><k>гора</k><def>monto</def></ar>
+<ar><k>гордый, высокомерный</k><def>fiera</def></ar>
+<ar><k>гореть, пылать</k><def>bruli</def></ar>
+<ar><k>горизонт</k><def>horizonto</def></ar>
+<ar><k>горизонталь</k><def>horizontalo</def></ar>
+<ar><k>горло</k><def>gorĝo</def></ar>
+<ar><k>горная порода</k><def>roko</def></ar>
+<ar><k>город</k><def>urbo</def></ar>
+<ar><k>городской район</k><def>urboparto</def></ar>
+<ar><k>горох</k><def>pizo</def></ar>
+<ar><k>горький</k><def>amara</def></ar>
+<ar><k>господин</k><def>sinjoro</def></ar>
+<ar><k>господствовать</k><def>domini</def></ar>
+<ar><k>гостиная, гостиница</k><def>gastejo, hotelo</def></ar>
+<ar><k>гость</k><def>gasto</def></ar>
+<ar><k>государственная казна</k><def>fisko</def></ar>
+<ar><k>государственный строй</k><def>reĝimo</def></ar>
+<ar><k>государство</k><def>regno, ŝtato</def></ar>
+<ar><k>готовить</k><def>prepari</def></ar>
+<ar><k>готовый</k><def>preta</def></ar>
+<ar><k>грабить, отнимать</k><def>rabi</def></ar>
+<ar><k>град</k><def>hajlo</def></ar>
+<ar><k>градация, постепенность</k><def>gradacio</def></ar>
+<ar><k>гражданин</k><def>civitano</def></ar>
+<ar><k>гражданский</k><def>civila</def></ar>
+<ar><k>грамматика</k><def>gramatiko</def></ar>
+<ar><k>грандиозный</k><def>grandioza</def></ar>
+<ar><k>гранит</k><def>granito</def></ar>
+<ar><k>граница, предел</k><def>limo</def></ar>
+<ar><k>грань</k><def>faceto</def></ar>
+<ar><k>грациозный, изящный</k><def>eleganta</def></ar>
+<ar><k>греза, мысль</k><def>sonĝo, penso</def></ar>
+<ar><k>греческий</k><def>greka</def></ar>
+<ar><k>грива</k><def>kolhararo</def></ar>
+<ar><k>гримаса</k><def>grimaco</def></ar>
+<ar><k>гроб</k><def>ĉerko</def></ar>
+<ar><k>гром</k><def>tondro</def></ar>
+<ar><k>громадный, огромный</k><def>enorma, granda</def></ar>
+<ar><k>громить, сокрушать</k><def>frakasi</def></ar>
+<ar><k>громкий голос</k><def>laŭta voĉo</def></ar>
+<ar><k>громкоговоритель</k><def>megafono</def></ar>
+<ar><k>грубый, вульгарный</k><def>malafabla, kruda</def></ar>
+<ar><k>грубый, резкий</k><def>bruska</def></ar>
+<ar><k>грудь</k><def>mamo, brusto</def></ar>
+<ar><k>груз</k><def>ŝar ĝo</def></ar>
+<ar><k>грузовик</k><def>kamiono</def></ar>
+<ar><k>грунт, глина, земля</k><def>grundo, argilo</def></ar>
+<ar><k>грустный</k><def>malgaja</def></ar>
+<ar><k>грустный, печальный</k><def>trista</def></ar>
+<ar><k>грусть, меланхолия</k><def>melankolio</def></ar>
+<ar><k>грыжа</k><def>hernio</def></ar>
+<ar><k>грядка</k><def>bedo</def></ar>
+<ar><k>грязный, неопрятный</k><def>malpura</def></ar>
+<ar><k>губа</k><def>lipo</def></ar>
+<ar><k>гулять, прогуливаться</k><def>promeni</def></ar>
+<ar><k>гуманный, человеколюбивый</k><def>humana</def></ar>
+<ar><k>гусь</k><def>ansero</def></ar>
+<ar><k>да</k><def>jes</def></ar>
+<ar><k>давать оценку</k><def>doni poenton</def></ar>
+<ar><k>давить, жать, пожимать</k><def>premi</def></ar>
+<ar><k>даже</k><def>eĉ</def></ar>
+<ar><k>дар, подарок</k><def>donaco</def></ar>
+<ar><k>дата, число</k><def>dato</def></ar>
+<ar><k>двигать, передвигать</k><def>movi</def></ar>
+<ar><k>двигаться</k><def>moviĝi</def></ar>
+<ar><k>движение</k><def>movo</def></ar>
+<ar><k>двор</k><def>korto</def></ar>
+<ar><k>дворец, замок</k><def>palaco, kastelo</def></ar>
+<ar><k>дворянин, аристократ</k><def>nobelo, aristokrato</def></ar>
+<ar><k>двоюродный брат</k><def>kuzo</def></ar>
+<ar><k>двусмысленный</k><def>ambigua</def></ar>
+<ar><k>девиз, лозунг</k><def>devizo, slogano</def></ar>
+<ar><k>девять</k><def>naŭ</def></ar>
+<ar><k>дед, дедушка</k><def>avo</def></ar>
+<ar><k>дежурить</k><def>deĵori</def></ar>
+<ar><k>действенный</k><def>efektiva</def></ar>
+<ar><k>действительный</k><def>valida</def></ar>
+<ar><k>действовать наперекор</k><def>spiti</def></ar>
+<ar><k>действовать, поступать</k><def>agi</def></ar>
+<ar><k>делать вывод, заключать</k><def>konkludi</def></ar>
+<ar><k>делать заранее</k><def>anticipi</def></ar>
+<ar><k>делать инъекцию</k><def>injekti</def></ar>
+<ar><k>делать кое-как</k><def>fuŝi</def></ar>
+<ar><k>делать прическу</k><def>frizi</def></ar>
+<ar><k>делать эскиз, набросок</k><def>skizi</def></ar>
+<ar><k>делать, изготовлять</k><def>fari</def></ar>
+<ar><k>делегат</k><def>delegato</def></ar>
+<ar><k>делегация</k><def>delegacio</def></ar>
+<ar><k>делегировать</k><def>delegi</def></ar>
+<ar><k>деликатный, изящный</k><def>delikata</def></ar>
+<ar><k>делить, разделять</k><def>dividi</def></ar>
+<ar><k>дело, занятие</k><def>afero</def></ar>
+<ar><k>демонстрировать</k><def>demonstri</def></ar>
+<ar><k>денежный оборот</k><def>spezo</def></ar>
+<ar><k>день</k><def>tago</def></ar>
+<ar><k>деньги, финансы</k><def>mono, financoj</def></ar>
+<ar><k>деталь</k><def>detalo</def></ar>
+<ar><k>дефект</k><def>defekto</def></ar>
+<ar><k>джин</k><def>ĝino</def></ar>
+<ar><k>джинсы</k><def>ĵinso</def></ar>
+<ar><k>джунгли, заросли</k><def>ĝangalo</def></ar>
+<ar><k>диакритический</k><def>diakrita</def></ar>
+<ar><k>диалект</k><def>dialekta</def></ar>
+<ar><k>диета</k><def>dieto</def></ar>
+<ar><k>дикий</k><def>sovaĝa</def></ar>
+<ar><k>дикий кабан</k><def>apro</def></ar>
+<ar><k>диктатор</k><def>diktatoro</def></ar>
+<ar><k>диск, грампластинка</k><def>disko</def></ar>
+<ar><k>дискутировать, трактовать</k><def>diskuti, trakti</def></ar>
+<ar><k>диссертация</k><def>disertaĵo</def></ar>
+<ar><k>дисциплина</k><def>disciplino</def></ar>
+<ar><k>дитя</k><def>bebo, infano</def></ar>
+<ar><k>для, ради</k><def>por</def></ar>
+<ar><k>дневник</k><def>tagĵurnalo</def></ar>
+<ar><k>до</k><def>ĝis</def></ar>
+<ar><k>доброе имя</k><def>bonfama</def></ar>
+<ar><k>доверие, авторитет</k><def>fido, aŭtoritato</def></ar>
+<ar><k>доверять что-нибудь</k><def>konfidi</def></ar>
+<ar><k>доверять, верить, полагаться</k><def>fidi, kredi</def></ar>
+<ar><k>довольный, удовлетворённый</k><def>kontenta</def></ar>
+<ar><k>догадываться</k><def>konjekti</def></ar>
+<ar><k>дождь</k><def>pluvo</def></ar>
+<ar><k>доза, число</k><def>dozo, nombro</def></ar>
+<ar><k>доказывать</k><def>pruvi</def></ar>
+<ar><k>доклад, лекция</k><def>prelego</def></ar>
+<ar><k>долг, обязательство</k><def>devo</def></ar>
+<ar><k>долгий, продолжительный</k><def>longa</def></ar>
+<ar><k>должность, пост</k><def>posteno</def></ar>
+<ar><k>должность, задание, задача</k><def>ofico, tasko</def></ar>
+<ar><k>долина</k><def>valo</def></ar>
+<ar><k>доля, частица</k><def>ero, peceto</def></ar>
+<ar><k>доля, часть, кусок, деталь</k><def>peco, parto</def></ar>
+<ar><k>дом, комната</k><def>domo, ĉambro</def></ar>
+<ar><k>доминировать</k><def>domini</def></ar>
+<ar><k>дополнение, приложение</k><def>suplemento</def></ar>
+<ar><k>дополнительный, второстепенный</k><def>akcesora</def></ar>
+<ar><k>допускать, предполагать</k><def>supozi, hipotezi</def></ar>
+<ar><k>дорога, путь</k><def>vojo</def></ar>
+<ar><k>дорогой</k><def>kara</def></ar>
+<ar><k>дорожка, тропа, тротуар</k><def>pado, trotuaro</def></ar>
+<ar><k>доска</k><def>tabulo</def></ar>
+<ar><k>доставлять, поставлять</k><def>liveri</def></ar>
+<ar><k>достаточный</k><def>sufiĉa</def></ar>
+<ar><k>достигать, добираться</k><def>atingi</def></ar>
+<ar><k>достичь, метко попадать</k><def>atingi, trafi</def></ar>
+<ar><k>достоверный, определенный</k><def>certa</def></ar>
+<ar><k>досуг, спокойствие</k><def>hobio, kvieto</def></ar>
+<ar><k>дотация, пособие, субсидия</k><def>subvencio</def></ar>
+<ar><k>драгоценности, клад</k><def>trezoro</def></ar>
+<ar><k>драгоценность</k><def>juvelo</def></ar>
+<ar><k>дразнить, высмеивать</k><def>intici, moki</def></ar>
+<ar><k>дразнить, раздражать</k><def>inciti</def></ar>
+<ar><k>древесина</k><def>ligno</def></ar>
+<ar><k>древесная смола</k><def>rezino</def></ar>
+<ar><k>древко, шест, удочка</k><def>stango, fiŝkaptilo</def></ar>
+<ar><k>дрессировать</k><def>dresi</def></ar>
+<ar><k>дробить, молоть, толочь</k><def>mueli</def></ar>
+<ar><k>дрожать, трепетать</k><def>tremi</def></ar>
+<ar><k>дротик, копьё</k><def>lanco</def></ar>
+<ar><k>друг, приятель</k><def>amiko</def></ar>
+<ar><k>другой человек</k><def>aliulo</def></ar>
+<ar><k>дубинка</k><def>klabo</def></ar>
+<ar><k>думать, полагать</k><def>pensi</def></ar>
+<ar><k>дурак</k><def>malsaĝulo</def></ar>
+<ar><k>дуть</k><def>blovi</def></ar>
+<ar><k>дуться, быть недовольным</k><def>paŭti</def></ar>
+<ar><k>дух, атмосфера (встречи)</k><def>etoso</def></ar>
+<ar><k>дух, душа</k><def>spirito</def></ar>
+<ar><k>дух, милый</k><def>spirito, kara</def></ar>
+<ar><k>душа, психика</k><def>animo, psiko</def></ar>
+<ar><k>душа</k><def>animo</def></ar>
+<ar><k>душевная боль, мучение</k><def>doloro, turmento</def></ar>
+<ar><k>душить, заглушать</k><def>sufoki</def></ar>
+<ar><k>дыня</k><def>melono</def></ar>
+<ar><k>дыра, отверстие</k><def>truo</def></ar>
+<ar><k>дырка</k><def>truo</def></ar>
+<ar><k>дышать</k><def>spiri</def></ar>
+<ar><k>дьявол, сатана, черт</k><def>diablo, satana</def></ar>
+<ar><k>дядя</k><def>onklo</def></ar>
+<ar><k>еврей</k><def>judo</def></ar>
+<ar><k>едва, еле, почти</k><def>apenaŭ</def></ar>
+<ar><k>единомышленник</k><def>samideano</def></ar>
+<ar><k>единорог</k><def>unukornulo</def></ar>
+<ar><k>единственное число</k><def>singularo</def></ar>
+<ar><k>единственный</k><def>sola, unika</def></ar>
+<ar><k>единый, целостный</k><def>integra</def></ar>
+<ar><k>ель</k><def>piceo</def></ar>
+<ar><k>ересь, лжеучение</k><def>herezo</def></ar>
+<ar><k>если</k><def>se</def></ar>
+<ar><k>естественный</k><def>natura</def></ar>
+<ar><k>есть</k><def>manĝi</def></ar>
+<ar><k>ехать, ездить верхом</k><def>veturi, rajdi</def></ar>
+<ar><k>ехидный</k><def>rikanema</def></ar>
+<ar><k>ещё</k><def>ankoraŭ</def></ar>
+<ar><k>жёсткий, твёрдый</k><def>malmola</def></ar>
+<ar><k>жаворонок</k><def>alaŭdo</def></ar>
+<ar><k>жаждать</k><def>soifi</def></ar>
+<ar><k>жалеть, огорчаться</k><def>bedaŭri</def></ar>
+<ar><k>жалеть, щадить</k><def>domaĝi</def></ar>
+<ar><k>жалить, колоть</k><def>piki</def></ar>
+<ar><k>жаловаться, сетовать</k><def>lamenti, plendi</def></ar>
+<ar><k>жалость</k><def>kompato, domag'o</def></ar>
+<ar><k>жанр</k><def>ĝenro</def></ar>
+<ar><k>жаргон</k><def>ĵargono</def></ar>
+<ar><k>жарить, поджаривать</k><def>friti, rosti</def></ar>
+<ar><k>жасмин</k><def>jasmeno</def></ar>
+<ar><k>ждать</k><def>atendi</def></ar>
+<ar><k>жевать, пережёвывать</k><def>maĉi</def></ar>
+<ar><k>желать, жаждать</k><def>emi, deziri</def></ar>
+<ar><k>желать, стремиться</k><def>aspiri</def></ar>
+<ar><k>железо</k><def>fero</def></ar>
+<ar><k>желудок</k><def>stomako</def></ar>
+<ar><k>жемчуг</k><def>perlo</def></ar>
+<ar><k>женская грудь</k><def>mamo</def></ar>
+<ar><k>жертва</k><def>viktimo</def></ar>
+<ar><k>жертвовать</k><def>oferi</def></ar>
+<ar><k>жестикулировать</k><def>gesti</def></ar>
+<ar><k>жесть</k><def>lado</def></ar>
+<ar><k>живописный</k><def>pitoreska</def></ar>
+<ar><k>животное</k><def>besto, animalo</def></ar>
+<ar><k>жир</k><def>graso</def></ar>
+<ar><k>житель</k><def>loĝanto</def></ar>
+<ar><k>жить, поживать</k><def>vivi</def></ar>
+<ar><k>жужжать, гудеть, шуметь</k><def>zumi</def></ar>
+<ar><k>жулик, мошенник, плут</k><def>fripono</def></ar>
+<ar><k>журнал, обозрение</k><def>revuo</def></ar>
+<ar><k>журчать, шуметь</k><def>murmuri, brui</def></ar>
+<ar><k>за, после, позади</k><def>post</def></ar>
+<ar><k>за, через</k><def>trans</def></ar>
+<ar><k>заблуждение</k><def>misopinio</def></ar>
+<ar><k>заботиться</k><def>flegi</def></ar>
+<ar><k>заботиться, ухаживать</k><def>zorgi</def></ar>
+<ar><k>забыть</k><def>forgesi</def></ar>
+<ar><k>завёртывать, паковать</k><def>volvi, paki</def></ar>
+<ar><k>завещание</k><def>testamento</def></ar>
+<ar><k>завивать волосы</k><def>bukli harojn</def></ar>
+<ar><k>завидовать</k><def>envii</def></ar>
+<ar><k>зависеть</k><def>dependi</def></ar>
+<ar><k>завоёвывать, покорять</k><def>konkeri</def></ar>
+<ar><k>завтра</k><def>morgaŭ</def></ar>
+<ar><k>завязать, запрягать</k><def>ligi, jungi</def></ar>
+<ar><k>загадка</k><def>enigmo</def></ar>
+<ar><k>загадка, шарада</k><def>enigmo, ŝarado</def></ar>
+<ar><k>задание, заказ</k><def>tasko, mendo</def></ar>
+<ar><k>задача, проблема</k><def>tasko, problemo</def></ar>
+<ar><k>задушевный, интимный</k><def>intima</def></ar>
+<ar><k>задыхаться, пыхтеть</k><def>anheli</def></ar>
+<ar><k>заказывать</k><def>mendi</def></ar>
+<ar><k>закалять</k><def>hardi</def></ar>
+<ar><k>заключить договор, контракт</k><def>kontrakti</def></ar>
+<ar><k>закон, канон</k><def>leĝo, kanono</def></ar>
+<ar><k>законченный, полный</k><def>kompleta</def></ar>
+<ar><k>закончиться</k><def>finiĝi</def></ar>
+<ar><k>закреплять, фиксировать</k><def>fiksi</def></ar>
+<ar><k>закрывать, покрывать</k><def>fermi, kovri</def></ar>
+<ar><k>зал, холл</k><def>halo</def></ar>
+<ar><k>залежь, рудник, шахта</k><def>minejo, ŝaĥto</def></ar>
+<ar><k>заливать, наводнять</k><def>inundi</def></ar>
+<ar><k>залог, предпосылка</k><def>premiso</def></ar>
+<ar><k>замечать, примечать</k><def>rimarki</def></ar>
+<ar><k>замещать, заменять</k><def>substitui</def></ar>
+<ar><k>замок</k><def>seruro</def></ar>
+<ar><k>занавес, занавеска</k><def>kurteno</def></ar>
+<ar><k>занимать, оккупировать</k><def>okupi</def></ar>
+<ar><k>заниматься коммерцией</k><def>komerci</def></ar>
+<ar><k>занятие, опыт</k><def>okupo</def></ar>
+<ar><k>занятный, курьёзный</k><def>kurioza, groteska</def></ar>
+<ar><k>запад</k><def>okcidento</def></ar>
+<ar><k>запирать</k><def>ŝlosi</def></ar>
+<ar><k>запрет, табу</k><def>tabuo</def></ar>
+<ar><k>запрягать</k><def>jungi</def></ar>
+<ar><k>запятая</k><def>komo</def></ar>
+<ar><k>заработная плата</k><def>salajro</def></ar>
+<ar><k>зародыш, росток, жало</k><def>ĝermo, pikilo</def></ar>
+<ar><k>засада</k><def>embusko</def></ar>
+<ar><k>заслуженная деятельность</k><def>meritoplena agado</def></ar>
+<ar><k>застёжка-молния</k><def>zipo</def></ar>
+<ar><k>затруднение</k><def>malfacilaĵo</def></ar>
+<ar><k>затылок</k><def>nuko</def></ar>
+<ar><k>защищать</k><def>defendi, pledi</def></ar>
+<ar><k>заявление</k><def>petskribo</def></ar>
+<ar><k>заяц</k><def>leporo</def></ar>
+<ar><k>звать, позвать</k><def>voki</def></ar>
+<ar><k>звезда</k><def>stelo</def></ar>
+<ar><k>звенеть, бряцать</k><def>tinti</def></ar>
+<ar><k>звукоподражание</k><def>onomatopeo</def></ar>
+<ar><k>звучать, голосовать</k><def>soni, voĉdoni</def></ar>
+<ar><k>здание</k><def>konstruaĵo</def></ar>
+<ar><k>здоровый</k><def>sana</def></ar>
+<ar><k>зевать</k><def>oscedi</def></ar>
+<ar><k>зелёный</k><def>verda</def></ar>
+<ar><k>земля, грунт, почва</k><def>tero</def></ar>
+<ar><k>зенит</k><def>zenito</def></ar>
+<ar><k>зеркало</k><def>spegulo</def></ar>
+<ar><k>зерно</k><def>greno</def></ar>
+<ar><k>зефир, ветерок</k><def>zefiro</def></ar>
+<ar><k>зигзаг</k><def>zigzago</def></ar>
+<ar><k>злиться, сердиться</k><def>koleri</def></ar>
+<ar><k>зловонный</k><def>stinka</def></ar>
+<ar><k>злой, зловредный</k><def>malica</def></ar>
+<ar><k>змея</k><def>serpento</def></ar>
+<ar><k>знак, признак, сигнал</k><def>signo, simptomo, signalo</def></ar>
+<ar><k>знаменитый, славный</k><def>fama</def></ar>
+<ar><k>значение</k><def>signifo</def></ar>
+<ar><k>значение, смысл</k><def>senco</def></ar>
+<ar><k>значок, метка, марка</k><def>insigno, marko</def></ar>
+<ar><k>зодиак</k><def>zodiako</def></ar>
+<ar><k>золото</k><def>oro</def></ar>
+<ar><k>зонтик</k><def>ombrelo</def></ar>
+<ar><k>зоосад, зоопарк</k><def>zoo</def></ar>
+<ar><k>зрелый, взрослый</k><def>maturaĝa</def></ar>
+<ar><k>зрелый, спелый</k><def>matura</def></ar>
+<ar><k>зубоскалить, ухмыляться</k><def>rikani</def></ar>
+<ar><k>зудеть, чесаться</k><def>juki</def></ar>
+<ar><k>и, тоже, также</k><def>ankaŭ</def></ar>
+<ar><k>игнорировать</k><def>ignori</def></ar>
+<ar><k>игральная кость</k><def>ĵetkubo</def></ar>
+<ar><k>играть</k><def>ludi</def></ar>
+<ar><k>идеал</k><def>idealo</def></ar>
+<ar><k>идентичный, тождественный</k><def>identa</def></ar>
+<ar><k>идеология</k><def>ideologio</def></ar>
+<ar><k>идея</k><def>ideo</def></ar>
+<ar><k>идиллия</k><def>idilio</def></ar>
+<ar><k>из</k><def>el</def></ar>
+<ar><k>избавиться, избежать</k><def>eskapi</def></ar>
+<ar><k>избирать депутата</k><def>deputi</def></ar>
+<ar><k>известный</k><def>konata, fama</def></ar>
+<ar><k>извещать, объявлять</k><def>anonci</def></ar>
+<ar><k>извещение, уведомление</k><def>avizo</def></ar>
+<ar><k>извилина, изгиб</k><def>meandro</def></ar>
+<ar><k>извинить, простить</k><def>pardoni, dediĉi</def></ar>
+<ar><k>изгиб, извилина</k><def>fleks(iĝ)o</def></ar>
+<ar><k>изгнание, высылка</k><def>proskripcio</def></ar>
+<ar><k>изгонять</k><def>forpeli</def></ar>
+<ar><k>издавать, публиковать</k><def>eldoni, publici</def></ar>
+<ar><k>изделие, товар</k><def>varo</def></ar>
+<ar><k>изжога</k><def>pirozo</def></ar>
+<ar><k>из-за, ради</k><def>pro</def></ar>
+<ar><k>излучать, испускать</k><def>emisii</def></ar>
+<ar><k>изменять, предавать</k><def>perfidi</def></ar>
+<ar><k>измерение, размер</k><def>dimensio</def></ar>
+<ar><k>изнеживать</k><def>dorloti</def></ar>
+<ar><k>изображение</k><def>pripentro</def></ar>
+<ar><k>изобретать</k><def>inventi</def></ar>
+<ar><k>изумруд</k><def>smeraldo</def></ar>
+<ar><k>икать</k><def>singulti</def></ar>
+<ar><k>икра (еда)</k><def>kaviaro</def></ar>
+<ar><k>ил, тина, грязь (лечебная)</k><def>ŝlimo</def></ar>
+<ar><k>или, либо</k><def>aŭ</def></ar>
+<ar><k>иллюзия, утопия</k><def>iluzio, utopio</def></ar>
+<ar><k>иллюстрировать</k><def>ilustri</def></ar>
+<ar><k>имение, поместье</k><def>bieno</def></ar>
+<ar><k>иметь знание</k><def>signifi</def></ar>
+<ar><k>иммитировать</k><def>imiti</def></ar>
+<ar><k>империя</k><def>imperio</def></ar>
+<ar><k>импонировать, нравиться</k><def>imponi, plaĉi</def></ar>
+<ar><k>импровизировать</k><def>improvizi</def></ar>
+<ar><k>импульс</k><def>impulso</def></ar>
+<ar><k>имущество, собственность</k><def>posedaĵo</def></ar>
+<ar><k>имя прилагательное</k><def>adjektivo</def></ar>
+<ar><k>имя, имя существительное</k><def>nomo, substantivo</def></ar>
+<ar><k>имя, название</k><def>nomo</def></ar>
+<ar><k>иначе</k><def>aliel</def></ar>
+<ar><k>инвалид</k><def>invalido</def></ar>
+<ar><k>инженер</k><def>inĝeniero</def></ar>
+<ar><k>инициатор</k><def>iniciatoro</def></ar>
+<ar><k>иностранный</k><def>eksterlanda</def></ar>
+<ar><k>иностранный, чужой</k><def>fremda</def></ar>
+<ar><k>инстанция, орган управления</k><def>instancio</def></ar>
+<ar><k>инстинкт</k><def>instinkto</def></ar>
+<ar><k>инструмент, орудие, прибор</k><def>instrumento</def></ar>
+<ar><k>инсульт</k><def>apopleksio</def></ar>
+<ar><k>интервью</k><def>intervjuo</def></ar>
+<ar><k>интерес</k><def>intereso</def></ar>
+<ar><k>интересный, диковинный</k><def>interesa, ekzot(ik)a</def></ar>
+<ar><k>интерлингвистика</k><def>interlingvistiko</def></ar>
+<ar><k>интуиция</k><def>intuicio</def></ar>
+<ar><k>инфаркт</k><def>infarkto</def></ar>
+<ar><k>инфляция</k><def>inflacio</def></ar>
+<ar><k>информация, сведения</k><def>informoj, scioj</def></ar>
+<ar><k>информировать, извещать</k><def>informi, komuniki</def></ar>
+<ar><k>информировать, извещать</k><def>informi, sciigi</def></ar>
+<ar><k>ирония, насмешка</k><def>ironio</def></ar>
+<ar><k>искалеченный, увечный</k><def>kripla</def></ar>
+<ar><k>искать</k><def>serĉi</def></ar>
+<ar><k>исключение</k><def>escepto</def></ar>
+<ar><k>исключительный</k><def>ekskluziva</def></ar>
+<ar><k>ископаемое животное</k><def>fosilio</def></ar>
+<ar><k>ископаемое растение</k><def>fosilio</def></ar>
+<ar><k>искренний</k><def>sincera</def></ar>
+<ar><k>искусный, находчивый</k><def>inĝenia</def></ar>
+<ar><k>искусный, опытный</k><def>sperta</def></ar>
+<ar><k>искусство</k><def>arto</def></ar>
+<ar><k>искушать, соблазнять</k><def>tenti</def></ar>
+<ar><k>исполин, гигант</k><def>grandegulo</def></ar>
+<ar><k>исполнять</k><def>plenumi</def></ar>
+<ar><k>использовать</k><def>uzi</def></ar>
+<ar><k>испорченный</k><def>kaputa</def></ar>
+<ar><k>исправлять, корректировать</k><def>korekti</def></ar>
+<ar><k>испытывать, проверять</k><def>provi, kontroli</def></ar>
+<ar><k>исследовать, изучать</k><def>esplori</def></ar>
+<ar><k>истома, томление, нега</k><def>langvoro</def></ar>
+<ar><k>история, дата, число</k><def>historio, dato</def></ar>
+<ar><k>источник, родник</k><def>fonto</def></ar>
+<ar><k>истреблять, искоренять</k><def>ekstermi</def></ar>
+<ar><k>истреблять, разрушать</k><def>detrui</def></ar>
+<ar><k>итак, следовательно</k><def>do</def></ar>
+<ar><k>итог</k><def>fina sumo</def></ar>
+<ar><k>июль</k><def>julio</def></ar>
+<ar><k>июнь</k><def>junio</def></ar>
+<ar><k>йога</k><def>jogo</def></ar>
+<ar><k>к (предлог)</k><def>al</def></ar>
+<ar><k>кабан</k><def>virporko</def></ar>
+<ar><k>кабаре</k><def>kabaredo</def></ar>
+<ar><k>кабинет</k><def>kabineto</def></ar>
+<ar><k>кавалер</k><def>kavaliro</def></ar>
+<ar><k>кадр, рама, рамка</k><def>kadro</def></ar>
+<ar><k>казарма</k><def>kazerno</def></ar>
+<ar><k>казаться</k><def>ŝajni</def></ar>
+<ar><k>каземат</k><def>kazеmato</def></ar>
+<ar><k>казино</k><def>kazino</def></ar>
+<ar><k>казнить</k><def>ekzekuti</def></ar>
+<ar><k>как</k><def>kiel</def></ar>
+<ar><k>какой</k><def>kia</def></ar>
+<ar><k>какой-то</k><def>ia</def></ar>
+<ar><k>как-то, как-нибудь</k><def>iel</def></ar>
+<ar><k>кактус</k><def>kakto</def></ar>
+<ar><k>календарь</k><def>kalendaro</def></ar>
+<ar><k>кальсоны, панталоны, штаны</k><def>kalsono, pantalono</def></ar>
+<ar><k>камень</k><def>ŝtono</def></ar>
+<ar><k>кампания, акция</k><def>kampanjo</def></ar>
+<ar><k>канал</k><def>kanalo</def></ar>
+<ar><k>каналья, негодяй, подлец</k><def>kanajlo</def></ar>
+<ar><k>канарейка</k><def>kanario</def></ar>
+<ar><k>кандидат</k><def>kandidato</def></ar>
+<ar><k>каникулы</k><def>ferioj</def></ar>
+<ar><k>кантон</k><def>kantono</def></ar>
+<ar><k>канцелярия</k><def>kancelario</def></ar>
+<ar><k>капитал</k><def>kapitalo</def></ar>
+<ar><k>капитан</k><def>kapitan</def></ar>
+<ar><k>капля</k><def>guto</def></ar>
+<ar><k>каприз</k><def>kaprico</def></ar>
+<ar><k>карандаш, перо</k><def>krajono, plumo</def></ar>
+<ar><k>карий, коричневый</k><def>bruna</def></ar>
+<ar><k>карикатура</k><def>karikaturo</def></ar>
+<ar><k>карман</k><def>poŝo</def></ar>
+<ar><k>карта (географическая)</k><def>mapo</def></ar>
+<ar><k>картина, изображение</k><def>bildo</def></ar>
+<ar><k>карточка</k><def>slipo</def></ar>
+<ar><k>карусель</k><def>karuselo</def></ar>
+<ar><k>карьера</k><def>kariero</def></ar>
+<ar><k>касса</k><def>kaso</def></ar>
+<ar><k>кассета</k><def>kasedo</def></ar>
+<ar><k>катаклизм, катастрофа</k><def>kataklismo</def></ar>
+<ar><k>каталог</k><def>katalogo</def></ar>
+<ar><k>катастрофа</k><def>katastrofo</def></ar>
+<ar><k>катать, свертывать</k><def>ruli, volvi</def></ar>
+<ar><k>катод</k><def>katodo</def></ar>
+<ar><k>каучук</k><def>kauĉuko</def></ar>
+<ar><k>кафедра</k><def>katedro</def></ar>
+<ar><k>качать</k><def>svingi</def></ar>
+<ar><k>качество</k><def>kvalito</def></ar>
+<ar><k>каша, пюре</k><def>kaĉo</def></ar>
+<ar><k>каяться</k><def>penti</def></ar>
+<ar><k>квадрат</k><def>kvadrato</def></ar>
+<ar><k>квакать, крякать</k><def>kvaki</def></ar>
+<ar><k>квартал, массив</k><def>distrikto, masivo</def></ar>
+<ar><k>квартет</k><def>kvarteto</def></ar>
+<ar><k>квартира</k><def>apartamento</def></ar>
+<ar><k>квитанция</k><def>kvitanco</def></ar>
+<ar><k>кворум</k><def>kvorumo</def></ar>
+<ar><k>квота, доля, часть</k><def>kvoto</def></ar>
+<ar><k>керосин</k><def>kerosino</def></ar>
+<ar><k>квалифицировать, оценить</k><def>kvalifiki</def></ar>
+<ar><k>кибернетика</k><def>kibernetiko</def></ar>
+<ar><k>киви</k><def>kivio</def></ar>
+<ar><k>килограмм</k><def>kilogramo</def></ar>
+<ar><k>километр</k><def>kilometro</def></ar>
+<ar><k>кинематограф, кино</k><def>kin(ematograf)o</def></ar>
+<ar><k>кинжал</k><def>ponardo</def></ar>
+<ar><k>кинокамера</k><def>kamer(a)o</def></ar>
+<ar><k>кипеть</k><def>boli</def></ar>
+<ar><k>кирпич</k><def>briko</def></ar>
+<ar><k>кислый</k><def>acida</def></ar>
+<ar><k>кисть</k><def>mano</def></ar>
+<ar><k>кисть, кисточка</k><def>peniko</def></ar>
+<ar><k>кишеть</k><def>svarmi</def></ar>
+<ar><k>кишка</k><def>intesto</def></ar>
+<ar><k>клавиша</k><def>klavo</def></ar>
+<ar><k>кладбище</k><def>tombejo</def></ar>
+<ar><k>клапан</k><def>valvo</def></ar>
+<ar><k>класс</k><def>klaso</def></ar>
+<ar><k>классификация</k><def>klasifiki</def></ar>
+<ar><k>классический</k><def>klasika</def></ar>
+<ar><k>класть из камня</k><def>masoni</def></ar>
+<ar><k>клеветать, чернить</k><def>kalumnii</def></ar>
+<ar><k>клей</k><def>gluo</def></ar>
+<ar><k>клетка (биологическая)</k><def>ĉelo</def></ar>
+<ar><k>клетка, ячейка</k><def>kaĝo, ĉelo</def></ar>
+<ar><k>клещи, щипцы</k><def>tanajlo</def></ar>
+<ar><k>клиент</k><def>kliento</def></ar>
+<ar><k>климат</k><def>klimato</def></ar>
+<ar><k>клиника</k><def>kliniko</def></ar>
+<ar><k>клише</k><def>kliŝo</def></ar>
+<ar><k>клоп</k><def>cimo</def></ar>
+<ar><k>клуб</k><def>klubo</def></ar>
+<ar><k>ключ, переключатель</k><def>ŝlosilo, ĵako</def></ar>
+<ar><k>клясться</k><def>ĵuri</def></ar>
+<ar><k>клятвопреступник</k><def>ĵurrompanto</def></ar>
+<ar><k>книга</k><def>libro</def></ar>
+<ar><k>кнут, хлыст, нагайка</k><def>vipo, skurĝo</def></ar>
+<ar><k>коварный, лукавый, хитрый</k><def>malica, ruza</def></ar>
+<ar><k>ковать</k><def>forĝi</def></ar>
+<ar><k>когда</k><def>kiam</def></ar>
+<ar><k>когда-то</k><def>iam</def></ar>
+<ar><k>коготь</k><def>ungego</def></ar>
+<ar><k>код</k><def>kodo</def></ar>
+<ar><k>кодекс</k><def>kodekso</def></ar>
+<ar><k>кожа (выделанная)</k><def>ledo</def></ar>
+<ar><k>кожура, кора, скорлупа</k><def>s'elo</def></ar>
+<ar><k>козёл</k><def>virkapro</def></ar>
+<ar><k>козёл, коза</k><def>kapro, kaprino</def></ar>
+<ar><k>колбаса</k><def>kolbaso</def></ar>
+<ar><k>колдовать</k><def>sorĉi</def></ar>
+<ar><k>колебать, раскачивать</k><def>ŝanceli</def></ar>
+<ar><k>колебаться, раскачиваться</k><def>balanciiĝi</def></ar>
+<ar><k>колесо</k><def>rado</def></ar>
+<ar><k>количество, величина</k><def>kvanto, grando</def></ar>
+<ar><k>коллега</k><def>kolego</def></ar>
+<ar><k>коллектив</k><def>kolektivo</def></ar>
+<ar><k>коллекция, собрание</k><def>kolekto</def></ar>
+<ar><k>колодец, шахта</k><def>puto, ŝakto</def></ar>
+<ar><k>колония</k><def>kolonio</def></ar>
+<ar><k>колоть, рубить</k><def>haki</def></ar>
+<ar><k>колхоз</k><def>kolĥozo</def></ar>
+<ar><k>кольцо</k><def>ringo</def></ar>
+<ar><k>колючка, заноза, шип</k><def>dorno</def></ar>
+<ar><k>ком, комок</k><def>bulo</def></ar>
+<ar><k>команда</k><def>teamo</def></ar>
+<ar><k>комбайн</k><def>kombajno</def></ar>
+<ar><k>комедия</k><def>komedio</def></ar>
+<ar><k>комиссар</k><def>komisaro</def></ar>
+<ar><k>комиссия</k><def>komisiono</def></ar>
+<ar><k>комитет</k><def>komitato</def></ar>
+<ar><k>комментировать</k><def>koment(ari)i</def></ar>
+<ar><k>коммерция, бизнес</k><def>negoco</def></ar>
+<ar><k>комната</k><def>ĉambro</def></ar>
+<ar><k>компания, общество</k><def>kompanio</def></ar>
+<ar><k>компас</k><def>kompaso</def></ar>
+<ar><k>компенсировать, возмещать</k><def>kompensi</def></ar>
+<ar><k>компетентный</k><def>kompetenta</def></ar>
+<ar><k>компилировать, составлять</k><def>kompili</def></ar>
+<ar><k>комплекс, совокупность</k><def>komplekso</def></ar>
+<ar><k>компромисс</k><def>kompromiso</def></ar>
+<ar><k>комсомол</k><def>komsomolo</def></ar>
+<ar><k>комфорт, удобство, уют</k><def>komforto</def></ar>
+<ar><k>конверт</k><def>koverto</def></ar>
+<ar><k>конец, ведь, же</k><def>fino, ja</def></ar>
+<ar><k>конкретный, ясный</k><def>konciza, konkreta</def></ar>
+<ar><k>конкурент, соперник</k><def>rivalo</def></ar>
+<ar><k>конкурировать</k><def>konkurenci</def></ar>
+<ar><k>консервативный</k><def>konservativa</def></ar>
+<ar><k>консерватория</k><def>konservatorio</def></ar>
+<ar><k>констатировать</k><def>konstati</def></ar>
+<ar><k>конституция</k><def>konstitucio</def></ar>
+<ar><k>конструкция</k><def>konstrukcio</def></ar>
+<ar><k>консультироваться</k><def>konsulti</def></ar>
+<ar><k>континент</k><def>kontinento</def></ar>
+<ar><k>контраст</k><def>kontrasto</def></ar>
+<ar><k>контролировать</k><def>kontroli</def></ar>
+<ar><k>контузить, ушибить</k><def>kontuzi</def></ar>
+<ar><k>конфедерация</k><def>konfeder(aci)o</def></ar>
+<ar><k>конференция, совещание</k><def>konferencio</def></ar>
+<ar><k>конфета</k><def>bombono</def></ar>
+<ar><k>конфисковать, изымать</k><def>konfiski</def></ar>
+<ar><k>конфликт, столкновение</k><def>konflikto</def></ar>
+<ar><k>концепция, понятие</k><def>koncepto</def></ar>
+<ar><k>концерт</k><def>koncerto</def></ar>
+<ar><k>кончик, остриё, шпиль</k><def>pinto</def></ar>
+<ar><k>кончить, завершить</k><def>fini</def></ar>
+<ar><k>конь, лошадь</k><def>ĉevalo</def></ar>
+<ar><k>коньяк</k><def>konjako</def></ar>
+<ar><k>кооператив</k><def>kooperativo</def></ar>
+<ar><k>копать, рыть</k><def>fosi</def></ar>
+<ar><k>копить, сберегать</k><def>ŝpari</def></ar>
+<ar><k>копыто</k><def>hufo</def></ar>
+<ar><k>корабль, судно</k><def>ŝipo</def></ar>
+<ar><k>корень</k><def>radiko</def></ar>
+<ar><k>корзина</k><def>korbo</def></ar>
+<ar><k>корм для скота</k><def>nutro por bestoj</def></ar>
+<ar><k>кормить, питать</k><def>nutri</def></ar>
+<ar><k>коробка, шкатулка</k><def>skatolo</def></ar>
+<ar><k>король, царь</k><def>reĝo, caro</def></ar>
+<ar><k>корона, венец</k><def>krono</def></ar>
+<ar><k>короткий</k><def>mallonga, kurta</def></ar>
+<ar><k>корпус, тело, торс</k><def>korpo, torso</def></ar>
+<ar><k>косить (глазами)</k><def>strabi</def></ar>
+<ar><k>космонавт</k><def>kosmonaŭto</def></ar>
+<ar><k>космос</k><def>kosmo</def></ar>
+<ar><k>кость</k><def>osto</def></ar>
+<ar><k>костюм</k><def>kostumo</def></ar>
+<ar><k>косуля</k><def>kapreolo</def></ar>
+<ar><k>кофе</k><def>kafo</def></ar>
+<ar><k>край, кромка</k><def>rando</def></ar>
+<ar><k>крапива</k><def>urtiko</def></ar>
+<ar><k>краска</k><def>farbo</def></ar>
+<ar><k>красноречивый</k><def>elokventa</def></ar>
+<ar><k>красный</k><def>ruĝa</def></ar>
+<ar><k>краткий молитвенник</k><def>breviero</def></ar>
+<ar><k>краткий, лаконичный</k><def>konciz a</def></ar>
+<ar><k>кремль</k><def>kremlo</def></ar>
+<ar><k>крепкий, прочный</k><def>fortika</def></ar>
+<ar><k>крепкий, твёрдый, прочный</k><def>forta, malmola</def></ar>
+<ar><k>крепкий</k><def>firma, forta</def></ar>
+<ar><k>крепость</k><def>fortreso</def></ar>
+<ar><k>кресло</k><def>fotelo</def></ar>
+<ar><k>крест</k><def>kruco</def></ar>
+<ar><k>кретин, слабоумный</k><def>kreteno</def></ar>
+<ar><k>кривая</k><def>kurbo</def></ar>
+<ar><k>кризис</k><def>krizo</def></ar>
+<ar><k>кристалл, хрусталь</k><def>kristalo</def></ar>
+<ar><k>критиковать</k><def>kritiki</def></ar>
+<ar><k>кричать, кричать (об осле)</k><def>krii, iai</def></ar>
+<ar><k>кровать</k><def>lito</def></ar>
+<ar><k>кровь</k><def>sango</def></ar>
+<ar><k>крокодил</k><def>krokodilo</def></ar>
+<ar><k>кролик</k><def>kuniklo</def></ar>
+<ar><k>кроме</k><def>krom</def></ar>
+<ar><k>кроткий, мягкий</k><def>milda</def></ar>
+<ar><k>кроткий, спокойный</k><def>kvieta</def></ar>
+<ar><k>круглый</k><def>globforma</def></ar>
+<ar><k>круп, зад</k><def>pugo, postaĵo</def></ar>
+<ar><k>крупа</k><def>grio</def></ar>
+<ar><k>крутить, сучить</k><def>tordi</def></ar>
+<ar><k>крутой, отвесный</k><def>kruta</def></ar>
+<ar><k>крушение</k><def>akcidento</def></ar>
+<ar><k>крыша</k><def>tegmento</def></ar>
+<ar><k>кто</k><def>kiu</def></ar>
+<ar><k>кто-то, некто</k><def>iu</def></ar>
+<ar><k>куб</k><def>kubo</def></ar>
+<ar><k>куда</k><def>kien</def></ar>
+<ar><k>куда-то, куда-нибудь</k><def>ien</def></ar>
+<ar><k>кукла</k><def>pupo</def></ar>
+<ar><k>кукушка</k><def>kukolo</def></ar>
+<ar><k>кулак</k><def>pugno</def></ar>
+<ar><k>культура</k><def>kulturo</def></ar>
+<ar><k>купать</k><def>bani</def></ar>
+<ar><k>купе</k><def>kupeo</def></ar>
+<ar><k>курить</k><def>fumi</def></ar>
+<ar><k>курс</k><def>kurso</def></ar>
+<ar><k>куртка, пиджак, жакет</k><def>jako, ĵaketo</def></ar>
+<ar><k>курчавый, вьющийся волос</k><def>krispa</def></ar>
+<ar><k>кусать</k><def>mordi</def></ar>
+<ar><k>куст</k><def>arbusto</def></ar>
+<ar><k>лаборатория</k><def>laboratorio</def></ar>
+<ar><k>лава</k><def>lafo</def></ar>
+<ar><k>лавина</k><def>lavango</def></ar>
+<ar><k>лавр</k><def>laŭro</def></ar>
+<ar><k>ладонь</k><def>manplato, polmo</def></ar>
+<ar><k>лазурный</k><def>lazura</def></ar>
+<ar><k>лакомиться</k><def>frandi</def></ar>
+<ar><k>лампа</k><def>lampo</def></ar>
+<ar><k>ласковый, добрый</k><def>karesa, bona</def></ar>
+<ar><k>ласточка</k><def>hirundo</def></ar>
+<ar><k>лауреат</k><def>laŭreato</def></ar>
+<ar><k>лаять</k><def>boji</def></ar>
+<ar><k>лев</k><def>leono</def></ar>
+<ar><k>левый</k><def>maldekstra</def></ar>
+<ar><k>лёгкий</k><def>facila</def></ar>
+<ar><k>лёгкий</k><def>facila, malpeza</def></ar>
+<ar><k>легкомысленный, фривольный</k><def>frivola</def></ar>
+<ar><k>лёд</k><def>glacio</def></ar>
+<ar><k>лежать</k><def>kuŝi</def></ar>
+<ar><k>лекарство</k><def>kuracilo</def></ar>
+<ar><k>лексика</k><def>leksiko</def></ar>
+<ar><k>лекция</k><def>lekcio</def></ar>
+<ar><k>лён</k><def>lino</def></ar>
+<ar><k>ленивый</k><def>pigra</def></ar>
+<ar><k>лента</k><def>strio</def></ar>
+<ar><k>лента, полоса</k><def>bendo, strio</def></ar>
+<ar><k>лепетать, запинаться</k><def>balbuti</def></ar>
+<ar><k>лететь</k><def>flugi</def></ar>
+<ar><k>лететь, парить, реять</k><def>flugi, ŝvebi</def></ar>
+<ar><k>лето</k><def>somero</def></ar>
+<ar><k>летопись</k><def>kroniko</def></ar>
+<ar><k>лечить</k><def>kuraci</def></ar>
+<ar><k>ли, разве</k><def>ĉu</def></ar>
+<ar><k>ливень</k><def>pluvego</def></ar>
+<ar><k>ликвидировать, уничтожать</k><def>likvidi</def></ar>
+<ar><k>лимон</k><def>citrono</def></ar>
+<ar><k>линейка, расписание</k><def>liniilo, horaro</def></ar>
+<ar><k>линия, черта</k><def>linio, streko</def></ar>
+<ar><k>лира</k><def>liro</def></ar>
+<ar><k>лирика</k><def>liriko</def></ar>
+<ar><k>лиса</k><def>vulpo</def></ar>
+<ar><k>лист</k><def>folio</def></ar>
+<ar><k>литература</k><def>literaturo</def></ar>
+<ar><k>лить, сыпать</k><def>verŝi, ŝuti</def></ar>
+<ar><k>лифт</k><def>lifto</def></ar>
+<ar><k>лихорадка</k><def>febro</def></ar>
+<ar><k>лицо, физиономия</k><def>vizaĝo, fizionomio</def></ar>
+<ar><k>личность, индивидуум</k><def>individuo</def></ar>
+<ar><k>личный, собственный</k><def>propra</def></ar>
+<ar><k>личный, частный</k><def>privata</def></ar>
+<ar><k>лишь, только</k><def>nur</def></ar>
+<ar><k>лоб</k><def>frunto</def></ar>
+<ar><k>ловить, поймать</k><def>kapti</def></ar>
+<ar><k>ловкий</k><def>lerta</def></ar>
+<ar><k>ловкость, ухищрение</k><def>artifiko</def></ar>
+<ar><k>логика</k><def>logiko</def></ar>
+<ar><k>лодка</k><def>boato</def></ar>
+<ar><k>лодыжка</k><def>maleolo</def></ar>
+<ar><k>ложка</k><def>kulero</def></ar>
+<ar><k>ломать, нарушать, расторгать</k><def>rompi</def></ar>
+<ar><k>лоно, объятие</k><def>sino, brakumo</def></ar>
+<ar><k>лопаться, трескаться</k><def>krevi, eksplodi</def></ar>
+<ar><k>лосось, сёмга</k><def>salmo</def></ar>
+<ar><k>лотерея</k><def>loterio</def></ar>
+<ar><k>лук</k><def>cepo</def></ar>
+<ar><k>луна, месяц</k><def>luno</def></ar>
+<ar><k>луч</k><def>radio</def></ar>
+<ar><k>лыжа</k><def>skio</def></ar>
+<ar><k>лысый</k><def>kalva</def></ar>
+<ar><k>льстить</k><def>flati</def></ar>
+<ar><k>любезничать</k><def>komplezi</def></ar>
+<ar><k>любимое занятие, хобби</k><def>hobio</def></ar>
+<ar><k>любовная связь</k><def>amoro</def></ar>
+<ar><k>любовь, страсть</k><def>amo, pasio</def></ar>
+<ar><k>люстра</k><def>lustro</def></ar>
+<ar><k>лягушка</k><def>rano</def></ar>
+<ar><k>ляжка, бедро, круп, окорок</k><def>femuro, kokso</def></ar>
+<ar><k>мавзолей</k><def>maŭzoleo</def></ar>
+<ar><k>магазин</k><def>magazeno</def></ar>
+<ar><k>магия, волшебство</k><def>magio</def></ar>
+<ar><k>магнит</k><def>magneto</def></ar>
+<ar><k>магнитофон</k><def>magnetofono</def></ar>
+<ar><k>мазать, обмазывать</k><def>ŝmiri</def></ar>
+<ar><k>май</k><def>majo</def></ar>
+<ar><k>макать, окунать, погружать</k><def>trempi</def></ar>
+<ar><k>максимум</k><def>maksimumo</def></ar>
+<ar><k>мало</k><def>malmulte</def></ar>
+<ar><k>мальчик</k><def>knabo</def></ar>
+<ar><k>мальчишка, сорванец</k><def>bubo</def></ar>
+<ar><k>манера, приём</k><def>metodo, maniero</def></ar>
+<ar><k>манера, стиль</k><def>maniero, stilo</def></ar>
+<ar><k>манерничать, рисоваться</k><def>afekti</def></ar>
+<ar><k>мания</k><def>manio</def></ar>
+<ar><k>март</k><def>marto</def></ar>
+<ar><k>маршал</k><def>marŝalo</def></ar>
+<ar><k>маршировать, шагать</k><def>marŝi</def></ar>
+<ar><k>маска</k><def>masko</def></ar>
+<ar><k>масло, жир</k><def>oleo, graso</def></ar>
+<ar><k>масса, толпа</k><def>amaso</def></ar>
+<ar><k>массаж</k><def>masaĝo</def></ar>
+<ar><k>мастер</k><def>majstro</def></ar>
+<ar><k>мастер, знаток</k><def>majstro</def></ar>
+<ar><k>мастика</k><def>vakso</def></ar>
+<ar><k>математика</k><def>matematiko</def></ar>
+<ar><k>материал</k><def>materialo</def></ar>
+<ar><k>матка</k><def>utero</def></ar>
+<ar><k>махать</k><def>svingi</def></ar>
+<ar><k>мебель</k><def>meblo</def></ar>
+<ar><k>мегафон</k><def>megafono</def></ar>
+<ar><k>мёд</k><def>mielo</def></ar>
+<ar><k>медальон</k><def>medaliono</def></ar>
+<ar><k>медведь</k><def>urso</def></ar>
+<ar><k>медицина</k><def>medicino</def></ar>
+<ar><k>медленный</k><def>lanta, malrapida</def></ar>
+<ar><k>медь</k><def>kupro</def></ar>
+<ar><k>междометие</k><def>interjekcio</def></ar>
+<ar><k>между</k><def>inter</def></ar>
+<ar><k>мел</k><def>kreto</def></ar>
+<ar><k>мелкий, маленький</k><def>malgranda</def></ar>
+<ar><k>мелодия</k><def>melodio</def></ar>
+<ar><k>мелодия</k><def>melodio</def></ar>
+<ar><k>мелочь, пустяк</k><def>bagatelo</def></ar>
+<ar><k>меню</k><def>menuo</def></ar>
+<ar><k>менять, изменять</k><def>ŝanĝi</def></ar>
+<ar><k>меняться</k><def>ŝanĝiĝi</def></ar>
+<ar><k>мера, норма</k><def>mezuro, normo</def></ar>
+<ar><k>мера, размер</k><def>mezuro, dimensio</def></ar>
+<ar><k>мерило, критерий</k><def>kriterio</def></ar>
+<ar><k>мерить, измерять</k><def>mezuri</def></ar>
+<ar><k>мерцать</k><def>scintili</def></ar>
+<ar><k>месить, мять</k><def>knedi</def></ar>
+<ar><k>мести, подметать</k><def>balai</def></ar>
+<ar><k>место</k><def>loko</def></ar>
+<ar><k>местоимение</k><def>pronomo</def></ar>
+<ar><k>месяц (календарный)</k><def>monato</def></ar>
+<ar><k>металл</k><def>metalo</def></ar>
+<ar><k>металлургия</k><def>metalurgio</def></ar>
+<ar><k>метафора</k><def>metaforo</def></ar>
+<ar><k>метафора, троп</k><def>metaforo, tropo</def></ar>
+<ar><k>метка, марка</k><def>marko</def></ar>
+<ar><k>метод, средство</k><def>metodo, rimedo</def></ar>
+<ar><k>метр</k><def>metro</def></ar>
+<ar><k>метро</k><def>metroo</def></ar>
+<ar><k>меценат</k><def>mecenato</def></ar>
+<ar><k>меч</k><def>glavo</def></ar>
+<ar><k>мечтать</k><def>revi</def></ar>
+<ar><k>мешать</k><def>bari, malhelpi, miksi</def></ar>
+<ar><k>мешок</k><def>sako</def></ar>
+<ar><k>мешок для сена</k><def>sakego por fojno</def></ar>
+<ar><k>мигрировать, странствовать</k><def>transloĝiĝi, migri</def></ar>
+<ar><k>микрофон</k><def>mikrofono</def></ar>
+<ar><k>микстура</k><def>miksturo</def></ar>
+<ar><k>милиция</k><def>milico</def></ar>
+<ar><k>миллион</k><def>miliono</def></ar>
+<ar><k>милосердие, человеколюбие</k><def>karitato</def></ar>
+<ar><k>милостыня, подачка</k><def>almozo</def></ar>
+<ar><k>миля</k><def>mejlo</def></ar>
+<ar><k>мимо</k><def>preter</def></ar>
+<ar><k>мимолётный, эфемерный</k><def>efemera</def></ar>
+<ar><k>мина</k><def>mino</def></ar>
+<ar><k>мина, выражение лица</k><def>mieno</def></ar>
+<ar><k>минерал</k><def>mineralo</def></ar>
+<ar><k>мини</k><def>mini</def></ar>
+<ar><k>миниатюра</k><def>miniaturo</def></ar>
+<ar><k>министерство</k><def>ministerio</def></ar>
+<ar><k>министр</k><def>ministro</def></ar>
+<ar><k>минорный, грустный</k><def>minora</def></ar>
+<ar><k>минус</k><def>minus</def></ar>
+<ar><k>мир (земной шар)</k><def>mondo</def></ar>
+<ar><k>мир (среда), вселенная</k><def>mondo, universo</def></ar>
+<ar><k>мир, спокойствие</k><def>paco</def></ar>
+<ar><k>миссия</k><def>misio</def></ar>
+<ar><k>митинг</k><def>mitingo</def></ar>
+<ar><k>младенец, малютка</k><def>bebo</def></ar>
+<ar><k>много</k><def>multe</def></ar>
+<ar><k>многократный, частый</k><def>ofta</def></ar>
+<ar><k>многословие</k><def>palavro</def></ar>
+<ar><k>мода</k><def>modo</def></ar>
+<ar><k>модель, выкройка</k><def>paperfasono</def></ar>
+<ar><k>модель, макет</k><def>modelo</def></ar>
+<ar><k>модифицировать</k><def>modifi, ŝanĝ i</def></ar>
+<ar><k>молитва</k><def>preĝ o</def></ar>
+<ar><k>молиться</k><def>preĝi</def></ar>
+<ar><k>молния, электричество</k><def>fulmo, elektro</def></ar>
+<ar><k>молоко</k><def>lakto</def></ar>
+<ar><k>молот, молоток</k><def>martelo</def></ar>
+<ar><k>молчать</k><def>silenti</def></ar>
+<ar><k>мольберт</k><def>stablo</def></ar>
+<ar><k>момент, мгновение</k><def>momento</def></ar>
+<ar><k>монарх</k><def>monarko</def></ar>
+<ar><k>монастырь</k><def>klostro</def></ar>
+<ar><k>монолог</k><def>monologo</def></ar>
+<ar><k>монополия</k><def>monopolo</def></ar>
+<ar><k>монотонный</k><def>monotona</def></ar>
+<ar><k>монстр, чудовище</k><def>monstro</def></ar>
+<ar><k>монумент, памятник</k><def>monumento</def></ar>
+<ar><k>мораль, нравственность</k><def>moralo</def></ar>
+<ar><k>море</k><def>maro</def></ar>
+<ar><k>морковь</k><def>karoto</def></ar>
+<ar><k>мороз</k><def>frosto</def></ar>
+<ar><k>морская свинка</k><def>kobajo</def></ar>
+<ar><k>морфология</k><def>morfologio</def></ar>
+<ar><k>мост</k><def>ponto</def></ar>
+<ar><k>мостовая</k><def>pavimo</def></ar>
+<ar><k>мотель</k><def>motelo</def></ar>
+<ar><k>мотив</k><def>motivo</def></ar>
+<ar><k>мотор, двигатель</k><def>motoro</def></ar>
+<ar><k>моча</k><def>urino</def></ar>
+<ar><k>мочеиспускательный канал</k><def>uretro</def></ar>
+<ar><k>мочь</k><def>povi</def></ar>
+<ar><k>мощь, сила, могущество</k><def>povo, potenco, forto</def></ar>
+<ar><k>мрамор</k><def>marmoro</def></ar>
+<ar><k>мрачный, неясный</k><def>obskura</def></ar>
+<ar><k>мрачный, погребальный</k><def>makabra</def></ar>
+<ar><k>мудрый</k><def>saĝega</def></ar>
+<ar><k>муж, супруг</k><def>edzo</def></ar>
+<ar><k>мужчина</k><def>viro</def></ar>
+<ar><k>музей</k><def>muzeo</def></ar>
+<ar><k>музыка</k><def>muziko</def></ar>
+<ar><k>музыка, тон</k><def>muziko, tono</def></ar>
+<ar><k>мука</k><def>faruno</def></ar>
+<ar><k>муравей</k><def>formiko</def></ar>
+<ar><k>мусор, отбросы</k><def>rubo, fatraso</def></ar>
+<ar><k>мусульманин</k><def>muzulmano</def></ar>
+<ar><k>муха</k><def>muŝo</def></ar>
+<ar><k>мучить, терзать</k><def>turmenti, aflikti</def></ar>
+<ar><k>мучиться, терпеть</k><def>suferi</def></ar>
+<ar><k>муштровать</k><def>dresi</def></ar>
+<ar><k>мы</k><def>ni</def></ar>
+<ar><k>мысль</k><def>penso</def></ar>
+<ar><k>мыть шваброй</k><def>ŝvabri</def></ar>
+<ar><k>мыть, умывать</k><def>lavi</def></ar>
+<ar><k>мычать, кричать, реветь</k><def>bleki, muĝi</def></ar>
+<ar><k>мышца</k><def>muskolo</def></ar>
+<ar><k>мышь</k><def>muso</def></ar>
+<ar><k>мягкий</k><def>mola</def></ar>
+<ar><k>мягкое произношение</k><def>mola prononco</def></ar>
+<ar><k>мять</k><def>ĉifi</def></ar>
+<ar><k>мяч</k><def>pilko</def></ar>
+<ar><k>набирать (буквы)</k><def>komposti</def></ar>
+<ar><k>наблюдать</k><def>observi</def></ar>
+<ar><k>навещать, посещать</k><def>viziti</def></ar>
+<ar><k>навоз, помёт</k><def>sterko</def></ar>
+<ar><k>навоз, помёт, удобрение</k><def>sterko</def></ar>
+<ar><k>наглый</k><def>aroganta</def></ar>
+<ar><k>награждение</k><def>premio, dekoro</def></ar>
+<ar><k>над, сверху</k><def>super</def></ar>
+<ar><k>надеяться, уповать</k><def>esperi</def></ar>
+<ar><k>надлежать, подобать</k><def>deci</def></ar>
+<ar><k>надменность, высокомерие</k><def>orgojlo</def></ar>
+<ar><k>надоедать, приставать</k><def>molesti</def></ar>
+<ar><k>назначать цену</k><def>taksi</def></ar>
+<ar><k>называть по имени</k><def>nomi</def></ar>
+<ar><k>наивный, простодушный</k><def>naiva</def></ar>
+<ar><k>наизусть</k><def>parkere</def></ar>
+<ar><k>найти, угадать, разгадать</k><def>trovi, diveni</def></ar>
+<ar><k>наказание, репрессия</k><def>puno, reprezalio</def></ar>
+<ar><k>наказывать</k><def>puni</def></ar>
+<ar><k>накапливать, собирать</k><def>akumuli</def></ar>
+<ar><k>налог</k><def>imposto</def></ar>
+<ar><k>намекать</k><def>aludi</def></ar>
+<ar><k>намереваться, замышлять</k><def>intenci</def></ar>
+<ar><k>нанимать, брать напрокат</k><def>dungi</def></ar>
+<ar><k>направление</k><def>direkto</def></ar>
+<ar><k>направлять</k><def>direkti</def></ar>
+<ar><k>напрасный</k><def>vana</def></ar>
+<ar><k>напрягать, натягивать</k><def>streĉi</def></ar>
+<ar><k>напряжённый, интенсивный</k><def>intensa</def></ar>
+<ar><k>нарисовать, описать</k><def>pentri, priskribi</def></ar>
+<ar><k>наркотик</k><def>narkotiko</def></ar>
+<ar><k>народ</k><def>popolo</def></ar>
+<ar><k>насекомое</k><def>insekto</def></ar>
+<ar><k>насильно делать, навязывать</k><def>perforti, trudi</def></ar>
+<ar><k>наслаждаться</k><def>ĝui</def></ar>
+<ar><k>наследие, наследство</k><def>heredo, heredaĵo</def></ar>
+<ar><k>наследовать</k><def>heredi</def></ar>
+<ar><k>насмешка, издевательство</k><def>ironio, moko</def></ar>
+<ar><k>наставлять, поучать</k><def>edifi</def></ar>
+<ar><k>настаивать</k><def>insisti</def></ar>
+<ar><k>настаивать, упорствовать</k><def>persisti</def></ar>
+<ar><k>настойчивый, упорный</k><def>persista</def></ar>
+<ar><k>настроение</k><def>humoro, agordo</def></ar>
+<ar><k>настройка</k><def>agordo</def></ar>
+<ar><k>наступление</k><def>ofensivo</def></ar>
+<ar><k>насытить</k><def>satigi</def></ar>
+<ar><k>насыщать</k><def>saturi</def></ar>
+<ar><k>натурализм</k><def>naturismo</def></ar>
+<ar><k>натуралист</k><def>naturisto</def></ar>
+<ar><k>наука</k><def>scienco</def></ar>
+<ar><k>находить</k><def>trovi</def></ar>
+<ar><k>находиться</k><def>troviĝi</def></ar>
+<ar><k>национализм</k><def>naciismo</def></ar>
+<ar><k>национальность, нация</k><def>nacio</def></ar>
+<ar><k>нацист</k><def>nazio</def></ar>
+<ar><k>начало</k><def>komenco</def></ar>
+<ar><k>начальник, руководитель</k><def>estro, ĉefo</def></ar>
+<ar><k>начальный</k><def>komenca</def></ar>
+<ar><k>начинать</k><def>komenci</def></ar>
+<ar><k>начинать, вводить</k><def>komenci, lanĉi</def></ar>
+<ar><k>не, нет</k><def>ne</def></ar>
+<ar><k>небо</k><def>ĉielo</def></ar>
+<ar><k>небосклон</k><def>firmamento</def></ar>
+<ar><k>невкусный</k><def>malbongusta</def></ar>
+<ar><k>негр</k><def>negro</def></ar>
+<ar><k>неграмотный</k><def>analfabeto</def></ar>
+<ar><k>неделя</k><def>semajno</def></ar>
+<ar><k>недоставать, отсутствовать</k><def>manki</def></ar>
+<ar><k>недостаток, дефицит</k><def>deficito</def></ar>
+<ar><k>недостаток, вред</k><def>malavantaĝo</def></ar>
+<ar><k>неженатый, холостой</k><def>fraŭlo</def></ar>
+<ar><k>нежный</k><def>tenera</def></ar>
+<ar><k>нежный, тонкий</k><def>subtila</def></ar>
+<ar><k>независимый</k><def>sendependa</def></ar>
+<ar><k>незнание, невежество</k><def>nescio, malklereco</def></ar>
+<ar><k>незрячий, слепой</k><def>blinda</def></ar>
+<ar><k>неизменный</k><def>neŝanĝebla</def></ar>
+<ar><k>нейтральный</k><def>neŭtrala</def></ar>
+<ar><k>некоторое количество</k><def>iom</def></ar>
+<ar><k>некролог</k><def>nekrologo</def></ar>
+<ar><k>нелюдимый</k><def>mizantropa</def></ar>
+<ar><k>немедленно</k><def>tuj</def></ar>
+<ar><k>немногие</k><def>malmultaj, pokaj</def></ar>
+<ar><k>немой</k><def>mutulo</def></ar>
+<ar><k>необработанный, сырой</k><def>kruda</def></ar>
+<ar><k>необыкновенный, странный</k><def>stranga</def></ar>
+<ar><k>необычность, причуда</k><def>ekstravaganco</def></ar>
+<ar><k>необычный</k><def>neordinara</def></ar>
+<ar><k>неожиданность</k><def>hazardo</def></ar>
+<ar><k>неон</k><def>neono</def></ar>
+<ar><k>неопределённый</k><def>nedeterminita</def></ar>
+<ar><k>неотъемлемый</k><def>neapartigebla</def></ar>
+<ar><k>непременно, обязательно</k><def>nepre</def></ar>
+<ar><k>непрерывный, сплошной</k><def>kontinua</def></ar>
+<ar><k>непроизвольный</k><def>spontana</def></ar>
+<ar><k>непринужденно беседовать</k><def>babili</def></ar>
+<ar><k>непритязательный, скромный</k><def>senpretenda, modesta</def></ar>
+<ar><k>неприязнь, антипатия</k><def>antipatio</def></ar>
+<ar><k>неразбериха</k><def>miksaĵo</def></ar>
+<ar><k>нерв</k><def>nervo</def></ar>
+<ar><k>нервный</k><def>nervoza</def></ar>
+<ar><k>неродной, сводный</k><def>duonparenca</def></ar>
+<ar><k>несколько</k><def>kelkaj</def></ar>
+<ar><k>несмотря на</k><def>malgraŭ</def></ar>
+<ar><k>нести, вести, приводить</k><def>porti, konduki</def></ar>
+<ar><k>несчастный случай, авария</k><def>akcidento</def></ar>
+<ar><k>нет</k><def>ne estas</def></ar>
+<ar><k>неудача, провал, фиаско</k><def>fiasko</def></ar>
+<ar><k>нефтепродукты</k><def>petrolproduktoj</def></ar>
+<ar><k>нефть</k><def>nafto, petrolo</def></ar>
+<ar><k>ни</k><def>nek</def></ar>
+<ar><k>нигде</k><def>nenie</def></ar>
+<ar><k>низ, дно</k><def>malsupro, fundo</def></ar>
+<ar><k>низкий</k><def>malalta</def></ar>
+<ar><k>никак, никоим образом</k><def>neniel</def></ar>
+<ar><k>никакой</k><def>nenia</def></ar>
+<ar><k>никогда</k><def>neniam</def></ar>
+<ar><k>никто, никоторый</k><def>neniu</def></ar>
+<ar><k>никуда</k><def>nenien</def></ar>
+<ar><k>нить, нитка</k><def>fadeno</def></ar>
+<ar><k>ничей</k><def>nenies</def></ar>
+<ar><k>ничто</k><def>nenio</def></ar>
+<ar><k>нищенствовать</k><def>almozi</def></ar>
+<ar><k>но, однако</k><def>sed, tamen</def></ar>
+<ar><k>новелла, рассказ</k><def>novelo</def></ar>
+<ar><k>новое слово, неологизм</k><def>neologismo</def></ar>
+<ar><k>новый</k><def>nova</def></ar>
+<ar><k>нога (от колена до ступни)</k><def>kruro</def></ar>
+<ar><k>нога, ступня, ножка</k><def>piedo</def></ar>
+<ar><k>ноготь</k><def>ungo</def></ar>
+<ar><k>номер</k><def>numero</def></ar>
+<ar><k>нормальный</k><def>normala</def></ar>
+<ar><k>нос</k><def>nazo</def></ar>
+<ar><k>нота</k><def>noto</def></ar>
+<ar><k>ночь</k><def>nokto</def></ar>
+<ar><k>ноябрь</k><def>novembro</def></ar>
+<ar><k>нравиться</k><def>plaĉi</def></ar>
+<ar><k>ну</k><def>nu</def></ar>
+<ar><k>нуждаться</k><def>bezoni</def></ar>
+<ar><k>нуль</k><def>nulo</def></ar>
+<ar><k>нырять</k><def>plonĝi</def></ar>
+<ar><k>нюхать, обонять</k><def>flari</def></ar>
+<ar><k>оазис</k><def>oazo</def></ar>
+<ar><k>оба</k><def>ambaŭ</def></ar>
+<ar><k>обанкротиться</k><def>bankroti</def></ar>
+<ar><k>обвинять</k><def>akuzi</def></ar>
+<ar><k>обвить</k><def>ĉirkaŭvolvi</def></ar>
+<ar><k>обдумывать</k><def>konsideri</def></ar>
+<ar><k>обдумывать, размышлять</k><def>pensi, mediti</def></ar>
+<ar><k>обезьяна</k><def>simio</def></ar>
+<ar><k>обелиск</k><def>obelisko</def></ar>
+<ar><k>обещать</k><def>promesi</def></ar>
+<ar><k>обижать</k><def>ofendi</def></ar>
+<ar><k>обильный, богатый</k><def>abunda, riĉa</def></ar>
+<ar><k>обитать, проживать</k><def>loĝi</def></ar>
+<ar><k>облако</k><def>nubo</def></ar>
+<ar><k>обломок, обрубок</k><def>stumpo</def></ar>
+<ar><k>обманывать</k><def>trompi</def></ar>
+<ar><k>обматывать</k><def>volvi</def></ar>
+<ar><k>обмен</k><def>ŝanĝo</def></ar>
+<ar><k>обнаруживать</k><def>detekti</def></ar>
+<ar><k>обнимать</k><def>brakumi</def></ar>
+<ar><k>обожествление, культ</k><def>kulto</def></ar>
+<ar><k>обозначать, указывать</k><def>indiki</def></ar>
+<ar><k>обозначение качества</k><def>da</def></ar>
+<ar><k>обозначение меры</k><def>da</def></ar>
+<ar><k>оборудовать, оснащать</k><def>ekipi</def></ar>
+<ar><k>образованный, смышлённый</k><def>klera, komprenema</def></ar>
+<ar><k>образовывать</k><def>krei</def></ar>
+<ar><k>обратная сторона</k><def>dorsa flanko</def></ar>
+<ar><k>обратный порядок, инверсия</k><def>inversio</def></ar>
+<ar><k>обратный, противоположный</k><def>inversa</def></ar>
+<ar><k>обращаться</k><def>turni sin</def></ar>
+<ar><k>обрубок, стружки</k><def>ŝtipo, rabotaĵo</def></ar>
+<ar><k>обряд, ритуал, церемония</k><def>rito</def></ar>
+<ar><k>обстоятельство</k><def>cirkonstanco</def></ar>
+<ar><k>обсуждать</k><def>diskuti, pridiskuti, trakti</def></ar>
+<ar><k>обтягивать, покрывать</k><def>tegi</def></ar>
+<ar><k>обучать</k><def>instrui</def></ar>
+<ar><k>обширный, просторный</k><def>vasta</def></ar>
+<ar><k>обширный, широкий</k><def>larĝa</def></ar>
+<ar><k>общение, контакт</k><def>kontakto</def></ar>
+<ar><k>общественность</k><def>socio</def></ar>
+<ar><k>общество (объединение)</k><def>societo</def></ar>
+<ar><k>общество, ассоциация</k><def>asocio</def></ar>
+<ar><k>общий</k><def>ĉies, komuna</def></ar>
+<ar><k>объединение</k><def>unuiĝo</def></ar>
+<ar><k>объединять, смешивать</k><def>kunigi, miksi</def></ar>
+<ar><k>объект</k><def>objekto</def></ar>
+<ar><k>объяснять</k><def>ekspliki</def></ar>
+<ar><k>обычай, привычка</k><def>kutimo</def></ar>
+<ar><k>обычай, нравы</k><def>moro</def></ar>
+<ar><k>обычно</k><def>kutime</def></ar>
+<ar><k>объём, размах</k><def>amplekso</def></ar>
+<ar><k>овощ</k><def>legomo</def></ar>
+<ar><k>огонь</k><def>fajro</def></ar>
+<ar><k>огрызок</k><def>stumpo</def></ar>
+<ar><k>огурец</k><def>kukumo</def></ar>
+<ar><k>одежда</k><def>vesto</def></ar>
+<ar><k>один</k><def>unu</def></ar>
+<ar><k>одинаковый, однородный</k><def>sama, homogena</def></ar>
+<ar><k>одиннадцать</k><def>dek unu</def></ar>
+<ar><k>одинокий</k><def>sola</def></ar>
+<ar><k>одновременный</k><def>samtempa, sinkrona</def></ar>
+<ar><k>однообразный, монотонный</k><def>unuforma, monotona</def></ar>
+<ar><k>одобрять</k><def>aprobi</def></ar>
+<ar><k>озадачивать, поражать</k><def>konsterni</def></ar>
+<ar><k>озарение, откровение</k><def>revelacio</def></ar>
+<ar><k>озеро</k><def>lago</def></ar>
+<ar><k>озон</k><def>ozono</def></ar>
+<ar><k>ой</k><def>ve</def></ar>
+<ar><k>океан</k><def>oceano</def></ar>
+<ar><k>окно</k><def>fenestro</def></ar>
+<ar><k>оковы</k><def>kateno</def></ar>
+<ar><k>окончательный</k><def>definitiva</def></ar>
+<ar><k>окоченелый</k><def>rigida</def></ar>
+<ar><k>окошко, форточка</k><def>giĉeto</def></ar>
+<ar><k>окружающая среда</k><def>medio, sfero</def></ar>
+<ar><k>октябрь</k><def>oktobro</def></ar>
+<ar><k>окунать, погружать</k><def>mergi</def></ar>
+<ar><k>олень</k><def>cervo</def></ar>
+<ar><k>олимпийский</k><def>olimpa</def></ar>
+<ar><k>он</k><def>li</def></ar>
+<ar><k>она</k><def>ŝi</def></ar>
+<ar><k>оно (вещь или животное)</k><def>ĝi</def></ar>
+<ar><k>онеметь</k><def>mutiĝi</def></ar>
+<ar><k>они</k><def>ili</def></ar>
+<ar><k>опасность</k><def>danĝero</def></ar>
+<ar><k>операция</k><def>operacio</def></ar>
+<ar><k>оперировать</k><def>operacii</def></ar>
+<ar><k>оплот, бастион</k><def>bastiono</def></ar>
+<ar><k>опрашивать</k><def>enketi</def></ar>
+<ar><k>определение</k><def>difino</def></ar>
+<ar><k>определённый</k><def>definitiva</def></ar>
+<ar><k>определённый, ясный</k><def>difinita</def></ar>
+<ar><k>определенный, точный</k><def>preciza, ĝusta</def></ar>
+<ar><k>определять</k><def>difini</def></ar>
+<ar><k>опровергать, оспаривать</k><def>kontesti</def></ar>
+<ar><k>опрокинуть, переворачивать</k><def>renversi</def></ar>
+<ar><k>оптимизм</k><def>optimismo</def></ar>
+<ar><k>опубликовать</k><def>malsekretigi</def></ar>
+<ar><k>опухать</k><def>ŝveli</def></ar>
+<ar><k>опыт, испытание</k><def>eksperimento</def></ar>
+<ar><k>опыт, навык, сноровка</k><def>sperto</def></ar>
+<ar><k>опыт, практика, навык</k><def>sperto, praktiko</def></ar>
+<ar><k>опытный</k><def>sperta</def></ar>
+<ar><k>опьяненный</k><def>ebriigita</def></ar>
+<ar><k>оракул</k><def>orakolo</def></ar>
+<ar><k>оратор</k><def>oratoro</def></ar>
+<ar><k>орган</k><def>organo</def></ar>
+<ar><k>организм</k><def>organismo</def></ar>
+<ar><k>орден</k><def>ordeno</def></ar>
+<ar><k>орех, грецкий орех</k><def>nukso, juglando</def></ar>
+<ar><k>ориентировать</k><def>orienti</def></ar>
+<ar><k>оркестр</k><def>orkestro</def></ar>
+<ar><k>орудие</k><def>kanono</def></ar>
+<ar><k>орфография</k><def>ortografio</def></ar>
+<ar><k>оса</k><def>vespo</def></ar>
+<ar><k>осаждать</k><def>sieĝi</def></ar>
+<ar><k>осаждать, отлагать</k><def>precipiti</def></ar>
+<ar><k>осанка, фигура</k><def>staturo</def></ar>
+<ar><k>освещать, озарять</k><def>klarigi, ilumini</def></ar>
+<ar><k>освободить, избавить</k><def>liberigi</def></ar>
+<ar><k>осёл</k><def>azeno</def></ar>
+<ar><k>осень</k><def>aŭtuno</def></ar>
+<ar><k>осина</k><def>tremolo</def></ar>
+<ar><k>основа, фундамент</k><def>fundamento</def></ar>
+<ar><k>основа, причина</k><def>bazo, kialo</def></ar>
+<ar><k>основать, учредить</k><def>fondi, konstitui</def></ar>
+<ar><k>основать, учредить, влиять</k><def>fondi, influi</def></ar>
+<ar><k>особенно</k><def>precipe</def></ar>
+<ar><k>особенный, отдельный</k><def>aparta</def></ar>
+<ar><k>оставлять, класть</k><def>lasi, meti</def></ar>
+<ar><k>останавливаться</k><def>halti</def></ar>
+<ar><k>остановка</k><def>haltejo</def></ar>
+<ar><k>осторожный</k><def>diskreta</def></ar>
+<ar><k>остров</k><def>insulo</def></ar>
+<ar><k>остроумный</k><def>sprita</def></ar>
+<ar><k>острый, резкий</k><def>akra</def></ar>
+<ar><k>острый, быстрый, скорый</k><def>akra, rapida</def></ar>
+<ar><k>оступаться, спотыкаться</k><def>stumbli</def></ar>
+<ar><k>от</k><def>de</def></ar>
+<ar><k>от всего сердца</k><def>tutkore</def></ar>
+<ar><k>отвергать</k><def>refuti</def></ar>
+<ar><k>ответственный</k><def>respondeca</def></ar>
+<ar><k>отвечать</k><def>respondi</def></ar>
+<ar><k>отвратительный, мерзкий</k><def>abomena</def></ar>
+<ar><k>отвращение</k><def>abomeno</def></ar>
+<ar><k>отдел</k><def>fako, sekcio</def></ar>
+<ar><k>отдел, отделение, отрасль</k><def>fako</def></ar>
+<ar><k>отделение, отрасль</k><def>fako, branĉo</def></ar>
+<ar><k>отдельный</k><def>aparta</def></ar>
+<ar><k>отделять, изолировать</k><def>izoli</def></ar>
+<ar><k>отдых, удовольствие</k><def>ripozo, plezuro</def></ar>
+<ar><k>отдыхать</k><def>ripozi</def></ar>
+<ar><k>отец</k><def>patro</def></ar>
+<ar><k>отзываться эхом</k><def>eĥi</def></ar>
+<ar><k>отказываться, отклонять</k><def>rifuzi</def></ar>
+<ar><k>отказываться, отрекаться</k><def>rezigni</def></ar>
+<ar><k>откладывать</k><def>prokrasti</def></ar>
+<ar><k>отклик</k><def>reeĥo</def></ar>
+<ar><k>откос, склон</k><def>deklivo</def></ar>
+<ar><k>открытый</k><def>aperta, malfermita</def></ar>
+<ar><k>открыть, изобрести</k><def>eltrovi, inventi</def></ar>
+<ar><k>отличать, различать</k><def>distingi</def></ar>
+<ar><k>отличаться, различаться</k><def>diferenci</def></ar>
+<ar><k>отличный</k><def>perfekta</def></ar>
+<ar><k>отменять, уничтожать</k><def>abol(ici)i</def></ar>
+<ar><k>относительно</k><def>rilate</def></ar>
+<ar><k>относительный</k><def>relativa</def></ar>
+<ar><k>относиться (иметь отношение)</k><def>rilati</def></ar>
+<ar><k>отпечаток, след</k><def>spuro</def></ar>
+<ar><k>отпуск</k><def>ferio, libertempo</def></ar>
+<ar><k>отражать</k><def>reflekti</def></ar>
+<ar><k>отрекаться</k><def>rezigni</def></ar>
+<ar><k>отрицательный</k><def>negativa</def></ar>
+<ar><k>отряд</k><def>tаĉmento</def></ar>
+<ar><k>отсутствовать</k><def>foresti</def></ar>
+<ar><k>отсылать, направлять</k><def>ekspedi</def></ar>
+<ar><k>оттенок, нюанс</k><def>nuanco</def></ar>
+<ar><k>отчаяние</k><def>despero</def></ar>
+<ar><k>офицер</k><def>oficiro</def></ar>
+<ar><k>официант</k><def>kelnero</def></ar>
+<ar><k>офис, место работы</k><def>oficejo, laborejo</def></ar>
+<ar><k>ох</k><def>ho</def></ar>
+<ar><k>охотиться, преследовать</k><def>ĉasi</def></ar>
+<ar><k>охотно, добровольно</k><def>volonte</def></ar>
+<ar><k>охранять</k><def>gardi</def></ar>
+<ar><k>охранять, предохранять</k><def>protekti</def></ar>
+<ar><k>очевидный, явный, ясный</k><def>evidenta, klara</def></ar>
+<ar><k>очень</k><def>tre</def></ar>
+<ar><k>очередь</k><def>vico</def></ar>
+<ar><k>очерк</k><def>priskribo</def></ar>
+<ar><k>очертание, контур</k><def>konturo</def></ar>
+<ar><k>ошибаться</k><def>erari</def></ar>
+<ar><k>ощущение, чувство</k><def>sensо</def></ar>
+<ar><k>пёстрый, цветной</k><def>bunta</def></ar>
+<ar><k>павлин</k><def>pavo</def></ar>
+<ar><k>падать</k><def>fali</def></ar>
+<ar><k>падать в обморок</k><def>sveni</def></ar>
+<ar><k>падеж</k><def>kazo</def></ar>
+<ar><k>пай, акция</k><def>akcio</def></ar>
+<ar><k>пакет, упаковка, тюк</k><def>pako</def></ar>
+<ar><k>палатальный, нёбный звук</k><def>palatalo</def></ar>
+<ar><k>палатка, тент, шатёр</k><def>tendo</def></ar>
+<ar><k>палец</k><def>fingro</def></ar>
+<ar><k>палитра</k><def>paletro</def></ar>
+<ar><k>палка, строевой лес</k><def>bastono, ligno</def></ar>
+<ar><k>палка, трость</k><def>bastono</def></ar>
+<ar><k>пальма</k><def>palmo</def></ar>
+<ar><k>пальто</k><def>palto</def></ar>
+<ar><k>памятник</k><def>monumento</def></ar>
+<ar><k>память</k><def>memoro</def></ar>
+<ar><k>панель, табло</k><def>panelo</def></ar>
+<ar><k>паника</k><def>paniko</def></ar>
+<ar><k>панорама</k><def>panoramo</def></ar>
+<ar><k>папа, отец</k><def>paĉjo</def></ar>
+<ar><k>папка, портфель</k><def>teko</def></ar>
+<ar><k>пар</k><def>vaporo</def></ar>
+<ar><k>пар (поле под паром)</k><def>novalo</def></ar>
+<ar><k>пара, чета</k><def>paro</def></ar>
+<ar><k>парабола</k><def>parabolo</def></ar>
+<ar><k>парадокс</k><def>paradokso</def></ar>
+<ar><k>паразит</k><def>parazito</def></ar>
+<ar><k>парализовать</k><def>paralizi</def></ar>
+<ar><k>параллель</k><def>paralelo</def></ar>
+<ar><k>параметр</k><def>parametro</def></ar>
+<ar><k>парик</k><def>peruko</def></ar>
+<ar><k>парк</k><def>parko</def></ar>
+<ar><k>парламент</k><def>parlamento</def></ar>
+<ar><k>пародия</k><def>parodio</def></ar>
+<ar><k>пароним</k><def>paronimo</def></ar>
+<ar><k>партизанская война</k><def>gerilo</def></ar>
+<ar><k>партия</k><def>partio</def></ar>
+<ar><k>паспорт</k><def>pasporto</def></ar>
+<ar><k>пассажир</k><def>pasaĝero</def></ar>
+<ar><k>пассивный</k><def>pasiva</def></ar>
+<ar><k>паста</k><def>pasto</def></ar>
+<ar><k>пасти</k><def>paŝti</def></ar>
+<ar><k>пастор, священник</k><def>pastro</def></ar>
+<ar><k>пасть, нёбо</k><def>buŝego, palato</def></ar>
+<ar><k>патент</k><def>patento</def></ar>
+<ar><k>патриарх</k><def>patriarko</def></ar>
+<ar><k>патриот</k><def>patrioto</def></ar>
+<ar><k>пауза, перерыв</k><def>paŭzo</def></ar>
+<ar><k>паук</k><def>araneo</def></ar>
+<ar><k>пафос, воодушевление</k><def>patoso</def></ar>
+<ar><k>пахнуть</k><def>odori</def></ar>
+<ar><k>педагог</k><def>pedagogo</def></ar>
+<ar><k>педагогика</k><def>pedagogio</def></ar>
+<ar><k>педант</k><def>pedanto</def></ar>
+<ar><k>пейзаж, вид</k><def>pejzaĝo</def></ar>
+<ar><k>пена</k><def>ŝaŭ mo</def></ar>
+<ar><k>пенсионер</k><def>emerito</def></ar>
+<ar><k>пенсия</k><def>pensio</def></ar>
+<ar><k>пепел, зола</k><def>cindro</def></ar>
+<ar><k>переваривать</k><def>digesti</def></ar>
+<ar><k>перевести</k><def>traduki</def></ar>
+<ar><k>перевод (устный)</k><def>interpreto</def></ar>
+<ar><k>перед</k><def>antaŭ</def></ar>
+<ar><k>передняя сторона</k><def>fronto</def></ar>
+<ar><k>передняя, вестибюль</k><def>vestiblo</def></ar>
+<ar><k>перемещать, переставлять</k><def>komuti</def></ar>
+<ar><k>переносить, откладывать</k><def>prokrasti</def></ar>
+<ar><k>переписываться</k><def>korespondi</def></ar>
+<ar><k>переполненный</k><def>plen, plena</def></ar>
+<ar><k>перец (красный)</k><def>paperonio</def></ar>
+<ar><k>перец (чёрный)</k><def>pipro</def></ar>
+<ar><k>период, эпоха</k><def>periodo, epoko</def></ar>
+<ar><k>перрон</k><def>alveturejo, kajo</def></ar>
+<ar><k>персик</k><def>persiko</def></ar>
+<ar><k>песок</k><def>sablo</def></ar>
+<ar><k>пессимизм</k><def>pesimismo</def></ar>
+<ar><k>пессимистичный</k><def>pesimisma</def></ar>
+<ar><k>пёстрый, цветной</k><def>bunta</def></ar>
+<ar><k>петрушка</k><def>petroselo</def></ar>
+<ar><k>петух</k><def>koko</def></ar>
+<ar><k>петь</k><def>kanti</def></ar>
+<ar><k>печальный</k><def>malĝoja</def></ar>
+<ar><k>печатать</k><def>presi</def></ar>
+<ar><k>печатать на машинке</k><def>tajpi</def></ar>
+<ar><k>печень</k><def>hepato</def></ar>
+<ar><k>печка</k><def>forno</def></ar>
+<ar><k>печь</k><def>baki</def></ar>
+<ar><k>пещера</k><def>kaverno</def></ar>
+<ar><k>пианино</k><def>piano</def></ar>
+<ar><k>пиво</k><def>biero</def></ar>
+<ar><k>пижама</k><def>piĵamo</def></ar>
+<ar><k>пилить</k><def>segi</def></ar>
+<ar><k>пилот, летчик</k><def>piloto</def></ar>
+<ar><k>пионер</k><def>pioniro</def></ar>
+<ar><k>пировать</k><def>festeni</def></ar>
+<ar><k>пирожок (с луком и мясом)</k><def>kuko (kun cepo kaj)</def></ar>
+<ar><k>писать</k><def>skribi</def></ar>
+<ar><k>писать красками</k><def>pentri</def></ar>
+<ar><k>письмо</k><def>letero</def></ar>
+<ar><k>письмо</k><def>skribaĵo</def></ar>
+<ar><k>пить</k><def>trinki</def></ar>
+<ar><k>плавать</k><def>naĝi</def></ar>
+<ar><k>пламя</k><def>flamo</def></ar>
+<ar><k>план, чертёж</k><def>plano, desegnaĵo</def></ar>
+<ar><k>планета</k><def>planedo</def></ar>
+<ar><k>планка, рейка, дранка</k><def>lato</def></ar>
+<ar><k>пласт, слой, этаж</k><def>tavolo, etaĝo</def></ar>
+<ar><k>пластик, пластмасса</k><def>plasto</def></ar>
+<ar><k>платить</k><def>pagi</def></ar>
+<ar><k>платок</k><def>tuko</def></ar>
+<ar><k>плащ</k><def>mantelo</def></ar>
+<ar><k>плевать</k><def>kraĉi</def></ar>
+<ar><k>племя, род</k><def>gento, tribo</def></ar>
+<ar><k>племянник</k><def>nevo</def></ar>
+<ar><k>плен, неволя</k><def>mallibereco</def></ar>
+<ar><k>плести, вить</k><def>plekti, volvi</def></ar>
+<ar><k>плечо</k><def>ŝultro</def></ar>
+<ar><k>плита кухонная</k><def>fornelo</def></ar>
+<ar><k>плодородный</k><def>fekunda</def></ar>
+<ar><k>плодотворный</k><def>fruktodona</def></ar>
+<ar><k>плоский, ровный</k><def>ebena</def></ar>
+<ar><k>плотина, дамба</k><def>digo</def></ar>
+<ar><k>плотный, частый, густой</k><def>densa</def></ar>
+<ar><k>площадь</k><def>placo</def></ar>
+<ar><k>плыть на судне</k><def>navigi</def></ar>
+<ar><k>плюс</k><def>plus</def></ar>
+<ar><k>пляж</k><def>plaĝo</def></ar>
+<ar><k>по всякой причине</k><def>ĉial</def></ar>
+<ar><k>по крайней мере, хотя бы</k><def>almenaŭ</def></ar>
+<ar><k>по, согласно</k><def>laŭ</def></ar>
+<ar><k>победитель</k><def>venkinto</def></ar>
+<ar><k>побуждать, подстрекать</k><def>instigi</def></ar>
+<ar><k>поверхность</k><def>surfaco</def></ar>
+<ar><k>поверхность, уровень</k><def>surfaco, nivelo</def></ar>
+<ar><k>повиноваться, слушаться</k><def>obei</def></ar>
+<ar><k>повод, предлог</k><def>preteksto</def></ar>
+<ar><k>поводья</k><def>tirrimeno</def></ar>
+<ar><k>повозка, колесница</k><def>ĉaro</def></ar>
+<ar><k>повреждать, портить</k><def>damaĝi, difekti</def></ar>
+<ar><k>повторять</k><def>ripeti</def></ar>
+<ar><k>повышать, поднимать</k><def>levi</def></ar>
+<ar><k>погибать</k><def>perei</def></ar>
+<ar><k>поглощать (силы, внимание)</k><def>absorbi</def></ar>
+<ar><k>поглощать, впитывать</k><def>gluti, absorbi</def></ar>
+<ar><k>погода</k><def>vetero</def></ar>
+<ar><k>подбородок</k><def>mentono</def></ar>
+<ar><k>подглядывать</k><def>gvati</def></ar>
+<ar><k>поддерживать, беречь</k><def>flegi, gardi</def></ar>
+<ar><k>поддерживать, подпирать</k><def>apogi</def></ar>
+<ar><k>подлежащее</k><def>subjekto</def></ar>
+<ar><k>подмостки, помост</k><def>podio</def></ar>
+<ar><k>подмостки, помост, эстрада</k><def>podio, estrado</def></ar>
+<ar><k>поднимать цену</k><def>remburi</def></ar>
+<ar><k>поднос</k><def>pleto</def></ar>
+<ar><k>подобно</k><def>simile</def></ar>
+<ar><k>подобный, похожий</k><def>simila</def></ar>
+<ar><k>подозревать</k><def>suspekti</def></ar>
+<ar><k>подошва</k><def>plando</def></ar>
+<ar><k>подпорка</k><def>apogilo</def></ar>
+<ar><k>подражание</k><def>imito</def></ar>
+<ar><k>подробность</k><def>detalo</def></ar>
+<ar><k>подстрекательство</k><def>incito, provoko (на плохое), instigo (на хорошее)</def></ar>
+<ar><k>подстрекать, провоцировать</k><def>inciti, provoki (на плохое), instigi (на хорошее)</def></ar>
+<ar><k>подушка</k><def>kuseno</def></ar>
+<ar><k>подходящий, уместный</k><def>konvena</def></ar>
+<ar><k>подчиняться</k><def>obei</def></ar>
+<ar><k>поединок, дуэль</k><def>duelo</def></ar>
+<ar><k>поезд, серия, ряд</k><def>trajno, serio</def></ar>
+<ar><k>позвоночник, хребет</k><def>spino, vertebraro</def></ar>
+<ar><k>поздравлять</k><def>gratuli</def></ar>
+<ar><k>позировать</k><def>pozi</def></ar>
+<ar><k>позиция, положение</k><def>pozicio, situo</def></ar>
+<ar><k>позорить</k><def>malhonori</def></ar>
+<ar><k>пой, отдых</k><def>trankvileco, ripozo</def></ar>
+<ar><k>показывать, представлять</k><def>montri, prezenti</def></ar>
+<ar><k>покорный слуга</k><def>obeema servanto</def></ar>
+<ar><k>покорный, смиренный</k><def>humila</def></ar>
+<ar><k>покоробиться</k><def>kurbiĝi</def></ar>
+<ar><k>покрывало</k><def>kovrilo</def></ar>
+<ar><k>покупать</k><def>aĉeti</def></ar>
+<ar><k>пол, настил</k><def>planko</def></ar>
+<ar><k>пол, род</k><def>sekso, genro</def></ar>
+<ar><k>поле</k><def>kampo</def></ar>
+<ar><k>полевой госпиталь</k><def>ambulanco</def></ar>
+<ar><k>полезный</k><def>utila</def></ar>
+<ar><k>ползать, пресмыкаться</k><def>rampi</def></ar>
+<ar><k>полиглот</k><def>poligloto</def></ar>
+<ar><k>политика</k><def>politiko</def></ar>
+<ar><k>полиция</k><def>polico</def></ar>
+<ar><k>полиэтилен</k><def>polietileno</def></ar>
+<ar><k>полка</k><def>breto</def></ar>
+<ar><k>полный, наполненный</k><def>plena</def></ar>
+<ar><k>полный, тотальный</k><def>totala</def></ar>
+<ar><k>половина</k><def>duono</def></ar>
+<ar><k>половое влечение</k><def>libido</def></ar>
+<ar><k>положение, состояние</k><def>stato</def></ar>
+<ar><k>положительный</k><def>pozitiva</def></ar>
+<ar><k>полотно, холст</k><def>tolo</def></ar>
+<ar><k>пользоваться, применять</k><def>apliki</def></ar>
+<ar><k>полюс</k><def>poluso</def></ar>
+<ar><k>поляризовать</k><def>polarizi</def></ar>
+<ar><k>помеха</k><def>obstaklo</def></ar>
+<ar><k>помещать</k><def>lokigi</def></ar>
+<ar><k>помидор</k><def>tomato</def></ar>
+<ar><k>помогать</k><def>helpi</def></ar>
+<ar><k>помогать, ассистировать</k><def>asisti</def></ar>
+<ar><k>помогать, содействовать</k><def>helpi</def></ar>
+<ar><k>понимать</k><def>kompreni</def></ar>
+<ar><k>понос</k><def>lakso</def></ar>
+<ar><k>понятие</k><def>nocio</def></ar>
+<ar><k>попона</k><def>ĉevalkovrilo</def></ar>
+<ar><k>популярный</k><def>populara</def></ar>
+<ar><k>порог</k><def>sojlo</def></ar>
+<ar><k>порок, вина, стыд</k><def>malvirto, kulpo</def></ar>
+<ar><k>портиться</k><def>malboniĝi, putri</def></ar>
+<ar><k>портной</k><def>tajloro</def></ar>
+<ar><k>поручать</k><def>komisii</def></ar>
+<ar><k>порция</k><def>porcio</def></ar>
+<ar><k>порыв, пароксизм</k><def>impeto, paroksismo</def></ar>
+<ar><k>порядок</k><def>ordo</def></ar>
+<ar><k>послание, сообщение</k><def>mesaĝo</def></ar>
+<ar><k>последний</k><def>lasta</def></ar>
+<ar><k>последователь, сторонник</k><def>adepto</def></ar>
+<ar><k>последователь, ученик</k><def>disĉiplo</def></ar>
+<ar><k>посох, палка</k><def>bastono</def></ar>
+<ar><k>посредством</k><def>per</def></ar>
+<ar><k>постель</k><def>lito</def></ar>
+<ar><k>посылать</k><def>sendi</def></ar>
+<ar><k>посягать</k><def>atenci kontraŭ io</def></ar>
+<ar><k>посягать, покушаться</k><def>atenci</def></ar>
+<ar><k>пот, испарина</k><def>ŝvito</def></ar>
+<ar><k>потакать</k><def>flati</def></ar>
+<ar><k>потенциал</k><def>potencialo</def></ar>
+<ar><k>потолок</k><def>plafono</def></ar>
+<ar><k>потомок, клан, род</k><def>posteulo, ido,klano</def></ar>
+<ar><k>потому</k><def>tial</def></ar>
+<ar><k>почему</k><def>kial</def></ar>
+<ar><k>почему-то</k><def>ial</def></ar>
+<ar><k>почет, честь</k><def>honoro</def></ar>
+<ar><k>почет, честь, уважение</k><def>honoro, estimo</def></ar>
+<ar><k>почитать, уважать</k><def>respekti</def></ar>
+<ar><k>почта, коммуникация</k><def>poŝto, komunikado</def></ar>
+<ar><k>почтение, уважение</k><def>omaĝo</def></ar>
+<ar><k>пошлина</k><def>doganimposto</def></ar>
+<ar><k>пошлый</k><def>malĝentila</def></ar>
+<ar><k>поэзия</k><def>poezio</def></ar>
+<ar><k>поэт</k><def>poeto</def></ar>
+<ar><k>правда</k><def>vero</def></ar>
+<ar><k>правдивый, действительный</k><def>vera, reala</def></ar>
+<ar><k>правило</k><def>regulo</def></ar>
+<ar><k>правильный, прямой</k><def>prava, rekta</def></ar>
+<ar><k>править, управлять</k><def>regi</def></ar>
+<ar><k>право</k><def>rajto</def></ar>
+<ar><k>право, юриспруденция</k><def>juro</def></ar>
+<ar><k>правосудие, юстиция</k><def>justico</def></ar>
+<ar><k>правый</k><def>dekstra</def></ar>
+<ar><k>правый, верный</k><def>dekstra, vera</def></ar>
+<ar><k>прагматический</k><def>pragmata</def></ar>
+<ar><k>праздник</k><def>festo</def></ar>
+<ar><k>праздновать</k><def>festi</def></ar>
+<ar><k>практика, занятие, опыт</k><def>praktiko</def></ar>
+<ar><k>преграда, препятствие</k><def>baro</def></ar>
+<ar><k>предвосхищать</k><def>anticipi</def></ar>
+<ar><k>предлагать</k><def>oferti, proponi</def></ar>
+<ar><k>предлог</k><def>prepozicio</def></ar>
+<ar><k>предложение</k><def>oferto</def></ar>
+<ar><k>предложение (фраза)</k><def>propozicio</def></ar>
+<ar><k>предназначать</k><def>destini</def></ar>
+<ar><k>предписывать, прописывать</k><def>preskribi</def></ar>
+<ar><k>предпринимать, браться</k><def>entrepreni</def></ar>
+<ar><k>предприятие</k><def>entrepreno</def></ar>
+<ar><k>председательствовать</k><def>prezidi</def></ar>
+<ar><k>предсказание</k><def>aŭguro</def></ar>
+<ar><k>предсказатель</k><def>antaŭdirulo</def></ar>
+<ar><k>представление</k><def>imago</def></ar>
+<ar><k>представлять</k><def>prezenti, reprezenti</def></ar>
+<ar><k>представлять, знакомить</k><def>prezenti</def></ar>
+<ar><k>представляться</k><def>prezentiĝi</def></ar>
+<ar><k>предупреждать</k><def>averti</def></ar>
+<ar><k>предупреждать, предотвращать</k><def>preventi</def></ar>
+<ar><k>предусмотрительный</k><def>antaŭvidemulo</def></ar>
+<ar><k>предчувствие</k><def>antaŭsento</def></ar>
+<ar><k>президент</k><def>prezidento</def></ar>
+<ar><k>президиум</k><def>prezidio</def></ar>
+<ar><k>преимущество</k><def>avantaĝo</def></ar>
+<ar><k>прекращаться</k><def>ĉesi</def></ar>
+<ar><k>прелестный</k><def>ĉarma, gracia</def></ar>
+<ar><k>преломлять</k><def>refrakti</def></ar>
+<ar><k>премия, награда, приз</k><def>premio</def></ar>
+<ar><k>пренебрегать</k><def>neglekti</def></ar>
+<ar><k>препятствовать, мешать</k><def>malhelpi</def></ar>
+<ar><k>преследовать</k><def>persekuti</def></ar>
+<ar><k>престиж</k><def>prestiĝo</def></ar>
+<ar><k>преступление</k><def>krimo</def></ar>
+<ar><k>претендовать</k><def>pretendi</def></ar>
+<ar><k>преувеличение</k><def>troigo</def></ar>
+<ar><k>префикс, приставка</k><def>prefikso</def></ar>
+<ar><k>приблизительно</k><def>ĉirkaŭ</def></ar>
+<ar><k>прибор, аппарат</k><def>aparato</def></ar>
+<ar><k>привести в порядок</k><def>aranĝi</def></ar>
+<ar><k>приветствовать</k><def>saluti</def></ar>
+<ar><k>привидение, призрак</k><def>fantomo</def></ar>
+<ar><k>привилегия</k><def>privilegio</def></ar>
+<ar><k>привилегия, льгота</k><def>privilegio, rabato</def></ar>
+<ar><k>привлекать, вовлекать</k><def>allogi, engaĝi</def></ar>
+<ar><k>приводить в недоумение</k><def>perpleksi</def></ar>
+<ar><k>приводить в уныние</k><def>depremi</def></ar>
+<ar><k>приглашать</k><def>inviti</def></ar>
+<ar><k>приглушённый</k><def>obtuza</def></ar>
+<ar><k>приговор, власть, приказ</k><def>kondamno, ordono</def></ar>
+<ar><k>приговорить, осудить</k><def>kondamni</def></ar>
+<ar><k>приданое</k><def>doto</def></ar>
+<ar><k>призма</k><def>prismo</def></ar>
+<ar><k>признавать</k><def>agnoski, konfesi</def></ar>
+<ar><k>признавать, сознавать</k><def>konfesi</def></ar>
+<ar><k>признательность</k><def>dankemo</def></ar>
+<ar><k>прийти в отчаяние</k><def>malesperi</def></ar>
+<ar><k>приказ, предписание</k><def>ordono</def></ar>
+<ar><k>приказывать, командовать</k><def>ordoni, komandi</def></ar>
+<ar><k>прикреплять, цеплять</k><def>kroĉi</def></ar>
+<ar><k>прилив и отлив</k><def>tajdo</def></ar>
+<ar><k>пример, образец, эталон</k><def>ekzemplo</def></ar>
+<ar><k>примитивный, банальный</k><def>primitiva, banala</def></ar>
+<ar><k>принадлежать чему-либо</k><def>aparteni al io</def></ar>
+<ar><k>принадлежащий другому</k><def>alies</def></ar>
+<ar><k>принимать, соглашаться</k><def>akcepti, aprobi, konsenti</def></ar>
+<ar><k>приносить в жертву</k><def>oferdoni</def></ar>
+<ar><k>принцип</k><def>principo</def></ar>
+<ar><k>приобретать, добывать</k><def>akiri</def></ar>
+<ar><k>приоритет</k><def>prioritato</def></ar>
+<ar><k>приписывать, присуждать</k><def>atribui</def></ar>
+<ar><k>природа</k><def>naturo</def></ar>
+<ar><k>присваивать</k><def>alproprigi</def></ar>
+<ar><k>приступ</k><def>paroksismo</def></ar>
+<ar><k>присутствовать</k><def>esti</def></ar>
+<ar><k>присягать</k><def>ĵuri</def></ar>
+<ar><k>приходить, прибывать</k><def>veni</def></ar>
+<ar><k>причастие</k><def>participo</def></ar>
+<ar><k>причесывать</k><def>kombi</def></ar>
+<ar><k>причина, повод</k><def>kaŭzo, kialo, preteksto</def></ar>
+<ar><k>причудливый</k><def>groteska</def></ar>
+<ar><k>приют, убежище</k><def>azilo</def></ar>
+<ar><k>приятный</k><def>agrabla</def></ar>
+<ar><k>проблема</k><def>problemo</def></ar>
+<ar><k>пробовать, испытывать</k><def>provi, kontroli</def></ar>
+<ar><k>провинция, область</k><def>provinco, regiono</def></ar>
+<ar><k>провожать, аккомпанировать</k><def>akompani</def></ar>
+<ar><k>провокация</k><def>provoko</def></ar>
+<ar><k>проволока, провод</k><def>drato</def></ar>
+<ar><k>провоцировать, подстрекать</k><def>provoki</def></ar>
+<ar><k>программа</k><def>programo</def></ar>
+<ar><k>прогрессировать</k><def>progresi</def></ar>
+<ar><k>продавать</k><def>vendi</def></ar>
+<ar><k>продавец</k><def>komizo</def></ar>
+<ar><k>продолжать</k><def>daŭrigi</def></ar>
+<ar><k>продукт</k><def>produkto</def></ar>
+<ar><k>продуктивность, эффективность</k><def>rendimento</def></ar>
+<ar><k>проект</k><def>projekto</def></ar>
+<ar><k>проза</k><def>prozo</def></ar>
+<ar><k>прозвище</k><def>kromnomo</def></ar>
+<ar><k>прозрачный</k><def>diafana</def></ar>
+<ar><k>произведение</k><def>verko</def></ar>
+<ar><k>производительность</k><def>rendimento</def></ar>
+<ar><k>производить, образовывать</k><def>produkti, derivi</def></ar>
+<ar><k>произвольный</k><def>arbitra</def></ar>
+<ar><k>произносить</k><def>prononci</def></ar>
+<ar><k>происходить, случаться</k><def>deveni, okazi</def></ar>
+<ar><k>происшествие, событие</k><def>evento</def></ar>
+<ar><k>проклинать</k><def>damni, sakri</def></ar>
+<ar><k>пролетарий</k><def>proleto</def></ar>
+<ar><k>пролог</k><def>prologo</def></ar>
+<ar><k>промышленность, индустрия</k><def>industrio</def></ar>
+<ar><k>проницательный</k><def>sagaca, penetranta</def></ar>
+<ar><k>пропагандировать</k><def>propagandi</def></ar>
+<ar><k>пропасть, пучина</k><def>abismo</def></ar>
+<ar><k>прописная буква</k><def>majusklo</def></ar>
+<ar><k>проповедовать</k><def>prediki</def></ar>
+<ar><k>пропорция</k><def>proporcio</def></ar>
+<ar><k>пророк</k><def>profeto</def></ar>
+<ar><k>просвещенный</k><def>klera</def></ar>
+<ar><k>просеивать</k><def>kribri</def></ar>
+<ar><k>просить</k><def>peti</def></ar>
+<ar><k>проспект</k><def>avenuo</def></ar>
+<ar><k>проспект (описание)</k><def>prospekto</def></ar>
+<ar><k>проститутка, шлюха</k><def>putino</def></ar>
+<ar><k>простой, несложный</k><def>ordinara, simpla</def></ar>
+<ar><k>простой, примитивный</k><def>simpla, primitiva</def></ar>
+<ar><k>просторный, широкий</k><def>larĝa</def></ar>
+<ar><k>пространство</k><def>spaco</def></ar>
+<ar><k>против, напротив</k><def>kontraŭ</def></ar>
+<ar><k>противопоставление</k><def>antitezo</def></ar>
+<ar><k>противостоять</k><def>rezisti</def></ar>
+<ar><k>протокол</k><def>protokolo</def></ar>
+<ar><k>протыкать</k><def>truigi</def></ar>
+<ar><k>профан, невежда</k><def>profano, malklerulo</def></ar>
+<ar><k>профессия</k><def>profesio</def></ar>
+<ar><k>профессор, учитель</k><def>profesoro</def></ar>
+<ar><k>профиль</k><def>profilo</def></ar>
+<ar><k>профсоюз</k><def>sindikato</def></ar>
+<ar><k>процветать, преуспевать</k><def>prosperi, atingi</def></ar>
+<ar><k>процент</k><def>procento</def></ar>
+<ar><k>процесс, смена событий</k><def>procezo</def></ar>
+<ar><k>процессия</k><def>procesio</def></ar>
+<ar><k>прошлый</k><def>pasinta</def></ar>
+<ar><k>прощай(те)</k><def>adiaŭ</def></ar>
+<ar><k>проявлять</k><def>riveli</def></ar>
+<ar><k>проявлять инициативу</k><def>iniciati</def></ar>
+<ar><k>прыгать</k><def>salti</def></ar>
+<ar><k>прясть</k><def>ŝpini</def></ar>
+<ar><k>прятать, конспирировать</k><def>kaŝi, konspiri</def></ar>
+<ar><k>псевдоним</k><def>pseŭdonimo</def></ar>
+<ar><k>психика</k><def>psiko</def></ar>
+<ar><k>психология</k><def>psikologio</def></ar>
+<ar><k>птица</k><def>birdo</def></ar>
+<ar><k>публика, массы</k><def>publiko</def></ar>
+<ar><k>публика, общественность</k><def>publiko</def></ar>
+<ar><k>пузырь</k><def>veziko</def></ar>
+<ar><k>пуловер</k><def>pulover</def></ar>
+<ar><k>пульс</k><def>pulso</def></ar>
+<ar><k>пульт</k><def>pulto</def></ar>
+<ar><k>пуля, стрела</k><def>kuglo, sago</def></ar>
+<ar><k>пуп, пупок</k><def>umbiliko</def></ar>
+<ar><k>пустота</k><def>vakuo</def></ar>
+<ar><k>пустыня</k><def>dezerto</def></ar>
+<ar><k>путешественник</k><def>vojaĝanto</def></ar>
+<ar><k>путешествие, туризм</k><def>vojaĝo, turismo</def></ar>
+<ar><k>путешествовать</k><def>vojaĝi, turismi</def></ar>
+<ar><k>путч</k><def>puĉo</def></ar>
+<ar><k>пучина, недра земли</k><def>sino</def></ar>
+<ar><k>пчела</k><def>abelo</def></ar>
+<ar><k>пылкий, страстный</k><def>arda</def></ar>
+<ar><k>пыль</k><def>polvo</def></ar>
+<ar><k>пытать, истязать</k><def>torturi</def></ar>
+<ar><k>пытаться, стараться</k><def>peni, strebi</def></ar>
+<ar><k>пышный, высокопарный</k><def>bombasta</def></ar>
+<ar><k>пышный, торжественный</k><def>pompa, solena</def></ar>
+<ar><k>пьянствовать</k><def>drinki</def></ar>
+<ar><k>пьяный</k><def>ebria</def></ar>
+<ar><k>пюпитр</k><def>pupitro</def></ar>
+<ar><k>пятница</k><def>vendredo</def></ar>
+<ar><k>пять</k><def>kvin</def></ar>
+<ar><k>работать, трудиться</k><def>labori</def></ar>
+<ar><k>равновесие</k><def>ekvilibro</def></ar>
+<ar><k>равноценность</k><def>ekvivalento</def></ar>
+<ar><k>равный, одинаковый</k><def>egala</def></ar>
+<ar><k>радикальный</k><def>radikala</def></ar>
+<ar><k>радио</k><def>radio</def></ar>
+<ar><k>радиоактивный</k><def>radioaktiva</def></ar>
+<ar><k>радиовещание, радиофония</k><def>radiofonio</def></ar>
+<ar><k>радиолампа</k><def>radiolampo</def></ar>
+<ar><k>радоваться</k><def>ĝoji</def></ar>
+<ar><k>раз</k><def>fojo</def></ar>
+<ar><k>разбивать вдребезги</k><def>frakasi</def></ar>
+<ar><k>разбитый</k><def>rompita</def></ar>
+<ar><k>разведчик, шпион</k><def>spiono</def></ar>
+<ar><k>развивать</k><def>eduki, evoluigi</def></ar>
+<ar><k>развиваться</k><def>progresi</def></ar>
+<ar><k>развитие, эволюция</k><def>evolu(ci)o</def></ar>
+<ar><k>развлекать, веселить</k><def>amuzi, ĝojigi</def></ar>
+<ar><k>развлекать, отвлекать</k><def>distri</def></ar>
+<ar><k>разглагольствовать</k><def>multon vane diri</def></ar>
+<ar><k>раздуваться</k><def>ŝveli per aero</def></ar>
+<ar><k>размер, объём</k><def>amplekso, volumeno</def></ar>
+<ar><k>размышлять, обдумывать</k><def>pripensi</def></ar>
+<ar><k>разобщать</k><def>disigi</def></ar>
+<ar><k>разочаровать</k><def>senrevigi</def></ar>
+<ar><k>разрешать, позволять</k><def>permesi</def></ar>
+<ar><k>разрушать</k><def>fuŝi, detrui</def></ar>
+<ar><k>разрыв, трещина, щель</k><def>dis ŝiro, breĉo, fendo</def></ar>
+<ar><k>разум, рассудок</k><def>racio, menso</def></ar>
+<ar><k>разъяснение, примечание</k><def>klarigo, rimarko</def></ar>
+<ar><k>рай, райский сад</k><def>paradizo</def></ar>
+<ar><k>район</k><def>distrikto, regiono</def></ar>
+<ar><k>ракета</k><def>rakedo</def></ar>
+<ar><k>рана</k><def>vundo</def></ar>
+<ar><k>ранний</k><def>frua</def></ar>
+<ar><k>рапортовать, докладывать</k><def>raporti</def></ar>
+<ar><k>раса</k><def>raso</def></ar>
+<ar><k>раскалённый</k><def>arda</def></ar>
+<ar><k>раскол</k><def>skismo</def></ar>
+<ar><k>располагать</k><def>disponi</def></ar>
+<ar><k>расположение (место)</k><def>lokiĝo</def></ar>
+<ar><k>расположение (настроение)</k><def>bonhumoro, stato de</def></ar>
+<ar><k>расположение, устройство</k><def>dispozicio</def></ar>
+<ar><k>распоряжаться</k><def>disponi</def></ar>
+<ar><k>расправлять</k><def>glatigi</def></ar>
+<ar><k>распределять</k><def>distribui</def></ar>
+<ar><k>распространение, экспансия</k><def>ekspansio</def></ar>
+<ar><k>распространять</k><def>propagi, disvastigi</def></ar>
+<ar><k>рассказать, излагать</k><def>priparoli, rakonti</def></ar>
+<ar><k>рассказывать</k><def>rakonti</def></ar>
+<ar><k>рассматривать</k><def>kontempli</def></ar>
+<ar><k>расстилать, стелить</k><def>sterni</def></ar>
+<ar><k>расстояние, дистанция</k><def>distanco</def></ar>
+<ar><k>растение</k><def>planto, vegetalo</def></ar>
+<ar><k>расти</k><def>kreski</def></ar>
+<ar><k>расхищать</k><def>disŝteladi</def></ar>
+<ar><k>рафинировать, очищать</k><def>rafini</def></ar>
+<ar><k>реабилитировать</k><def>rehabiliti</def></ar>
+<ar><k>реакция, рутина</k><def>reakcio, rutino</def></ar>
+<ar><k>реальный, действительный</k><def>reala</def></ar>
+<ar><k>ребёнок</k><def>infano</def></ar>
+<ar><k>ревнивый</k><def>ĵaluza</def></ar>
+<ar><k>револьвер</k><def>revolvero</def></ar>
+<ar><k>революция</k><def>revolucio</def></ar>
+<ar><k>регион, область, пояс</k><def>regiono, zono</def></ar>
+<ar><k>регистрировать</k><def>registri</def></ar>
+<ar><k>регрессировать</k><def>regresi</def></ar>
+<ar><k>регулярный, правильный</k><def>regula</def></ar>
+<ar><k>редактировать</k><def>redakti</def></ar>
+<ar><k>редактор</k><def>redaktoro</def></ar>
+<ar><k>редакция</k><def>redakcio</def></ar>
+<ar><k>редкий</k><def>rara</def></ar>
+<ar><k>режиссёр</k><def>reĝisoro</def></ar>
+<ar><k>резать</k><def>tranĉi</def></ar>
+<ar><k>резкий</k><def>bruska</def></ar>
+<ar><k>резолюция</k><def>rezoluzio</def></ar>
+<ar><k>результат</k><def>rezulto</def></ar>
+<ar><k>резюмировать, подводить</k><def>resumi</def></ar>
+<ar><k>реклама</k><def>reklamo</def></ar>
+<ar><k>рекомендовать</k><def>rekomendi</def></ar>
+<ar><k>рекорд</k><def>rekordo</def></ar>
+<ar><k>ректор</k><def>rektoro</def></ar>
+<ar><k>ремень, пояс</k><def>rimeno, ledzono</def></ar>
+<ar><k>ремесло, мастерство</k><def>metio, majstreco</def></ar>
+<ar><k>ремесло, профессия</k><def>metio, profesio</def></ar>
+<ar><k>ренегат, отступник, изменник</k><def>renegato</def></ar>
+<ar><k>репертуар</k><def>repertuaro</def></ar>
+<ar><k>репрессия</k><def>reprezalio</def></ar>
+<ar><k>репутация</k><def>reputacio</def></ar>
+<ar><k>репутация, известность</k><def>reputacio, renomo</def></ar>
+<ar><k>республика</k><def>respubliko</def></ar>
+<ar><k>ресторан</k><def>restoracio</def></ar>
+<ar><k>рефлекс</k><def>reflekso</def></ar>
+<ar><k>рефлектор</k><def>reflektoro</def></ar>
+<ar><k>реформатор</k><def>reformatoro</def></ar>
+<ar><k>рецензировать</k><def>recenzi</def></ar>
+<ar><k>рецепт</k><def>recepto</def></ar>
+<ar><k>речь</k><def>parolo</def></ar>
+<ar><k>решать, принимать решение</k><def>solvi, decidi</def></ar>
+<ar><k>решающий</k><def>ĉefa</def></ar>
+<ar><k>решительный, непоколебимый</k><def>aŭdaca, rezoluta</def></ar>
+<ar><k>ржать</k><def>heni</def></ar>
+<ar><k>рикша</k><def>rikiŝo</def></ar>
+<ar><k>риск</k><def>risko</def></ar>
+<ar><k>рисовать карандашом</k><def>desegni</def></ar>
+<ar><k>ритм, темп, размер</k><def>ritmo, kadenco</def></ar>
+<ar><k>рифма</k><def>rimo</def></ar>
+<ar><k>риторика, красноречие</k><def>retoriko</def></ar>
+<ar><k>ровный, гладкий</k><def>ebena, glata</def></ar>
+<ar><k>род, вид</k><def>genro, speco</def></ar>
+<ar><k>родственник</k><def>parenco</def></ar>
+<ar><k>рожать, порождать</k><def>akuŝi, naski</def></ar>
+<ar><k>роль</k><def>rolo</def></ar>
+<ar><k>роман</k><def>romano</def></ar>
+<ar><k>романс</k><def>romanso</def></ar>
+<ar><k>романтика</k><def>romantiko</def></ar>
+<ar><k>ростовщик</k><def>uzuristo</def></ar>
+<ar><k>ростовщичество</k><def>uzuro</def></ar>
+<ar><k>рубашка, сорочка, платье</k><def>ĉemizo, robo</def></ar>
+<ar><k>рубин</k><def>rubeno</def></ar>
+<ar><k>ругаться</k><def>malpaciĝi</def></ar>
+<ar><k>рудник, руда, источник</k><def>minejo, erco, fonto</def></ar>
+<ar><k>ружьё</k><def>fusilo</def></ar>
+<ar><k>руины</k><def>ruino</def></ar>
+<ar><k>рукав</k><def>maniko</def></ar>
+<ar><k>руководить, править</k><def>gvidi, estri</def></ar>
+<ar><k>руководить, управлять</k><def>administri, regi</def></ar>
+<ar><k>рупор</k><def>megafono</def></ar>
+<ar><k>ручей</k><def>rojo, rivereto</def></ar>
+<ar><k>рыба</k><def>fiŝo</def></ar>
+<ar><k>рынок сбыта</k><def>merkato</def></ar>
+<ar><k>рысь</k><def>linko</def></ar>
+<ar><k>ряд, строй</k><def>spaliro, vico</def></ar>
+<ar><k>с, со</k><def>kun</def></ar>
+<ar><k>с, со, посредством, по</k><def>kun, per, po</def></ar>
+<ar><k>сад, огород, парк</k><def>ĝardeno, parko</def></ar>
+<ar><k>сажать</k><def>planti</def></ar>
+<ar><k>салат</k><def>salato</def></ar>
+<ar><k>салон</k><def>salono</def></ar>
+<ar><k>сам</k><def>mem</def></ar>
+<ar><k>самолет</k><def>aeroplano</def></ar>
+<ar><k>самоотверженность</k><def>abnegacio</def></ar>
+<ar><k>самоуверенность</k><def>aplombo</def></ar>
+<ar><k>самый</k><def>plej</def></ar>
+<ar><k>санаторий</k><def>sanatorio</def></ar>
+<ar><k>сани</k><def>sledo</def></ar>
+<ar><k>сантиметр</k><def>centimetro</def></ar>
+<ar><k>сапог</k><def>boto</def></ar>
+<ar><k>сарказм</k><def>sarkasmo</def></ar>
+<ar><k>сатира, юмор</k><def>satiro, humuro</def></ar>
+<ar><k>сахар</k><def>sukero</def></ar>
+<ar><k>свастика</k><def>svastiko</def></ar>
+<ar><k>свежий</k><def>freŝa</def></ar>
+<ar><k>сверток, рулон</k><def>rulo</def></ar>
+<ar><k>светить</k><def>lumi</def></ar>
+<ar><k>светлый, ясный</k><def>hela, klara, serena</def></ar>
+<ar><k>свидетельствовать</k><def>atesti</def></ar>
+<ar><k>свинец</k><def>plumbo</def></ar>
+<ar><k>свинья</k><def>porko</def></ar>
+<ar><k>свирепый, лютый</k><def>severa</def></ar>
+<ar><k>свистеть</k><def>fajfi</def></ar>
+<ar><k>свитер</k><def>svetero</def></ar>
+<ar><k>свободный</k><def>libera</def></ar>
+<ar><k>свободный от долга</k><def>kvita</def></ar>
+<ar><k>свойство</k><def>eco, propreco</def></ar>
+<ar><k>связать</k><def>komuniki</def></ar>
+<ar><k>святой, священный</k><def>sankta</def></ar>
+<ar><k>сгребать</k><def>ŝoveli</def></ar>
+<ar><k>сдаться, покориться</k><def>cedi</def></ar>
+<ar><k>сеанс</k><def>seanco</def></ar>
+<ar><k>себя</k><def>sin</def></ar>
+<ar><k>север</k><def>nordo</def></ar>
+<ar><k>сегодня</k><def>hodiaŭ</def></ar>
+<ar><k>седой</k><def>grizharulo</def></ar>
+<ar><k>сезон, время года</k><def>sezono</def></ar>
+<ar><k>сейчас, теперь, только что</k><def>nun</def></ar>
+<ar><k>секрет, тайна</k><def>sekreto</def></ar>
+<ar><k>секретарь</k><def>sekretario</def></ar>
+<ar><k>секунда</k><def>sekundo</def></ar>
+<ar><k>селевой поток</k><def>torento</def></ar>
+<ar><k>сельское хозяйство</k><def>agrikulturo</def></ar>
+<ar><k>семейный очаг</k><def>hejmo</def></ar>
+<ar><k>семинар</k><def>seminario</def></ar>
+<ar><k>семь</k><def>sep</def></ar>
+<ar><k>семья</k><def>familio</def></ar>
+<ar><k>сено</k><def>fojno</def></ar>
+<ar><k>сенсация</k><def>sensacio</def></ar>
+<ar><k>сентиментальный</k><def>sentimentala</def></ar>
+<ar><k>сентябрь</k><def>septembro</def></ar>
+<ar><k>сервант</k><def>kredenco</def></ar>
+<ar><k>сердитый, мрачный, хмурый</k><def>kolera, morna</def></ar>
+<ar><k>сердить</k><def>kolerigi</def></ar>
+<ar><k>серебро</k><def>arĝento</def></ar>
+<ar><k>середина</k><def>mezo</def></ar>
+<ar><k>середина, центр</k><def>mezo, centro</def></ar>
+<ar><k>сержант</k><def>serĝento</def></ar>
+<ar><k>серый</k><def>griza</def></ar>
+<ar><k>серьёзный</k><def>serioza</def></ar>
+<ar><k>сессия</k><def>sesio</def></ar>
+<ar><k>сетка, сеть</k><def>reto</def></ar>
+<ar><k>сигарета</k><def>cigaredo</def></ar>
+<ar><k>сигнал</k><def>signalo</def></ar>
+<ar><k>сидеть</k><def>sidi</def></ar>
+<ar><k>сила, мощность</k><def>forto, potenco</def></ar>
+<ar><k>силуэт</k><def>silueto</def></ar>
+<ar><k>сильное желание, страсть</k><def>forta deziro</def></ar>
+<ar><k>сильный</k><def>forta</def></ar>
+<ar><k>символ, герб</k><def>simbolo, blazono</def></ar>
+<ar><k>симпатия</k><def>simpatio</def></ar>
+<ar><k>синоним</k><def>sinonimo</def></ar>
+<ar><k>синтаксис</k><def>sintakso</def></ar>
+<ar><k>синхронный</k><def>sinkrona</def></ar>
+<ar><k>сирена, гудок</k><def>sireno</def></ar>
+<ar><k>сирота, бедный</k><def>orfo, povra</def></ar>
+<ar><k>система</k><def>sistemo</def></ar>
+<ar><k>ситуация</k><def>situacio</def></ar>
+<ar><k>ситуация, состояние</k><def>situacio, stato</def></ar>
+<ar><k>сказка, выдумка</k><def>fabelo</def></ar>
+<ar><k>скала, горная порода</k><def>roko</def></ar>
+<ar><k>скамеечка</k><def>skabelo</def></ar>
+<ar><k>скамейка</k><def>benko</def></ar>
+<ar><k>скачки, галоп</k><def>galopo</def></ar>
+<ar><k>скверна, болезнь, упрек</k><def>malsano, riproĉo</def></ar>
+<ar><k>сквернословить</k><def>blasfemi</def></ar>
+<ar><k>сквозь, через</k><def>tra</def></ar>
+<ar><k>скелет</k><def>skeleto</def></ar>
+<ar><k>скептический</k><def>skeptika</def></ar>
+<ar><k>скидка, уступка в цене</k><def>rabato, cedo en prezo</def></ar>
+<ar><k>складка, сборка</k><def>faldo</def></ar>
+<ar><k>складка, сборка, морщина</k><def>faldo, sulko</def></ar>
+<ar><k>склероз</k><def>sklerozo</def></ar>
+<ar><k>склонный</k><def>inklina</def></ar>
+<ar><k>скобка, скоба</k><def>krampo</def></ar>
+<ar><k>сковорода, пат</k><def>pato</def></ar>
+<ar><k>скользить</k><def>gliti</def></ar>
+<ar><k>сколько</k><def>kiom</def></ar>
+<ar><k>сколько-нибудь</k><def>iom</def></ar>
+<ar><k>скрипка</k><def>violino</def></ar>
+<ar><k>скромный</k><def>diskreta</def></ar>
+<ar><k>скромный, сдержанный</k><def>modesta, modera</def></ar>
+<ar><k>скрывать, утаивать</k><def>kaŝi</def></ar>
+<ar><k>скудный, худой</k><def>magra</def></ar>
+<ar><k>скулить</k><def>plorbleki</def></ar>
+<ar><k>скупой</k><def>avara</def></ar>
+<ar><k>слабый</k><def>febla, malforta</def></ar>
+<ar><k>слава</k><def>gloro</def></ar>
+<ar><k>слайд, диапозитив</k><def>slajdo</def></ar>
+<ar><k>следить за кем-то</k><def>postsekvi iun</def></ar>
+<ar><k>следовать, наблюдать</k><def>sekvi, observi</def></ar>
+<ar><k>слеза</k><def>larmo</def></ar>
+<ar><k>сленг, жаргон</k><def>slango</def></ar>
+<ar><k>слишком</k><def>tro</def></ar>
+<ar><k>словарь</k><def>vortaro</def></ar>
+<ar><k>слово, речь</k><def>vorto, parolo</def></ar>
+<ar><k>слог</k><def>silabo</def></ar>
+<ar><k>сложный</k><def>komplika</def></ar>
+<ar><k>слон</k><def>elefanto</def></ar>
+<ar><k>служба</k><def>servo</def></ar>
+<ar><k>служить, занимать должность</k><def>servi, deĵori</def></ar>
+<ar><k>случай, ситуация</k><def>okazo</def></ar>
+<ar><k>случайно встретить</k><def>trafi</def></ar>
+<ar><k>слышать</k><def>aŭdi</def></ar>
+<ar><k>смелый, храбрый</k><def>kuraĝa</def></ar>
+<ar><k>смешивать, перемешивать</k><def>miksi</def></ar>
+<ar><k>смеяться</k><def>ridi</def></ar>
+<ar><k>сморкаться</k><def>mungi</def></ar>
+<ar><k>сморщиться</k><def>ŝrumpi</def></ar>
+<ar><k>смотреть</k><def>rigardi</def></ar>
+<ar><k>смотреть (спектакль, фильм)</k><def>spekti</def></ar>
+<ar><k>смущать, конфузить</k><def>konfuzi</def></ar>
+<ar><k>смущение, стыд</k><def>konfuzo, honto</def></ar>
+<ar><k>смычок</k><def>arĉo</def></ar>
+<ar><k>снабжать, обеспечивать</k><def>provizi</def></ar>
+<ar><k>снег</k><def>neĝo</def></ar>
+<ar><k>снижаться, погружаться</k><def>sinki</def></ar>
+<ar><k>снимать, нанимать, брать</k><def>lui</def></ar>
+<ar><k>собака</k><def>hundo</def></ar>
+<ar><k>собираться</k><def>kolektiĝi</def></ar>
+<ar><k>соболезнование</k><def>kondolenco</def></ar>
+<ar><k>соболезновать</k><def>kondolenci</def></ar>
+<ar><k>соболь</k><def>zibelo</def></ar>
+<ar><k>собор</k><def>katedralo</def></ar>
+<ar><k>собор, храм</k><def>templo</def></ar>
+<ar><k>собрание, митинг</k><def>kunveno, mitingo</def></ar>
+<ar><k>собственный</k><def>propra</def></ar>
+<ar><k>событие, случай</k><def>evento, okazo</def></ar>
+<ar><k>совершать агрессию</k><def>agresi</def></ar>
+<ar><k>совершать экскурсию</k><def>ekskursi</def></ar>
+<ar><k>совершенно, совсем</k><def>tute</def></ar>
+<ar><k>совершенный, безупречный</k><def>perfekta</def></ar>
+<ar><k>совесть</k><def>konscienco</def></ar>
+<ar><k>совет</k><def>konsilo</def></ar>
+<ar><k>совет (учреждение)</k><def>konsilio</def></ar>
+<ar><k>советовать</k><def>konsili</def></ar>
+<ar><k>советовать, рекомендовать</k><def>konsili</def></ar>
+<ar><k>совместный</k><def>komuna</def></ar>
+<ar><k>совпадать</k><def>koincidi</def></ar>
+<ar><k>современный</k><def>moderna</def></ar>
+<ar><k>согласие, согласованность</k><def>akordo</def></ar>
+<ar><k>согласный звук</k><def>konsonanto</def></ar>
+<ar><k>соединять</k><def>kunligi</def></ar>
+<ar><k>сожалеть, раскаиваться</k><def>bedaŭri, penti</def></ar>
+<ar><k>созвездие</k><def>konstelacio</def></ar>
+<ar><k>созвучие</k><def>asonanso</def></ar>
+<ar><k>создавать, творить</k><def>krei, konstrui</def></ar>
+<ar><k>сознание</k><def>konscio</def></ar>
+<ar><k>сок</k><def>suko</def></ar>
+<ar><k>сокол</k><def>falko</def></ar>
+<ar><k>сокровище</k><def>trezoro</def></ar>
+<ar><k>сокровищница</k><def>trezorejo</def></ar>
+<ar><k>солдат</k><def>soldato</def></ar>
+<ar><k>солидарный, сплочённый</k><def>solidara</def></ar>
+<ar><k>солнце</k><def>suno</def></ar>
+<ar><k>соловей</k><def>najtingalo</def></ar>
+<ar><k>солома (от льна, пшеницы)</k><def>pajlo</def></ar>
+<ar><k>соль</k><def>salo</def></ar>
+<ar><k>сомнамбула, лунатик</k><def>somnambulo</def></ar>
+<ar><k>сомневаться, колебаться</k><def>dubi, heziti</def></ar>
+<ar><k>сон, сновидения</k><def>sonĝo</def></ar>
+<ar><k>сонет</k><def>soneto</def></ar>
+<ar><k>сообразный</k><def>konforma</def></ar>
+<ar><k>сообщать, информировать</k><def>sciigi, informi</def></ar>
+<ar><k>сообщение</k><def>informo</def></ar>
+<ar><k>соответствовать</k><def>konformiĝi</def></ar>
+<ar><k>соответствующий</k><def>koncerna</def></ar>
+<ar><k>соотносительный, коррелятивный</k><def>korelativa</def></ar>
+<ar><k>соревноваться, состязаться</k><def>konkuri</def></ar>
+<ar><k>сорока</k><def>pigo</def></ar>
+<ar><k>сосать (кормиться грудью)</k><def>suĉi</def></ar>
+<ar><k>сосед</k><def>najbaro</def></ar>
+<ar><k>состав, контингент</k><def>kontingento</def></ar>
+<ar><k>состоять</k><def>konsisti</def></ar>
+<ar><k>состязание, смотр, конкурс</k><def>konkurso</def></ar>
+<ar><k>сосуд (анатом. понятие)</k><def>vaskulo</def></ar>
+<ar><k>соус</k><def>saŭco</def></ar>
+<ar><k>софист</k><def>sofisto</def></ar>
+<ar><k>социальный</k><def>sociala</def></ar>
+<ar><k>социология</k><def>sociologio</def></ar>
+<ar><k>сочетать</k><def>kombini</def></ar>
+<ar><k>сочинение</k><def>ekzerca verko</def></ar>
+<ar><k>сочинять</k><def>verki, komponi</def></ar>
+<ar><k>сочувствие</k><def>kompato</def></ar>
+<ar><k>сочувствовать</k><def>kompati</def></ar>
+<ar><k>союз (объединение), лига</k><def>unio, ligo</def></ar>
+<ar><k>спасать</k><def>savi</def></ar>
+<ar><k>спать, лежать</k><def>dormi, kuŝi</def></ar>
+<ar><k>спектакль, зрелище</k><def>spektaklo</def></ar>
+<ar><k>спектр</k><def>spektro</def></ar>
+<ar><k>специальный, особенный</k><def>speciala, aparta</def></ar>
+<ar><k>специфический</k><def>specifa</def></ar>
+<ar><k>спешить, торопиться</k><def>hasti</def></ar>
+<ar><k>спина</k><def>dorso</def></ar>
+<ar><k>спинка</k><def>dorso</def></ar>
+<ar><k>список, перечень, табель</k><def>list, tabelo</def></ar>
+<ar><k>сплав</k><def>alojo</def></ar>
+<ar><k>сплетничать</k><def>klaĉi</def></ar>
+<ar><k>спокойный, мирный</k><def>trankvila, kvieta, paca</def></ar>
+<ar><k>спорить</k><def>disputi</def></ar>
+<ar><k>спорить, дискутировать</k><def>diskuti</def></ar>
+<ar><k>спорить, ссориться</k><def>disputi, kvereli</def></ar>
+<ar><k>спорт</k><def>sporto</def></ar>
+<ar><k>способ</k><def>maniero</def></ar>
+<ar><k>способ, средство</k><def>rimedo, procedo</def></ar>
+<ar><k>способность</k><def>kapableco</def></ar>
+<ar><k>способный</k><def>kapabla</def></ar>
+<ar><k>справедливый</k><def>justa</def></ar>
+<ar><k>спрашивать, просить</k><def>demandi, peti</def></ar>
+<ar><k>спрос</k><def>aĉetemo</def></ar>
+<ar><k>спуск</k><def>descendejo</def></ar>
+<ar><k>спускаться</k><def>descendi</def></ar>
+<ar><k>спутник</k><def>satelito</def></ar>
+<ar><k>сравнивать</k><def>kompari</def></ar>
+<ar><k>среда</k><def>merkredo</def></ar>
+<ar><k>средняя величина</k><def>averaĝo</def></ar>
+<ar><k>срывать</k><def>deŝiri</def></ar>
+<ar><k>ссылать</k><def>ekzili</def></ar>
+<ar><k>стабильный, устойчивый</k><def>stabila</def></ar>
+<ar><k>ставить, пребывать</k><def>resti</def></ar>
+<ar><k>стадион</k><def>stadiono</def></ar>
+<ar><k>стадо</k><def>grego</def></ar>
+<ar><k>стакан</k><def>glaso</def></ar>
+<ar><k>сталь</k><def>ŝtalo</def></ar>
+<ar><k>станиоль, фольга</k><def>staniolo</def></ar>
+<ar><k>станок, машина, механизм</k><def>maŝino</def></ar>
+<ar><k>станция</k><def>stacio</def></ar>
+<ar><k>старинный, античный</k><def>antikva</def></ar>
+<ar><k>старый</k><def>malnova</def></ar>
+<ar><k>старый (о человеке)</k><def>olda, maljuna</def></ar>
+<ar><k>старьё, хлам</k><def>ĉifonoj, fatraso</def></ar>
+<ar><k>статист</k><def>statisto</def></ar>
+<ar><k>статистика</k><def>statistiko</def></ar>
+<ar><k>статуя</k><def>statuo</def></ar>
+<ar><k>статья</k><def>artikolo</def></ar>
+<ar><k>створка</k><def>valvo</def></ar>
+<ar><k>стебель</k><def>tigo</def></ar>
+<ar><k>стенд, стойка</k><def>stаndo</def></ar>
+<ar><k>степень, ранг, чин</k><def>rango</def></ar>
+<ar><k>стеречь, хранить</k><def>konservi, stoki</def></ar>
+<ar><k>стилистика</k><def>stilistiko</def></ar>
+<ar><k>стимулировать</k><def>stimuli</def></ar>
+<ar><k>стирать бельё</k><def>lavi tolaĵojn</def></ar>
+<ar><k>стих</k><def>verso</def></ar>
+<ar><k>стихия</k><def>kataklismo</def></ar>
+<ar><k>сто</k><def>cent</def></ar>
+<ar><k>стоить</k><def>kosti</def></ar>
+<ar><k>стойкий, крепкий</k><def>stabila, firma</def></ar>
+<ar><k>стол</k><def>tablo</def></ar>
+<ar><k>столб</k><def>fosto</def></ar>
+<ar><k>столица, метрополия</k><def>ĉefurbo, metropolio</def></ar>
+<ar><k>столовая, закусочная</k><def>manĝejo</def></ar>
+<ar><k>стонать, охать, вздыхать</k><def>ĝemi</def></ar>
+<ar><k>сторона</k><def>flanko</def></ar>
+<ar><k>стоянка</k><def>haltejo</def></ar>
+<ar><k>стоять, оставаться</k><def>stari, resti</def></ar>
+<ar><k>страна</k><def>lando</def></ar>
+<ar><k>страница</k><def>paĝo</def></ar>
+<ar><k>странствовать</k><def>vojaĝi</def></ar>
+<ar><k>стратегия</k><def>strategio</def></ar>
+<ar><k>стрекотать, чирикать</k><def>ĉirpi</def></ar>
+<ar><k>стрелять</k><def>pafi</def></ar>
+<ar><k>стремиться</k><def>aspiri</def></ar>
+<ar><k>стремление</k><def>aspiro</def></ar>
+<ar><k>стричь ножницами</k><def>tondi</def></ar>
+<ar><k>строение</k><def>konstruaĵo</def></ar>
+<ar><k>строить</k><def>konstrui</def></ar>
+<ar><k>строить ловушку, засаду</k><def>insidi</def></ar>
+<ar><k>стройный</k><def>svelta</def></ar>
+<ar><k>строка</k><def>linio</def></ar>
+<ar><k>строфа</k><def>strofo</def></ar>
+<ar><k>строчная буква</k><def>minusklo</def></ar>
+<ar><k>структура, строение</k><def>strukturo</def></ar>
+<ar><k>ступа</k><def>pistujo</def></ar>
+<ar><k>стучать</k><def>frapi</def></ar>
+<ar><k>стыдиться</k><def>honti</def></ar>
+<ar><k>суббота</k><def>sabato</def></ar>
+<ar><k>субъект</k><def>subjekto</def></ar>
+<ar><k>субъективный</k><def>subjektiva</def></ar>
+<ar><k>суверенный правитель</k><def>suvereno</def></ar>
+<ar><k>суд</k><def>tribunalo</def></ar>
+<ar><k>судачить, болтать</k><def>babiladi</def></ar>
+<ar><k>судить, винить</k><def>juĝi, kulpigi</def></ar>
+<ar><k>судьба</k><def>sorto</def></ar>
+<ar><k>суета, суматоха</k><def>tumulto</def></ar>
+<ar><k>султан</k><def>sultano</def></ar>
+<ar><k>сумерки</k><def>krepusko</def></ar>
+<ar><k>сумма</k><def>sumo</def></ar>
+<ar><k>сундук</k><def>kofro</def></ar>
+<ar><k>суп</k><def>supo</def></ar>
+<ar><k>суровый, строгий</k><def>severa, strikta</def></ar>
+<ar><k>суровый, твердый</k><def>dura</def></ar>
+<ar><k>суррогат</k><def>surogato</def></ar>
+<ar><k>суслик</k><def>zizelo</def></ar>
+<ar><k>сустав</k><def>artiko</def></ar>
+<ar><k>сутки</k><def>diurno</def></ar>
+<ar><k>суффикс</k><def>sufikso</def></ar>
+<ar><k>сухой</k><def>seka</def></ar>
+<ar><k>существовать</k><def>ekzisti</def></ar>
+<ar><k>сцена, арена</k><def>sceno, areno</def></ar>
+<ar><k>счастливый</k><def>feliĉa</def></ar>
+<ar><k>считать</k><def>kalkuli</def></ar>
+<ar><k>съезд, конгресс</k><def>kongreso</def></ar>
+<ar><k>сын</k><def>filo</def></ar>
+<ar><k>сыпать</k><def>ŝuti</def></ar>
+<ar><k>сыр</k><def>fromaĝo</def></ar>
+<ar><k>сырой</k><def>malseka</def></ar>
+<ar><k>сытый</k><def>sata</def></ar>
+<ar><k>сыщик, детектив</k><def>detektivo</def></ar>
+<ar><k>сюита</k><def>suito</def></ar>
+<ar><k>табак</k><def>tabako</def></ar>
+<ar><k>таз</k><def>kokso</def></ar>
+<ar><k>таз (анатом.)</k><def>pelvo</def></ar>
+<ar><k>тайна, секрет</k><def>mistero, sekreto</def></ar>
+<ar><k>так как, потому что</k><def>ĉar</def></ar>
+<ar><k>так, таким образом</k><def>tiel</def></ar>
+<ar><k>такой</k><def>tia</def></ar>
+<ar><k>такси</k><def>taksio</def></ar>
+<ar><k>талант, дарование</k><def>talento</def></ar>
+<ar><k>талия, поясница</k><def>talio, lumbo</def></ar>
+<ar><k>таможенная пошлина</k><def>dogano</def></ar>
+<ar><k>танк</k><def>tanko</def></ar>
+<ar><k>танцевать</k><def>danci</def></ar>
+<ar><k>тапочка, чувяк</k><def>pantoflo</def></ar>
+<ar><k>тарелка</k><def>telero</def></ar>
+<ar><k>тариф</k><def>tarifo</def></ar>
+<ar><k>татуировать</k><def>tatui</def></ar>
+<ar><k>таять, плавиться</k><def>degeli</def></ar>
+<ar><k>твёрдый, застывший</k><def>rigida</def></ar>
+<ar><k>твёрдый</k><def>solida</def></ar>
+<ar><k>творение</k><def>kreaĵo</def></ar>
+<ar><k>театр</k><def>teatro</def></ar>
+<ar><k>тезис</k><def>tezo</def></ar>
+<ar><k>текст</k><def>teksto</def></ar>
+<ar><k>тектоника</k><def>tektoniko</def></ar>
+<ar><k>телевидение</k><def>televido</def></ar>
+<ar><k>телеграмма</k><def>telegramo</def></ar>
+<ar><k>телефон</k><def>telefono</def></ar>
+<ar><k>тело</k><def>korpo</def></ar>
+<ar><k>тело, плоть</k><def>korpo, karno</def></ar>
+<ar><k>тема</k><def>temo</def></ar>
+<ar><k>тембр</k><def>tembro</def></ar>
+<ar><k>тёмный</k><def>malhela</def></ar>
+<ar><k>темп, скорость</k><def>tempo, rapideco</def></ar>
+<ar><k>темперамент</k><def>temperamento</def></ar>
+<ar><k>температура</k><def>temperaturo</def></ar>
+<ar><k>тенденция</k><def>tendenco</def></ar>
+<ar><k>теннис</k><def>teniso</def></ar>
+<ar><k>тень</k><def>ombro</def></ar>
+<ar><k>теория, учение, доктрина</k><def>teorio, doktrino</def></ar>
+<ar><k>теперь</k><def>nun</def></ar>
+<ar><k>тёплый</k><def>varma</def></ar>
+<ar><k>терапия</k><def>terapio</def></ar>
+<ar><k>терзать, огорчать</k><def>aflikti, ĉagreni</def></ar>
+<ar><k>термин</k><def>termino</def></ar>
+<ar><k>терминология</k><def>terminologio</def></ar>
+<ar><k>терпеливый</k><def>pacienca</def></ar>
+<ar><k>терпение</k><def>pacienco</def></ar>
+<ar><k>терпеть, переносить</k><def>toleri</def></ar>
+<ar><k>территория</k><def>teritorio</def></ar>
+<ar><k>терять сознание</k><def>senkonsciiĝi</def></ar>
+<ar><k>тестировать</k><def>testi, kontroli</def></ar>
+<ar><k>техника</k><def>tekniko</def></ar>
+<ar><k>течь</k><def>flui</def></ar>
+<ar><k>тиран</k><def>tirano</def></ar>
+<ar><k>тирания</k><def>tiranio</def></ar>
+<ar><k>титан</k><def>titano</def></ar>
+<ar><k>титул, заглавие</k><def>titolo</def></ar>
+<ar><k>тихий, мягкий звук</k><def>softa sono</def></ar>
+<ar><k>тихий</k><def>mallaŭta, silenta</def></ar>
+<ar><k>ткань</k><def>teksaĵo</def></ar>
+<ar><k>то, тот</k><def>tio, tiu</def></ar>
+<ar><k>товарищ</k><def>kamarado</def></ar>
+<ar><k>толкать, пихать, совать</k><def>puŝi, ŝovi</def></ar>
+<ar><k>толстый, пухлый</k><def>dika</def></ar>
+<ar><k>только</k><def>nur</def></ar>
+<ar><k>только что</k><def>ĵus</def></ar>
+<ar><k>том</k><def>volumo</def></ar>
+<ar><k>томат</k><def>tomata pasto</def></ar>
+<ar><k>тонкий</k><def>maldika</def></ar>
+<ar><k>тонкий, нежный</k><def>subtila, minca, tenera</def></ar>
+<ar><k>топтать, мять, давить</k><def>treti</def></ar>
+<ar><k>торжественное открытие</k><def>inaŭguro</def></ar>
+<ar><k>торжественность</k><def>soleneco</def></ar>
+<ar><k>торжественный</k><def>solena</def></ar>
+<ar><k>тормоз</k><def>bremso</def></ar>
+<ar><k>торопить</k><def>rapidigi</def></ar>
+<ar><k>тосковать</k><def>sopiri</def></ar>
+<ar><k>тост</k><def>tosto</def></ar>
+<ar><k>тот</k><def>tiu</def></ar>
+<ar><k>тот</k><def>tiu ĉi</def></ar>
+<ar><k>точка, место</k><def>punkto</def></ar>
+<ar><k>точный</k><def>ekzakta</def></ar>
+<ar><k>точный, определенный</k><def>preciza, certa</def></ar>
+<ar><k>тошнить</k><def>naŭzi</def></ar>
+<ar><k>трава</k><def>herbo</def></ar>
+<ar><k>трагедия</k><def>tragedio</def></ar>
+<ar><k>трагический</k><def>tragika</def></ar>
+<ar><k>традиция</k><def>tradicio</def></ar>
+<ar><k>трактор</k><def>traktoro</def></ar>
+<ar><k>трамвай</k><def>tramo</def></ar>
+<ar><k>транспорт, движение</k><def>trafiko</def></ar>
+<ar><k>траур</k><def>funebro</def></ar>
+<ar><k>требовать</k><def>postuli</def></ar>
+<ar><k>тревога, беспокойство</k><def>angoro</def></ar>
+<ar><k>тревога, сигнал тревоги</k><def>alarmo</def></ar>
+<ar><k>трезвый</k><def>sobra</def></ar>
+<ar><k>тренировать</k><def>trejni</def></ar>
+<ar><k>трепетать</k><def>skuiĝi, tremi</def></ar>
+<ar><k>три</k><def>tri</def></ar>
+<ar><k>триумф, торжество</k><def>triumfo</def></ar>
+<ar><k>троллейбус</k><def>trolebuso</def></ar>
+<ar><k>тропик</k><def>tropiko</def></ar>
+<ar><k>тростник</k><def>kano</def></ar>
+<ar><k>труба (муз. инструмент)</k><def>trumpeto</def></ar>
+<ar><k>трудиться</k><def>labori</def></ar>
+<ar><k>трудолюбивый, прилежный</k><def>diligenta</def></ar>
+<ar><k>труп</k><def>kadavro</def></ar>
+<ar><k>тряпка, лоскут</k><def>ĉifono</def></ar>
+<ar><k>трясти, встряхивать, шевелить</k><def>skui, movi</def></ar>
+<ar><k>туда</k><def>tien</def></ar>
+<ar><k>туловище, ствол</k><def>trunko</def></ar>
+<ar><k>туман</k><def>nebulo</def></ar>
+<ar><k>туннель</k><def>tunelo</def></ar>
+<ar><k>турист</k><def>turisto</def></ar>
+<ar><k>тусклый, пасмурный</k><def>malhela, nuboza</def></ar>
+<ar><k>туфли</k><def>ŝuoj</def></ar>
+<ar><k>тщетный</k><def>vana</def></ar>
+<ar><k>ты</k><def>vi, ci</def></ar>
+<ar><k>тыква</k><def>kukurbo</def></ar>
+<ar><k>тысяча</k><def>mil</def></ar>
+<ar><k>тюлень</k><def>foko</def></ar>
+<ar><k>тюремная камера</k><def>ĉelo</def></ar>
+<ar><k>тюремный надзиратель</k><def>provoso</def></ar>
+<ar><k>тюрьма</k><def>malliberejo</def></ar>
+<ar><k>тяготеть</k><def>graviti</def></ar>
+<ar><k>тяжёлый, сложный</k><def>peza, komplika</def></ar>
+<ar><k>тянуть, черпать, извлекать</k><def>tiri, ĉerpi</def></ar>
+<ar><k>убаюкивать, укачивать</k><def>luli</def></ar>
+<ar><k>убеждать, уверять</k><def>konvinki, aserti</def></ar>
+<ar><k>убеждать, уговаривать</k><def>persvadi</def></ar>
+<ar><k>убивать</k><def>murdi</def></ar>
+<ar><k>уважать, ценить</k><def>estimi</def></ar>
+<ar><k>увечный, искалеченный</k><def>kripla</def></ar>
+<ar><k>увещевать, делать замечание</k><def>admoni</def></ar>
+<ar><k>увы</k><def>ve</def></ar>
+<ar><k>угадать, разгадать</k><def>diveni</def></ar>
+<ar><k>угол</k><def>angulo</def></ar>
+<ar><k>уголь</k><def>karbo</def></ar>
+<ar><k>ударение, усиление</k><def>akcento</def></ar>
+<ar><k>удачный случай</k><def>ŝanco</def></ar>
+<ar><k>удивление, сюрприз</k><def>miro, surprizo</def></ar>
+<ar><k>удивлять, поражать</k><def>surprizi</def></ar>
+<ar><k>удивляться, изумляться, поражаться</k><def>miri</def></ar>
+<ar><k>удобный</k><def>oportuna</def></ar>
+<ar><k>удобрение</k><def>sterko</def></ar>
+<ar><k>удовлетворить</k><def>kontentigi</def></ar>
+<ar><k>удовольствие</k><def>plezuro</def></ar>
+<ar><k>ужас</k><def>teruro, hororo</def></ar>
+<ar><k>уже</k><def>jam</def></ar>
+<ar><k>узаконить, удостоверить</k><def>legitimi</def></ar>
+<ar><k>узда</k><def>brido</def></ar>
+<ar><k>узкий</k><def>streta</def></ar>
+<ar><k>узурпировать</k><def>uzurpi</def></ar>
+<ar><k>указ, приговор, вердикт</k><def>ukazo, verdikto</def></ar>
+<ar><k>украшать, наряжать</k><def>ornami</def></ar>
+<ar><k>укрывать</k><def>ŝirmi</def></ar>
+<ar><k>уксус</k><def>vinagro</def></ar>
+<ar><k>улица</k><def>strato</def></ar>
+<ar><k>улыбаться</k><def>rideti, smajli</def></ar>
+<ar><k>ультиматум</k><def>ultimato</def></ar>
+<ar><k>ультра</k><def>ultra</def></ar>
+<ar><k>ум, интеллект</k><def>racio, intelekto</def></ar>
+<ar><k>умeрeть, скончаться</k><def>morti, forpasi</def></ar>
+<ar><k>умелый, талантливый</k><def>kapabla, talenta</def></ar>
+<ar><k>умеренный</k><def>milda</def></ar>
+<ar><k>умирать, гаснуть</k><def>morti, estingiĝi</def></ar>
+<ar><k>умный</k><def>saĝa</def></ar>
+<ar><k>унаби</k><def>zizifo</def></ar>
+<ar><k>унижаться</k><def>humiliĝi</def></ar>
+<ar><k>униженный</k><def>humiligita</def></ar>
+<ar><k>унисон, согласие</k><def>unisono</def></ar>
+<ar><k>униформа, мундир</k><def>uniformo</def></ar>
+<ar><k>уподоблять</k><def>asimili, similigi</def></ar>
+<ar><k>управлять</k><def>administri</def></ar>
+<ar><k>управлять транспортом</k><def>stiri</def></ar>
+<ar><k>упражнение, тренировка</k><def>ekzerco</def></ar>
+<ar><k>упражнять, тренировать</k><def>ekzerci</def></ar>
+<ar><k>упрекать, делать выговор</k><def>riproĉi</def></ar>
+<ar><k>упругий, гибкий</k><def>elasta</def></ar>
+<ar><k>упрямый</k><def>obstina</def></ar>
+<ar><k>ура</k><def>hura</def></ar>
+<ar><k>урна</k><def>urno</def></ar>
+<ar><k>уровень</k><def>nivelo</def></ar>
+<ar><k>урожай</k><def>rikolto</def></ar>
+<ar><k>усваивать</k><def>asimili</def></ar>
+<ar><k>усердный, ревностный</k><def>fervora</def></ar>
+<ar><k>ускорять, усиливать</k><def>akceli</def></ar>
+<ar><k>условие</k><def>kondiĉo</def></ar>
+<ar><k>условия, обстановка</k><def>kondiĉoj</def></ar>
+<ar><k>успевать, иметь успех</k><def>sukcesi</def></ar>
+<ar><k>успокоить</k><def>trankviligi</def></ar>
+<ar><k>уставший, усталый, изнурённый</k><def>laca</def></ar>
+<ar><k>усталый, погибший</k><def>laca, pereinto</def></ar>
+<ar><k>устанавливать</k><def>determini</def></ar>
+<ar><k>установить, оборудовать</k><def>instali</def></ar>
+<ar><k>устремляться, порываться</k><def>impeti</def></ar>
+<ar><k>устроить, организовать</k><def>aranĝi, organizi</def></ar>
+<ar><k>уступать, смириться</k><def>cedi</def></ar>
+<ar><k>усыновить, одобрять</k><def>adopti</def></ar>
+<ar><k>утвердить, подтверждать</k><def>konfirmi</def></ar>
+<ar><k>утверждать</k><def>aserti</def></ar>
+<ar><k>утешать</k><def>konsoli</def></ar>
+<ar><k>утка</k><def>anaso</def></ar>
+<ar><k>утомлять</k><def>lacigi</def></ar>
+<ar><k>утончённый</k><def>rafinita</def></ar>
+<ar><k>утопать, тонуть</k><def>droni</def></ar>
+<ar><k>утренняя заря</k><def>aŭroro</def></ar>
+<ar><k>утро</k><def>mateno</def></ar>
+<ar><k>ухаживать, выхаживать</k><def>flegi</def></ar>
+<ar><k>ученик</k><def>disĉiplo</def></ar>
+<ar><k>учитель, педагог</k><def>instruisto</def></ar>
+<ar><k>учиться, изучать</k><def>lerni, studi</def></ar>
+<ar><k>учреждение</k><def>institucio</def></ar>
+<ar><k>фабрика, завод</k><def>fabriko, uzino</def></ar>
+<ar><k>факт</k><def>fakto</def></ar>
+<ar><k>фактор</k><def>faktoro</def></ar>
+<ar><k>фактура, накладная</k><def>fakturo</def></ar>
+<ar><k>факультет</k><def>fakultato</def></ar>
+<ar><k>фальшивый, неверный</k><def>falsa</def></ar>
+<ar><k>фамилия</k><def>familinomo</def></ar>
+<ar><k>фамильярный</k><def>familiara</def></ar>
+<ar><k>фанатик</k><def>zeloto</def></ar>
+<ar><k>фантазия, воображение</k><def>fantazio</def></ar>
+<ar><k>фантастический</k><def>fantasta</def></ar>
+<ar><k>фанфара</k><def>fanfaro</def></ar>
+<ar><k>фашизм</k><def>faŝismo</def></ar>
+<ar><k>фашист</k><def>faŝisto</def></ar>
+<ar><k>февраль</k><def>februaro</def></ar>
+<ar><k>федерация</k><def>federacio</def></ar>
+<ar><k>феномен</k><def>fenomeno</def></ar>
+<ar><k>феодальный</k><def>feŭda</def></ar>
+<ar><k>ферма</k><def>farmo</def></ar>
+<ar><k>фестиваль</k><def>festivalo</def></ar>
+<ar><k>фибра, жилка</k><def>fibro</def></ar>
+<ar><k>физика</k><def>fiziko</def></ar>
+<ar><k>физиология</k><def>fiziologio</def></ar>
+<ar><k>физический недостаток</k><def>handikapo</def></ar>
+<ar><k>фикция, вымысел</k><def>fikcio</def></ar>
+<ar><k>филателия</k><def>filatelo</def></ar>
+<ar><k>филиал</k><def>filio</def></ar>
+<ar><k>филолог</k><def>filologo</def></ar>
+<ar><k>филология</k><def>filologio</def></ar>
+<ar><k>философ</k><def>filоzofo</def></ar>
+<ar><k>философия</k><def>filozofio</def></ar>
+<ar><k>фильм</k><def>filmo</def></ar>
+<ar><k>финансы, денежные средства</k><def>financo</def></ar>
+<ar><k>фирма</k><def>firmao</def></ar>
+<ar><k>флаг, знамя</k><def>flago, standardo</def></ar>
+<ar><k>флиртовать, развлекаться</k><def>flirti</def></ar>
+<ar><k>фокус</k><def>fokuso</def></ar>
+<ar><k>фольклор</k><def>folkloro</def></ar>
+<ar><k>фон</k><def>fono</def></ar>
+<ar><k>фонарь</k><def>lanterno</def></ar>
+<ar><k>фонема</k><def>fonemo</def></ar>
+<ar><k>фонетика</k><def>fonetiko</def></ar>
+<ar><k>фонология</k><def>fonologio</def></ar>
+<ar><k>форма, модель, тип</k><def>formo, modelo, tipo</def></ar>
+<ar><k>формальный, официальный</k><def>formala, oficiala</def></ar>
+<ar><k>формация</k><def>formacio</def></ar>
+<ar><k>формула</k><def>formulo</def></ar>
+<ar><k>фортепиано</k><def>piano</def></ar>
+<ar><k>фортуна</k><def>fortuno</def></ar>
+<ar><k>форум</k><def>forumo</def></ar>
+<ar><k>фотографировать</k><def>foti</def></ar>
+<ar><k>фотография, портрет</k><def>fotaĵo, portreto</def></ar>
+<ar><k>фрагмент, отрывок, обломок</k><def>fragmento</def></ar>
+<ar><k>фраза, выражение</k><def>frazo</def></ar>
+<ar><k>фразеология</k><def>frazeologio</def></ar>
+<ar><k>фрак</k><def>frako</def></ar>
+<ar><k>фронт</k><def>fronto</def></ar>
+<ar><k>фрукт, плод</k><def>frukto</def></ar>
+<ar><k>функционировать, работать</k><def>funkcii</def></ar>
+<ar><k>функция</k><def>funkcio</def></ar>
+<ar><k>фураж</k><def>furaĝo</def></ar>
+<ar><k>фурор</k><def>furoro</def></ar>
+<ar><k>халат</k><def>ĥalato</def></ar>
+<ar><k>хамелеон</k><def>ĥameleono</def></ar>
+<ar><k>хан</k><def>ĥano</def></ar>
+<ar><k>ханство</k><def>ĥanlando</def></ar>
+<ar><k>хаос</k><def>kaoso (haoso)</def></ar>
+<ar><k>характер, глагол</k><def>karaktero, verbo</def></ar>
+<ar><k>характеризовать</k><def>karakterizi</def></ar>
+<ar><k>хата</k><def>ĥato</def></ar>
+<ar><k>хвалить, восхвалять</k><def>laŭdi</def></ar>
+<ar><k>хвастаться</k><def>fanfaroni</def></ar>
+<ar><k>химия</k><def>kemio (ĥemio)</def></ar>
+<ar><k>хирургия</k><def>ĥirurgio</def></ar>
+<ar><k>хитрый</k><def>ruza</def></ar>
+<ar><k>хладнокровный</k><def>flegmeca</def></ar>
+<ar><k>хлеб</k><def>pano</def></ar>
+<ar><k>хлопать</k><def>klaki</def></ar>
+<ar><k>хлопок</k><def>kotono</def></ar>
+<ar><k>хлопотать</k><def>klopodi</def></ar>
+<ar><k>хлюпать, чмокать, чавкать</k><def>ŝmaci</def></ar>
+<ar><k>хмель</k><def>lupolo</def></ar>
+<ar><k>ходить, идти</k><def>iri</def></ar>
+<ar><k>ходить, прохаживаться</k><def>paŝi, promeni</def></ar>
+<ar><k>хозяин, владелец</k><def>mastro, posedanto</def></ar>
+<ar><k>холера</k><def>ĥolero</def></ar>
+<ar><k>холм</k><def>monteto</def></ar>
+<ar><k>холодный</k><def>malvarma, frida</def></ar>
+<ar><k>хор</k><def>ĥoro</def></ar>
+<ar><k>хорал</k><def>ĥoralo</def></ar>
+<ar><k>хорда</k><def>ĥordo</def></ar>
+<ar><k>хороший, доброкачественный</k><def>bona</def></ar>
+<ar><k>хотеть, желать</k><def>voli, deziri</def></ar>
+<ar><k>хотя</k><def>kvankam</def></ar>
+<ar><k>храпеть</k><def>ronki</def></ar>
+<ar><k>хрестоматия</k><def>krestomatio</def></ar>
+<ar><k>хрип, хрипение</k><def>stertoro</def></ar>
+<ar><k>хриплый</k><def>raŭka</def></ar>
+<ar><k>хрюкать</k><def>grunti</def></ar>
+<ar><k>художественная литература</k><def>beletro</def></ar>
+<ar><k>хулиган</k><def>huligano</def></ar>
+<ar><k>царь, король</k><def>caro, reĝo</def></ar>
+<ar><k>цвет, колорит, окраска</k><def>koloro</def></ar>
+<ar><k>цезарь, император</k><def>cezaro, imperatoro</def></ar>
+<ar><k>целовать</k><def>kisi</def></ar>
+<ar><k>цель, пункт назначения</k><def>celo</def></ar>
+<ar><k>цемент</k><def>cemento</def></ar>
+<ar><k>цена</k><def>prezo</def></ar>
+<ar><k>цензурировать</k><def>cenzuri</def></ar>
+<ar><k>ценность</k><def>valoro</def></ar>
+<ar><k>центр</k><def>centro</def></ar>
+<ar><k>церемониальный</k><def>ceremonia</def></ar>
+<ar><k>цивилизация</k><def>civilizo</def></ar>
+<ar><k>цикл</k><def>ciklo</def></ar>
+<ar><k>цимбалы</k><def>cimbalo</def></ar>
+<ar><k>цинично</k><def>cinike</def></ar>
+<ar><k>цинк</k><def>zinko</def></ar>
+<ar><k>цирк</k><def>cirko</def></ar>
+<ar><k>циркулировать</k><def>cirkuli</def></ar>
+<ar><k>цифра, номер</k><def>cifero, numero</def></ar>
+<ar><k>цунами</k><def>cunamo</def></ar>
+<ar><k>чавкать</k><def>ŝmaci</def></ar>
+<ar><k>чай</k><def>teo</def></ar>
+<ar><k>час, часы</k><def>horo, horloĝo</def></ar>
+<ar><k>частное</k><def>kvociento</def></ar>
+<ar><k>часто посещать</k><def>frekventi</def></ar>
+<ar><k>часть, квота, доля</k><def>parto, kvoto</def></ar>
+<ar><k>чашка</k><def>taso</def></ar>
+<ar><k>чашка, тарелка</k><def>taso, telero</def></ar>
+<ar><k>чей</k><def>kies</def></ar>
+<ar><k>чей-то, чей-нибудь</k><def>ies</def></ar>
+<ar><k>человек</k><def>homo</def></ar>
+<ar><k>человек, персона</k><def>homo, persono</def></ar>
+<ar><k>человеколюбивый</k><def>humana</def></ar>
+<ar><k>чем</k><def>ju</def></ar>
+<ar><k>чем (при сравнении)</k><def>ol</def></ar>
+<ar><k>чемодан</k><def>valizo</def></ar>
+<ar><k>чемпион</k><def>ĉampiono</def></ar>
+<ar><k>червь</k><def>vermo</def></ar>
+<ar><k>чередоваться</k><def>alterni</def></ar>
+<ar><k>черепаха</k><def>testudo</def></ar>
+<ar><k>черепица</k><def>tegolo</def></ar>
+<ar><k>чёрный</k><def>nigra</def></ar>
+<ar><k>чертить</k><def>desegni</def></ar>
+<ar><k>черты лица</k><def>trajto</def></ar>
+<ar><k>чеснок</k><def>ajlo</def></ar>
+<ar><k>чествовать, праздновать</k><def>celebri</def></ar>
+<ar><k>честный</k><def>honesta</def></ar>
+<ar><k>честь, достоинство</k><def>digno</def></ar>
+<ar><k>четверг</k><def>ĵaŭdo</def></ar>
+<ar><k>чётки</k><def>rozario</def></ar>
+<ar><k>чёткий</k><def>klara, preciza</def></ar>
+<ar><k>четыре</k><def>kvar</def></ar>
+<ar><k>чирей, фурункул</k><def>furunko</def></ar>
+<ar><k>чистить, рафинировать</k><def>purigi, rafini</def></ar>
+<ar><k>чистый</k><def>pura</def></ar>
+<ar><k>чистый (о весе, доходе)</k><def>neta</def></ar>
+<ar><k>читать мораль</k><def>instrui pri moralo</def></ar>
+<ar><k>читать, учиться</k><def>legi, lerni</def></ar>
+<ar><k>член, орган</k><def>membro, organo</def></ar>
+<ar><k>членский взнос, доля</k><def>kotizo</def></ar>
+<ar><k>что</k><def>kio</def></ar>
+<ar><k>что-то, что-нибудь</k><def>io</def></ar>
+<ar><k>чувство меры</k><def>takto</def></ar>
+<ar><k>чувствовать</k><def>senti</def></ar>
+<ar><k>чувствовать себя</k><def>farti</def></ar>
+<ar><k>чувствовать, ощущать</k><def>senti, percepti</def></ar>
+<ar><k>чудо</k><def>miraklo</def></ar>
+<ar><k>чулок</k><def>ŝtrumpo</def></ar>
+<ar><k>чума</k><def>pesto</def></ar>
+<ar><k>чурбан</k><def>ŝtipo</def></ar>
+<ar><k>шаблон, трафарет, штамп</k><def>ŝablono</def></ar>
+<ar><k>шакал</k><def>ŝakalo</def></ar>
+<ar><k>шар, глобус, сфера</k><def>balono, globo, sfero</def></ar>
+<ar><k>шарлатан</k><def>ĉarlatano</def></ar>
+<ar><k>шаровары, панталоны</k><def>kalsono, pantalono</def></ar>
+<ar><k>шахматы</k><def>ŝako</def></ar>
+<ar><k>шашлык</k><def>ŝaŝliko</def></ar>
+<ar><k>швабра</k><def>ŝvabro</def></ar>
+<ar><k>шевелить, раскачивать</k><def>movigi, balanciigi</def></ar>
+<ar><k>шелестеть, шуршать</k><def>susuri</def></ar>
+<ar><k>шёлк</k><def>silko</def></ar>
+<ar><k>шептать, шелестеть</k><def>flustri</def></ar>
+<ar><k>шерсть</k><def>lano</def></ar>
+<ar><k>шесть</k><def>ses</def></ar>
+<ar><k>шея</k><def>kolo</def></ar>
+<ar><k>шкала, масштаб</k><def>skalo</def></ar>
+<ar><k>шкаф</k><def>ŝranko</def></ar>
+<ar><k>школа (в науке, литературе)</k><def>skolo</def></ar>
+<ar><k>шкура, кожа, кора, корка</k><def>felo, haŭto, krusto</def></ar>
+<ar><k>шляпа, знак ^ в эсперанто</k><def>ĉapelo</def></ar>
+<ar><k>шмель</k><def>burdo</def></ar>
+<ar><k>шнур, верёвка</k><def>ŝnuro</def></ar>
+<ar><k>шнурок</k><def>ŝulaĉo</def></ar>
+<ar><k>шовинизм</k><def>ŝovinismo</def></ar>
+<ar><k>шовинист</k><def>ŝovinisto</def></ar>
+<ar><k>шокировать, коробить</k><def>ŝoki</def></ar>
+<ar><k>шоколад</k><def>ĉokolado</def></ar>
+<ar><k>шоссе</k><def>ŝoseo</def></ar>
+<ar><k>шпора</k><def>sprono</def></ar>
+<ar><k>штамп, клеймо</k><def>stampo</def></ar>
+<ar><k>штатский</k><def>civila</def></ar>
+<ar><k>шторм, ураган</k><def>ŝtormo, uragano</def></ar>
+<ar><k>штукатурить</k><def>ŝtuki</def></ar>
+<ar><k>штурмовать, нападать</k><def>sturmi</def></ar>
+<ar><k>шуба, выделанный мех</k><def>pelto</def></ar>
+<ar><k>шуметь</k><def>brui</def></ar>
+<ar><k>шутить, резвиться, шалить</k><def>ŝerci, petoli</def></ar>
+<ar><k>шутка</k><def>ŝerco</def></ar>
+<ar><k>щека</k><def>vango</def></ar>
+<ar><k>щекотать</k><def>tikli</def></ar>
+<ar><k>щётка</k><def>broso</def></ar>
+<ar><k>щипать</k><def>pinĉi</def></ar>
+<ar><k>эволюция</k><def>evolu(ci)o</def></ar>
+<ar><k>эвфемизм</k><def>eŭfemismo</def></ar>
+<ar><k>эгоизм</k><def>egoismo</def></ar>
+<ar><k>эгоист</k><def>egoisto</def></ar>
+<ar><k>экзаменовать</k><def>ekzameni</def></ar>
+<ar><k>экземпляр, копия</k><def>ekzemplero, kopio</def></ar>
+<ar><k>экзотический</k><def>ekzot(ik)a</def></ar>
+<ar><k>экипировать</k><def>ekipi</def></ar>
+<ar><k>экология</k><def>ekologio</def></ar>
+<ar><k>экономить</k><def>elspezi ŝpareme</def></ar>
+<ar><k>экономия</k><def>ekonomio</def></ar>
+<ar><k>экран, ширма</k><def>ekrano</def></ar>
+<ar><k>эксперимент</k><def>eksperimento</def></ar>
+<ar><k>эксплуатировать</k><def>ekspluati</def></ar>
+<ar><k>экспонировать</k><def>eksponi</def></ar>
+<ar><k>экстремальный</k><def>ekstrema</def></ar>
+<ar><k>эксцесс, излишество</k><def>eksceso</def></ar>
+<ar><k>элегия</k><def>elegio</def></ar>
+<ar><k>электричество</k><def>elektro</def></ar>
+<ar><k>элемент</k><def>elemento</def></ar>
+<ar><k>эликсир</k><def>eleksiro</def></ar>
+<ar><k>элита</k><def>elito</def></ar>
+<ar><k>эллипс</k><def>elipso</def></ar>
+<ar><k>эмблема</k><def>emblemo</def></ar>
+<ar><k>эмоция, волнение, чувство</k><def>emocio</def></ar>
+<ar><k>эмфаза, напряженность</k><def>emfazo</def></ar>
+<ar><k>энергия</k><def>energio</def></ar>
+<ar><k>энтузиазм</k><def>entuziazmo</def></ar>
+<ar><k>энциклопедия</k><def>enciklopedio</def></ar>
+<ar><k>эпидемия, мор</k><def>epidemio, plago</def></ar>
+<ar><k>эпитет</k><def>epiteto</def></ar>
+<ar><k>эрудиция</k><def>erudicio</def></ar>
+<ar><k>эсперантист</k><def>esperantist</def></ar>
+<ar><k>эсперанто</k><def>esperanto</def></ar>
+<ar><k>эсперантолог</k><def>esperantologo</def></ar>
+<ar><k>эсперантология</k><def>esperantologio</def></ar>
+<ar><k>эссе</k><def>eseo</def></ar>
+<ar><k>эстафета</k><def>stafeto</def></ar>
+<ar><k>эстетика</k><def>estetiko</def></ar>
+<ar><k>эстрадное представление</k><def>varieteo</def></ar>
+<ar><k>этаж</k><def>etaĝo</def></ar>
+<ar><k>этап</k><def>etapo</def></ar>
+<ar><k>этикет, церемониал</k><def>etiketo</def></ar>
+<ar><k>этнос</k><def>etno</def></ar>
+<ar><k>это (обозначение близости)</k><def>ĉi</def></ar>
+<ar><k>эфир</k><def>etero</def></ar>
+<ar><k>эффект, впечатление</k><def>efekto, impreso</def></ar>
+<ar><k>эффективный</k><def>efektiva</def></ar>
+<ar><k>эхо</k><def>eĥo</def></ar>
+<ar><k>юбилей, годовщина</k><def>jubileo</def></ar>
+<ar><k>юбка</k><def>jupo</def></ar>
+<ar><k>юг</k><def>sudo</def></ar>
+<ar><k>юноша, молодой</k><def>fraŭlo, juna</def></ar>
+<ar><k>юный</k><def>adoleska</def></ar>
+<ar><k>юный, молодой</k><def>juna</def></ar>
+<ar><k>юридический процесс</k><def>proceso</def></ar>
+<ar><k>юрист</k><def>juristo</def></ar>
+<ar><k>я</k><def>mi</def></ar>
+<ar><k>яблоко</k><def>pomo</def></ar>
+<ar><k>явление</k><def>fenomeno</def></ar>
+<ar><k>ягода</k><def>bero</def></ar>
+<ar><k>ядро атома</k><def>nukleo</def></ar>
+<ar><k>язва</k><def>ulcero</def></ar>
+<ar><k>язык (анатом. понятие)</k><def>lango</def></ar>
+<ar><k>язык (средство общения)</k><def>lingvo</def></ar>
+<ar><k>языкознание</k><def>lingvistiko</def></ar>
+<ar><k>яйцо, семя</k><def>ovo, semo</def></ar>
+<ar><k>яма, впадина, глубина</k><def>kavo</def></ar>
+<ar><k>январь</k><def>januaro</def></ar>
+<ar><k>янтарь</k><def>sukceno</def></ar>
+<ar><k>ярмарка</k><def>foiro</def></ar>
+<ar><k>ярмо</k><def>jugo</def></ar>
+<ar><k>ящерица</k><def>lacerto</def></ar>
+<ar><k>Об авторе:</k><def>Шукуров Фирдаус родился 17 декабря 1947 года*. Окончив школу, он поступил на механико-математический факультет университета в Душанбе, это был первый набор на вновь созданный факультет. Закончив университет, он работал программистом сначала в Математическом институте г. Душанбе, а затем был приглашён в Москву на ВЦ Академии Наук СССР, как лучший программист Таджикистана, где проработал год.
+
+В настоящее время работает преподавателем в университете. Фирдаус вносит огромный вклад в дело пропаганды языка эсперанто. Он занимается этим языком очень давно, постоянно ведёт курсы языка в Клубе эсперантистов своего города, имеет многочисленных учеников. Принимал участие в издании многих пособий, словарей и учебников по эсперанто. Фирдаус участвовал в выпуске электронного журнала "Esperanto новости". Он настоящий энтузиаст этого дела.
+
+<img src="image/Shukurov.jpg" />
+Фирдаус прекрасно владеет русским, таджикским, немецким, английским и эсперанто. Причём владеет не только разговорным русским, как многие его соотечественники, но и очень грамотно пишет по-русски. Он утверждает, что язык эсперанто очень легко изучить. Кроме того, знание языка эсперанто очень помогает в изучении других языков, таких как: английский, немецкий, французский, испанский и итальянский.
+
+Наталия Макарова (двоюродная сестра). Саратов.
+
+*К сожалению, на момент вёрстки словаря в формат XDXF Фирдаус Шукуров умер.</def></ar>
+
+</lexicon>
+</xdxf>
